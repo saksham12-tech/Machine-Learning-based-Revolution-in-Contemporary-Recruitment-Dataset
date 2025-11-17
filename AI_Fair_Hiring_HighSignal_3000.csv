@@ -1,0 +1,3001 @@
+applicant_id,education_level,experience_years,skills_score,certifications,interview_score,gender,age,ethnicity,ai_assessment_score,previous_company_reputation,target,ai_confidence
+1,Masters,14,74.97,0,5.2,Male,59,Group_A,73.96,2,1,0.99
+2,Bachelors,2,68.62,1,5.8,Female,24,Group_B,65.46,3,1,0.968
+3,PhD,19,76.48,3,7.2,Female,29,Group_C,71.77,4,1,0.953
+4,Bachelors,12,85.23,4,10.0,Male,59,Group_D,85.57,5,1,0.997
+5,Masters,7,67.66,3,7.4,Male,35,Group_B,69.77,3,1,0.979
+6,Masters,6,67.66,1,5.2,Female,29,Group_D,71.84,2,1,0.958
+7,Bachelors,7,85.79,0,9.2,Female,32,Group_A,85.41,3,1,0.996
+8,Masters,17,77.67,0,5.9,Male,54,Group_B,73.08,4,1,0.954
+9,Bachelors,8,65.31,0,7.8,Female,36,Group_A,73.21,4,1,0.921
+10,Bachelors,5,75.43,3,7.0,Male,58,Group_A,76.33,3,1,0.991
+11,High School,3,65.37,2,6.4,Female,35,Group_D,65.07,2,1,0.997
+12,Bachelors,14,65.34,2,8.1,Male,47,Group_C,70.62,2,1,0.947
+13,Masters,4,72.42,0,5.7,Male,29,Group_A,77.76,3,1,0.947
+14,PhD,4,50.87,5,3.4,Male,25,Group_A,61.43,3,1,0.894
+15,Bachelors,6,52.75,2,4.6,Male,57,Group_A,57.98,3,1,0.948
+16,Bachelors,8,64.38,1,7.7,Female,39,Group_A,62.63,2,1,0.982
+17,High School,6,59.87,2,4.2,Female,48,Group_C,70.76,2,1,0.891
+18,Masters,8,73.14,3,3.9,Male,40,Group_B,77.06,2,1,0.961
+19,PhD,19,60.92,3,5.6,Female,24,Group_B,60.18,5,1,0.993
+20,Bachelors,9,55.88,1,6.2,Male,30,Group_A,64.37,3,1,0.915
+21,Bachelors,3,84.66,4,9.9,Male,23,Group_A,92.03,1,1,0.926
+22,Bachelors,5,67.74,4,6.2,Female,30,Group_B,69.74,2,1,0.98
+23,High School,13,70.68,0,6.6,Female,27,Group_C,83.14,4,1,0.875
+24,Masters,8,55.75,3,7.0,Male,59,Group_D,56.99,2,1,0.988
+25,Bachelors,0,64.56,3,4.2,Male,49,Group_A,69.06,2,1,0.955
+26,Masters,16,71.11,2,6.6,Female,55,Group_A,73.98,5,1,0.971
+27,Masters,12,58.49,3,6.1,Male,50,Group_A,67.23,3,1,0.913
+28,Masters,6,73.76,2,7.9,Female,24,Group_A,69.13,2,1,0.954
+29,Masters,8,63.99,8,5.8,Female,37,Group_A,55.24,3,1,0.912
+30,PhD,10,67.08,2,6.7,Male,56,Group_D,67.1,3,1,1.0
+31,PhD,2,63.98,1,3.4,Male,32,Group_C,58.41,2,1,0.944
+32,Bachelors,11,88.52,1,8.1,Female,44,Group_A,87.85,3,1,0.993
+33,High School,20,69.87,0,7.5,Male,51,Group_B,75.74,4,1,0.941
+34,Bachelors,2,59.42,0,4.8,Male,26,Group_A,58.08,3,1,0.987
+35,Masters,14,78.23,1,7.9,Female,29,Group_A,74.02,4,1,0.958
+36,High School,20,57.79,0,6.3,Female,31,Group_B,58.14,3,1,0.996
+37,High School,9,72.09,1,6.8,Male,49,Group_B,78.02,2,1,0.941
+38,High School,0,50.4,3,5.2,Female,57,Group_B,41.93,2,0,0.915
+39,Masters,13,56.72,1,4.5,Female,31,Group_D,60.82,3,1,0.959
+40,Bachelors,19,71.97,1,6.9,Male,35,Group_B,78.65,4,1,0.933
+41,Bachelors,5,77.38,1,8.5,Male,59,Group_A,87.45,2,1,0.899
+42,High School,1,71.71,1,7.4,Female,58,Group_B,77.81,1,1,0.939
+43,Masters,7,68.84,1,6.2,Male,26,Group_A,84.88,3,1,0.84
+44,Bachelors,0,66.99,4,7.0,Male,27,Group_B,68.68,2,1,0.983
+45,Bachelors,3,55.21,2,6.4,Female,51,Group_B,55.76,3,1,0.994
+46,Masters,3,62.8,2,3.8,Female,40,Group_D,60.72,3,1,0.979
+47,Bachelors,4,65.39,1,7.9,Female,35,Group_D,65.4,2,1,1.0
+48,Bachelors,19,80.57,1,7.7,Female,32,Group_C,88.24,5,1,0.923
+49,Bachelors,8,73.44,1,7.9,Male,26,Group_B,68.35,3,1,0.949
+50,Bachelors,12,52.37,1,6.7,Male,52,Group_C,50.7,3,1,0.983
+51,Masters,17,73.24,2,5.7,Female,53,Group_C,80.13,4,1,0.931
+52,Bachelors,16,66.15,2,5.8,Female,45,Group_A,73.68,3,1,0.925
+53,High School,0,63.23,2,6.0,Female,31,Group_A,62.47,1,1,0.992
+54,Masters,14,76.12,5,6.7,Male,34,Group_A,85.27,4,1,0.909
+55,Masters,1,80.31,4,10.0,Female,34,Group_B,82.02,3,1,0.983
+56,High School,15,79.31,5,6.9,Male,57,Group_C,88.31,5,1,0.91
+57,High School,19,61.61,3,5.5,Male,43,Group_A,67.3,3,1,0.943
+58,Masters,4,66.91,2,6.9,Male,30,Group_C,74.5,2,1,0.924
+59,Masters,18,73.31,1,5.9,Male,40,Group_B,89.73,3,1,0.836
+60,Bachelors,4,79.76,2,7.5,Female,28,Group_D,82.75,2,1,0.97
+61,Masters,1,65.21,3,6.9,Male,36,Group_B,68.63,1,1,0.966
+62,High School,6,68.14,0,6.4,Male,38,Group_D,74.88,3,1,0.933
+63,Bachelors,2,58.94,2,5.8,Male,35,Group_A,61.26,2,1,0.977
+64,High School,16,58.04,4,5.2,Female,23,Group_D,69.98,4,1,0.881
+65,Bachelors,2,78.13,1,6.0,Female,35,Group_B,79.03,2,1,0.991
+66,High School,12,83.56,2,8.7,Female,25,Group_B,82.2,4,1,0.986
+67,Bachelors,6,69.28,1,9.0,Male,24,Group_A,69.96,2,1,0.993
+68,Bachelors,2,80.04,6,8.0,Female,24,Group_C,85.52,3,1,0.945
+69,Bachelors,14,73.62,1,7.6,Male,32,Group_D,80.18,3,1,0.934
+70,High School,17,63.55,3,7.2,Male,26,Group_C,63.38,4,1,0.998
+71,Bachelors,9,73.61,2,5.8,Female,50,Group_B,76.5,4,1,0.971
+72,Masters,6,85.38,4,10.0,Male,49,Group_B,79.85,4,1,0.945
+73,Bachelors,8,69.64,0,7.2,Male,44,Group_A,74.54,3,1,0.951
+74,Masters,4,85.65,2,10.0,Male,51,Group_B,91.38,2,1,0.943
+75,Bachelors,19,43.8,3,3.5,Male,44,Group_A,57.59,4,1,0.862
+76,Bachelors,7,78.22,0,10.0,Male,43,Group_C,77.52,4,1,0.993
+77,Bachelors,13,70.87,0,8.0,Male,33,Group_D,66.51,4,1,0.956
+78,PhD,3,67.01,0,7.4,Male,48,Group_D,65.94,2,1,0.989
+79,High School,19,70.92,1,7.4,Female,36,Group_B,64.23,4,1,0.933
+80,High School,13,50.12,3,4.7,Female,44,Group_B,56.81,3,0,0.933
+81,Bachelors,11,67.8,3,8.2,Female,40,Group_B,75.55,4,1,0.922
+82,PhD,1,73.57,1,7.5,Female,32,Group_C,75.17,3,1,0.984
+83,PhD,12,84.78,1,6.1,Female,59,Group_A,92.4,3,1,0.924
+84,Bachelors,0,64.82,2,5.1,Male,24,Group_C,67.02,1,1,0.978
+85,Bachelors,19,61.92,1,6.0,Male,37,Group_A,66.24,4,1,0.957
+86,Bachelors,6,64.98,2,6.9,Female,53,Group_B,63.32,2,1,0.983
+87,Bachelors,8,79.15,4,7.8,Male,59,Group_C,80.9,3,1,0.982
+88,Bachelors,16,73.29,3,8.8,Male,30,Group_D,67.18,4,1,0.939
+89,Masters,20,64.7,1,4.1,Male,59,Group_C,68.73,3,1,0.96
+90,Masters,12,75.13,1,7.7,Female,26,Group_A,77.33,4,1,0.978
+91,Bachelors,9,70.97,3,4.9,Female,22,Group_B,74.7,4,1,0.963
+92,Bachelors,15,79.69,1,8.9,Male,56,Group_A,84.8,3,1,0.949
+93,Bachelors,5,62.98,1,6.2,Female,56,Group_D,62.17,3,1,0.992
+94,Bachelors,15,66.72,2,7.2,Female,33,Group_A,63.4,4,1,0.967
+95,Bachelors,10,66.08,1,5.6,Male,57,Group_D,68.75,4,1,0.973
+96,High School,19,55.36,1,7.1,Male,42,Group_D,60.74,4,1,0.946
+97,High School,2,72.96,3,8.5,Male,29,Group_C,70.4,4,1,0.974
+98,Bachelors,8,72.61,2,8.0,Female,48,Group_A,75.91,3,1,0.967
+99,Masters,14,70.05,5,6.8,Male,30,Group_A,75.28,3,1,0.948
+100,Bachelors,12,67.65,1,7.5,Male,49,Group_C,66.09,2,1,0.984
+101,Bachelors,9,55.85,2,4.7,Male,51,Group_C,54.55,2,1,0.987
+102,Bachelors,19,65.79,0,7.6,Female,35,Group_D,66.95,3,1,0.988
+103,High School,12,66.57,6,8.6,Female,44,Group_A,63.44,3,1,0.969
+104,PhD,16,61.98,1,7.5,Male,50,Group_C,66.51,3,1,0.955
+105,Masters,6,68.39,1,6.0,Female,47,Group_B,63.91,3,1,0.955
+106,High School,5,74.04,0,7.8,Male,43,Group_A,82.87,2,1,0.912
+107,Masters,12,88.86,4,7.3,Male,36,Group_B,100.0,3,1,0.889
+108,Bachelors,16,71.75,3,7.9,Female,30,Group_B,67.44,3,1,0.957
+109,PhD,14,72.58,2,7.8,Male,47,Group_A,79.56,5,1,0.93
+110,Bachelors,3,69.26,0,4.7,Male,38,Group_A,70.09,2,1,0.992
+111,Bachelors,14,50.81,5,3.7,Male,30,Group_B,58.46,3,1,0.924
+112,Bachelors,13,69.73,0,6.6,Female,24,Group_B,63.41,3,1,0.937
+113,Masters,20,70.6,1,6.7,Female,37,Group_A,74.47,5,1,0.961
+114,High School,10,94.63,2,8.0,Female,34,Group_A,91.85,3,1,0.972
+115,Masters,3,68.08,2,7.3,Female,47,Group_D,67.04,2,1,0.99
+116,High School,2,73.02,4,7.6,Female,38,Group_D,67.86,1,1,0.948
+117,PhD,1,69.65,2,6.7,Male,53,Group_C,76.6,1,1,0.931
+118,High School,19,58.31,3,4.9,Female,45,Group_A,55.19,3,1,0.969
+119,PhD,9,81.43,2,9.4,Female,57,Group_A,85.22,4,1,0.962
+120,Bachelors,12,77.52,1,9.7,Male,43,Group_C,79.22,3,1,0.983
+121,Bachelors,19,77.91,1,7.2,Male,30,Group_A,81.91,5,1,0.96
+122,PhD,20,60.91,1,5.4,Male,43,Group_B,65.13,4,1,0.958
+123,PhD,17,84.03,5,9.0,Female,41,Group_A,81.34,4,1,0.973
+124,Masters,20,55.98,1,5.2,Male,24,Group_B,59.18,5,1,0.968
+125,High School,15,75.87,3,7.4,Male,57,Group_D,86.07,3,1,0.898
+126,Bachelors,10,91.9,3,10.0,Male,54,Group_D,89.74,4,1,0.978
+127,Bachelors,9,60.09,1,3.7,Male,39,Group_D,68.56,1,1,0.915
+128,Bachelors,8,64.34,2,8.0,Female,57,Group_D,71.83,3,1,0.925
+129,Bachelors,11,71.0,3,7.2,Male,31,Group_C,69.49,3,1,0.985
+130,High School,18,64.97,0,6.0,Male,57,Group_B,60.89,3,1,0.959
+131,Masters,0,54.49,0,5.3,Female,42,Group_A,57.42,2,1,0.971
+132,Masters,17,70.69,2,7.0,Female,46,Group_B,67.95,3,1,0.973
+133,High School,13,59.38,2,3.9,Male,30,Group_A,75.06,4,1,0.843
+134,Bachelors,20,74.74,0,9.3,Male,48,Group_D,78.38,2,1,0.964
+135,Bachelors,0,60.81,1,6.1,Female,36,Group_B,56.79,2,1,0.96
+136,Masters,16,85.5,0,9.1,Male,53,Group_C,81.73,4,1,0.962
+137,High School,10,62.17,5,7.4,Female,37,Group_C,67.62,3,1,0.946
+138,Bachelors,19,66.78,2,5.5,Male,49,Group_A,67.26,3,1,0.995
+139,Bachelors,14,78.14,1,8.4,Male,27,Group_C,80.4,4,1,0.977
+140,Bachelors,3,57.69,7,5.4,Male,27,Group_C,64.37,3,1,0.933
+141,Masters,14,72.27,1,8.2,Male,59,Group_C,71.65,2,1,0.994
+142,Masters,13,83.07,1,5.8,Female,23,Group_C,82.84,3,1,0.998
+143,High School,0,53.93,3,5.3,Female,28,Group_B,53.84,1,0,0.999
+144,Bachelors,8,71.85,3,6.5,Female,48,Group_D,75.26,2,1,0.966
+145,PhD,6,72.6,3,7.8,Female,49,Group_B,75.55,3,1,0.97
+146,High School,10,77.82,1,8.3,Female,37,Group_D,76.72,4,1,0.989
+147,Masters,1,57.63,0,4.9,Female,30,Group_D,57.95,3,1,0.997
+148,Masters,1,56.8,2,4.8,Female,36,Group_A,56.52,2,1,0.997
+149,Masters,5,75.22,2,7.4,Male,55,Group_D,70.35,3,1,0.951
+150,Bachelors,18,72.97,2,6.2,Male,41,Group_D,77.5,3,1,0.955
+151,Bachelors,19,72.5,3,8.3,Female,35,Group_B,81.97,5,1,0.905
+152,PhD,13,73.46,1,6.9,Female,32,Group_C,69.05,3,1,0.956
+153,Bachelors,2,63.2,1,2.8,Female,51,Group_D,59.33,3,1,0.961
+154,High School,6,72.32,1,6.8,Female,24,Group_A,70.42,2,1,0.981
+155,Bachelors,6,72.93,2,6.0,Male,23,Group_D,79.23,3,1,0.937
+156,High School,3,62.86,2,4.3,Female,35,Group_B,65.1,3,1,0.978
+157,Masters,4,88.66,1,7.4,Female,50,Group_C,87.87,3,1,0.992
+158,Bachelors,16,74.74,1,7.6,Male,26,Group_B,73.4,3,1,0.987
+159,Masters,3,58.09,1,7.4,Female,27,Group_B,58.55,3,1,0.995
+160,Masters,12,76.57,0,8.0,Female,29,Group_D,68.74,3,1,0.922
+161,High School,15,60.25,0,5.3,Female,50,Group_B,60.97,3,1,0.993
+162,Bachelors,15,77.87,3,8.3,Female,48,Group_B,82.23,4,1,0.956
+163,Masters,1,81.59,1,7.6,Male,37,Group_B,78.75,4,1,0.972
+164,Bachelors,17,61.79,2,5.3,Male,48,Group_B,56.4,3,1,0.946
+165,PhD,0,79.63,3,6.6,Female,22,Group_B,87.53,2,1,0.921
+166,Masters,17,74.13,2,5.3,Male,54,Group_A,77.01,4,1,0.971
+167,High School,7,78.22,2,7.4,Male,48,Group_B,85.5,3,1,0.927
+168,Masters,10,88.97,3,9.1,Male,38,Group_A,91.75,4,1,0.972
+169,High School,14,67.55,0,6.6,Female,36,Group_B,66.74,4,1,0.992
+170,High School,15,62.46,1,5.7,Male,43,Group_B,66.89,4,1,0.956
+171,Masters,16,61.1,1,5.0,Male,40,Group_B,58.59,3,1,0.975
+172,Masters,16,61.84,2,6.9,Female,49,Group_A,63.87,4,1,0.98
+173,Bachelors,11,69.23,5,5.3,Female,44,Group_A,69.1,3,1,0.999
+174,Bachelors,9,73.41,2,8.3,Female,57,Group_C,66.81,4,1,0.934
+175,Bachelors,19,72.77,1,6.1,Female,41,Group_B,74.45,5,1,0.983
+176,Bachelors,5,78.27,2,6.9,Male,30,Group_B,79.34,4,1,0.989
+177,Bachelors,7,70.13,4,5.3,Male,44,Group_A,73.45,3,1,0.967
+178,Bachelors,12,84.54,2,7.9,Male,28,Group_B,81.6,3,1,0.971
+179,Bachelors,1,67.35,2,7.9,Female,52,Group_C,75.31,2,1,0.92
+180,PhD,18,97.2,2,10.0,Male,32,Group_B,100.0,5,1,0.972
+181,Bachelors,9,76.26,1,8.8,Female,38,Group_A,82.66,3,1,0.936
+182,High School,3,61.43,1,6.8,Male,57,Group_A,64.2,3,1,0.972
+183,Masters,11,59.29,0,4.6,Male,47,Group_D,53.42,3,1,0.941
+184,Masters,17,74.82,1,7.1,Female,57,Group_B,84.59,4,1,0.902
+185,PhD,6,67.77,1,5.8,Female,39,Group_A,69.0,3,1,0.988
+186,High School,19,77.14,0,9.3,Male,52,Group_D,75.12,4,1,0.98
+187,High School,3,74.73,3,6.0,Male,56,Group_A,80.74,3,1,0.94
+188,Bachelors,6,69.27,2,8.0,Male,49,Group_C,77.16,2,1,0.921
+189,Bachelors,9,61.53,5,7.2,Male,47,Group_A,64.84,3,1,0.967
+190,Bachelors,14,54.85,1,7.7,Female,27,Group_A,63.45,4,1,0.914
+191,Bachelors,11,65.53,1,6.1,Male,55,Group_B,72.64,4,1,0.929
+192,High School,0,78.56,1,8.7,Male,49,Group_A,77.54,3,1,0.99
+193,Bachelors,19,72.14,3,10.0,Female,30,Group_A,70.57,4,1,0.984
+194,Masters,17,57.54,2,5.0,Female,50,Group_D,62.33,4,1,0.952
+195,Bachelors,15,71.73,0,5.3,Male,55,Group_A,62.66,3,1,0.909
+196,Masters,4,73.85,2,5.1,Male,33,Group_C,75.05,2,1,0.988
+197,Bachelors,18,61.16,2,7.0,Male,37,Group_A,57.26,4,1,0.961
+198,Bachelors,3,71.54,1,4.9,Male,28,Group_D,72.2,2,1,0.993
+199,Bachelors,5,70.58,0,6.6,Female,52,Group_D,69.09,1,1,0.985
+200,Bachelors,16,58.57,0,6.4,Female,54,Group_A,59.42,4,1,0.991
+201,High School,6,73.58,2,7.6,Male,28,Group_B,73.91,3,1,0.997
+202,Masters,6,75.61,2,8.1,Female,24,Group_C,70.12,3,1,0.945
+203,Masters,8,80.83,4,8.3,Male,41,Group_A,97.69,4,1,0.831
+204,Bachelors,12,80.54,2,9.6,Male,26,Group_C,91.68,3,1,0.889
+205,High School,19,56.22,1,4.5,Female,24,Group_D,50.41,3,1,0.942
+206,PhD,13,60.62,3,5.2,Male,59,Group_A,71.67,4,1,0.89
+207,Bachelors,15,75.15,2,6.6,Male,36,Group_C,75.19,3,1,1.0
+208,High School,8,75.14,0,8.5,Female,56,Group_A,77.37,3,1,0.978
+209,Bachelors,14,75.15,1,8.6,Male,44,Group_B,77.79,3,1,0.974
+210,Masters,4,100.0,0,10.0,Male,54,Group_A,100.0,3,1,1.0
+211,Bachelors,17,75.71,3,9.0,Female,23,Group_B,80.63,5,1,0.951
+212,Bachelors,20,81.36,3,6.7,Female,57,Group_A,83.15,2,1,0.982
+213,Bachelors,19,79.54,3,10.0,Female,42,Group_A,79.97,4,1,0.996
+214,High School,7,76.51,4,9.5,Male,35,Group_C,72.93,3,1,0.964
+215,Bachelors,14,66.85,0,7.6,Male,35,Group_A,66.06,5,1,0.992
+216,Masters,20,77.59,0,9.9,Male,32,Group_B,72.39,3,1,0.948
+217,Bachelors,8,62.27,1,4.2,Female,25,Group_A,64.79,2,1,0.975
+218,High School,18,67.63,2,6.1,Male,51,Group_A,65.69,3,1,0.981
+219,High School,5,65.15,2,5.6,Female,57,Group_B,63.82,3,1,0.987
+220,Bachelors,3,70.82,2,7.9,Male,41,Group_A,80.98,3,1,0.898
+221,Masters,10,93.15,2,8.1,Male,37,Group_C,100.0,3,1,0.932
+222,Bachelors,9,51.33,0,6.0,Male,55,Group_B,54.33,3,1,0.97
+223,Bachelors,2,76.86,2,9.3,Female,29,Group_C,76.43,4,1,0.996
+224,High School,0,53.87,0,6.2,Female,41,Group_A,64.55,2,1,0.893
+225,Bachelors,11,65.28,1,6.9,Other,42,Group_C,67.88,3,1,0.974
+226,High School,14,80.89,1,6.9,Male,51,Group_B,82.01,4,1,0.989
+227,Masters,14,70.64,0,6.0,Male,57,Group_A,67.86,4,1,0.972
+228,Bachelors,20,59.22,1,7.4,Male,26,Group_C,64.2,3,1,0.95
+229,Masters,13,62.85,2,7.2,Female,42,Group_C,66.99,3,1,0.959
+230,Masters,6,76.8,2,7.6,Male,59,Group_A,78.0,3,1,0.988
+231,Masters,16,62.7,1,5.8,Male,44,Group_D,66.94,3,1,0.958
+232,Bachelors,18,72.16,3,4.8,Male,40,Group_C,73.83,5,1,0.983
+233,High School,6,70.46,0,5.8,Male,31,Group_A,74.24,2,1,0.962
+234,PhD,2,63.48,3,8.6,Male,48,Group_A,54.49,2,1,0.91
+235,Masters,2,91.44,0,7.6,Male,56,Group_B,92.77,2,1,0.987
+236,Masters,17,76.34,2,7.9,Male,34,Group_A,86.22,4,1,0.901
+237,High School,19,49.75,0,6.2,Male,30,Group_A,49.97,4,1,0.998
+238,Bachelors,13,71.86,3,5.7,Female,38,Group_B,72.13,3,1,0.997
+239,Masters,2,63.38,1,6.6,Female,52,Group_A,61.72,3,1,0.983
+240,High School,6,78.52,4,9.0,Male,45,Group_B,82.83,3,1,0.957
+241,Bachelors,6,62.07,3,6.2,Female,40,Group_A,62.32,1,1,0.998
+242,Bachelors,4,68.85,2,10.0,Male,51,Group_A,67.99,2,1,0.991
+243,High School,2,75.05,0,5.5,Male,26,Group_A,86.39,2,1,0.887
+244,Bachelors,17,78.66,2,9.1,Female,29,Group_B,83.3,4,1,0.954
+245,Bachelors,14,58.0,3,5.6,Female,58,Group_B,54.97,3,1,0.97
+246,High School,19,66.65,1,7.6,Female,57,Group_C,69.14,3,1,0.975
+247,Bachelors,13,65.25,1,7.1,Male,46,Group_D,70.86,4,1,0.944
+248,Bachelors,3,63.47,2,5.5,Male,26,Group_A,72.39,2,1,0.911
+249,Bachelors,7,87.65,3,9.0,Male,54,Group_A,84.11,3,1,0.965
+250,Masters,20,74.05,1,5.2,Male,43,Group_C,80.71,5,1,0.933
+251,Bachelors,12,57.39,0,6.5,Male,46,Group_A,59.09,3,1,0.983
+252,Bachelors,7,79.18,1,8.3,Male,50,Group_A,82.43,5,1,0.968
+253,Masters,14,91.22,0,9.9,Male,51,Group_A,100.0,4,1,0.912
+254,PhD,16,80.32,1,9.3,Female,51,Group_B,81.83,4,1,0.985
+255,High School,4,54.81,0,5.9,Female,52,Group_B,52.87,1,1,0.981
+256,Bachelors,19,65.16,1,6.7,Male,55,Group_D,56.47,5,1,0.913
+257,Bachelors,3,82.67,2,7.2,Female,49,Group_B,89.62,3,1,0.93
+258,Bachelors,10,62.92,3,5.4,Female,31,Group_C,56.2,3,1,0.933
+259,Masters,17,74.44,1,8.9,Male,25,Group_B,72.63,3,1,0.982
+260,PhD,9,77.75,4,9.5,Male,54,Group_A,80.7,2,1,0.97
+261,PhD,16,60.73,3,5.8,Female,38,Group_A,70.66,4,1,0.901
+262,Bachelors,14,69.4,2,7.0,Male,32,Group_D,75.77,2,1,0.936
+263,Bachelors,5,37.59,1,2.7,Female,28,Group_A,39.77,3,0,0.978
+264,PhD,20,59.76,3,7.4,Male,38,Group_A,66.26,3,1,0.935
+265,Bachelors,15,67.47,3,7.5,Male,49,Group_A,70.01,3,1,0.975
+266,Bachelors,14,57.52,2,8.1,Female,38,Group_A,60.38,2,1,0.971
+267,Masters,7,86.32,1,7.6,Female,31,Group_A,89.13,3,1,0.972
+268,Bachelors,8,55.7,2,5.1,Male,47,Group_B,62.05,2,1,0.937
+269,Bachelors,10,65.6,2,6.8,Female,27,Group_A,71.75,3,1,0.938
+270,Masters,1,71.31,4,7.9,Male,38,Group_A,77.97,1,1,0.933
+271,High School,12,84.41,1,8.2,Female,37,Group_C,82.6,3,1,0.982
+272,High School,3,55.64,0,4.5,Female,47,Group_C,59.35,3,0,0.963
+273,Bachelors,8,81.63,6,9.2,Male,25,Group_B,82.75,4,1,0.989
+274,Bachelors,4,70.1,2,7.9,Male,41,Group_B,66.8,1,1,0.967
+275,High School,18,60.18,2,4.9,Male,32,Group_A,62.4,4,1,0.978
+276,Bachelors,2,74.62,1,9.1,Male,44,Group_C,78.43,2,1,0.962
+277,Bachelors,20,71.99,5,8.6,Male,54,Group_B,78.52,4,1,0.935
+278,Masters,2,64.0,2,6.6,Female,52,Group_B,63.08,2,1,0.991
+279,Bachelors,5,70.7,1,7.2,Male,28,Group_C,66.19,4,1,0.955
+280,Masters,9,66.15,3,7.3,Male,43,Group_B,68.73,2,1,0.974
+281,Bachelors,4,71.14,0,6.1,Female,26,Group_B,71.7,1,1,0.994
+282,Masters,2,76.62,1,7.7,Male,58,Group_B,79.72,3,1,0.969
+283,Bachelors,6,85.86,3,6.0,Male,22,Group_B,93.31,3,1,0.926
+284,High School,17,57.62,5,6.8,Male,27,Group_C,65.21,4,1,0.924
+285,Masters,7,91.33,2,7.3,Female,25,Group_B,88.36,3,1,0.97
+286,Bachelors,0,50.48,1,6.9,Male,51,Group_A,51.92,2,1,0.986
+287,High School,3,68.48,2,6.5,Female,51,Group_B,63.28,2,1,0.948
+288,Bachelors,6,75.88,2,7.3,Male,38,Group_D,81.34,3,1,0.945
+289,Masters,13,72.81,1,6.5,Female,45,Group_A,82.9,5,1,0.899
+290,Bachelors,12,63.77,1,6.0,Female,52,Group_C,62.2,3,1,0.984
+291,High School,9,67.92,3,8.5,Female,49,Group_B,66.71,4,1,0.988
+292,High School,17,65.07,2,3.5,Male,25,Group_B,75.56,3,1,0.895
+293,Bachelors,0,64.11,0,7.9,Male,40,Group_D,68.63,2,1,0.955
+294,Bachelors,3,78.5,2,8.3,Female,45,Group_C,80.68,1,1,0.978
+295,Bachelors,15,73.57,3,5.9,Male,28,Group_D,69.23,3,1,0.957
+296,High School,15,63.07,1,5.0,Male,30,Group_A,71.21,3,1,0.919
+297,Bachelors,17,79.0,2,9.9,Female,43,Group_A,75.49,5,1,0.965
+298,Masters,7,73.07,1,6.2,Female,23,Group_B,67.4,4,1,0.943
+299,Masters,9,78.13,1,6.4,Male,48,Group_C,78.52,3,1,0.996
+300,Masters,15,76.3,1,9.0,Female,37,Group_C,73.37,3,1,0.971
+301,High School,10,61.71,3,6.6,Female,26,Group_A,63.46,2,1,0.982
+302,PhD,5,64.4,1,5.3,Male,33,Group_A,61.38,3,1,0.97
+303,Bachelors,0,77.47,4,8.0,Female,47,Group_C,82.27,2,1,0.952
+304,PhD,11,76.1,1,6.4,Female,36,Group_B,81.74,3,1,0.944
+305,Bachelors,5,69.79,6,8.3,Other,24,Group_B,60.05,4,1,0.903
+306,Bachelors,12,71.17,2,8.4,Male,30,Group_C,77.73,3,1,0.934
+307,Bachelors,16,82.78,1,8.9,Female,49,Group_A,81.49,5,1,0.987
+308,Bachelors,0,64.08,1,6.8,Male,57,Group_A,74.23,2,1,0.898
+309,Masters,7,75.47,2,9.7,Male,46,Group_D,77.0,2,1,0.985
+310,Masters,7,67.98,2,6.8,Female,49,Group_A,70.39,1,1,0.976
+311,PhD,10,67.82,2,5.4,Male,42,Group_A,71.29,3,1,0.965
+312,Bachelors,13,80.99,4,8.6,Male,50,Group_A,90.77,5,1,0.902
+313,Bachelors,9,78.25,1,10.0,Male,46,Group_A,77.34,3,1,0.991
+314,High School,14,78.14,1,6.6,Male,51,Group_A,85.51,4,1,0.926
+315,PhD,6,83.05,2,7.9,Male,32,Group_C,90.35,2,1,0.927
+316,Bachelors,6,70.21,1,7.5,Male,40,Group_D,76.17,4,1,0.94
+317,Masters,9,76.82,3,7.6,Female,32,Group_A,90.58,4,1,0.862
+318,Bachelors,3,66.9,1,5.5,Male,46,Group_C,66.84,2,1,0.999
+319,Bachelors,17,73.24,4,8.7,Female,22,Group_A,79.92,4,1,0.933
+320,PhD,9,68.7,2,9.7,Female,53,Group_A,70.53,2,1,0.982
+321,High School,18,70.97,0,7.3,Male,42,Group_B,80.04,5,1,0.909
+322,Bachelors,13,75.95,4,6.5,Male,34,Group_D,78.55,3,1,0.974
+323,High School,12,61.82,2,4.3,Female,55,Group_D,59.88,2,1,0.981
+324,Masters,14,90.92,1,9.4,Female,38,Group_A,100.0,4,1,0.909
+325,High School,15,59.94,2,7.3,Male,40,Group_A,61.62,2,1,0.983
+326,High School,1,57.86,0,6.4,Female,31,Group_D,50.79,2,0,0.929
+327,Bachelors,3,81.58,0,8.2,Male,30,Group_A,84.26,2,1,0.973
+328,Bachelors,20,77.92,4,7.1,Male,32,Group_C,83.27,3,1,0.946
+329,Bachelors,17,76.24,1,6.3,Female,59,Group_A,85.93,4,1,0.903
+330,High School,16,76.28,1,8.6,Male,52,Group_B,80.31,4,1,0.96
+331,PhD,9,69.88,1,8.1,Male,23,Group_B,79.87,4,1,0.9
+332,PhD,20,61.03,4,4.2,Female,45,Group_B,54.24,3,1,0.932
+333,Bachelors,8,70.76,1,9.0,Female,26,Group_C,68.54,4,1,0.978
+334,Masters,14,63.23,6,7.0,Male,51,Group_A,65.89,2,1,0.973
+335,Bachelors,11,79.75,2,9.7,Other,56,Group_B,79.18,4,1,0.994
+336,Bachelors,20,68.53,1,5.2,Female,38,Group_B,68.95,5,1,0.996
+337,Bachelors,8,61.75,1,4.5,Male,52,Group_A,71.07,3,1,0.907
+338,Bachelors,13,66.79,3,6.5,Male,23,Group_A,68.33,3,1,0.985
+339,Bachelors,12,74.13,2,8.0,Female,37,Group_A,76.9,2,1,0.972
+340,Bachelors,5,64.36,1,8.6,Female,42,Group_A,67.12,1,1,0.972
+341,Masters,18,61.78,2,7.0,Female,51,Group_D,57.15,5,1,0.954
+342,Bachelors,3,72.44,1,7.0,Female,22,Group_B,71.87,2,1,0.994
+343,Masters,19,72.45,0,6.0,Male,35,Group_B,74.39,3,1,0.981
+344,High School,16,64.93,1,8.0,Male,37,Group_C,66.16,3,1,0.988
+345,Bachelors,18,65.29,2,5.4,Male,30,Group_C,68.72,4,1,0.966
+346,Bachelors,2,72.32,1,9.2,Female,29,Group_B,72.7,2,1,0.996
+347,Bachelors,13,55.52,2,5.2,Male,30,Group_A,58.77,1,1,0.968
+348,Masters,16,55.93,2,7.5,Male,55,Group_A,66.49,4,1,0.894
+349,Masters,12,62.82,1,7.1,Male,54,Group_A,61.46,3,1,0.986
+350,Bachelors,8,67.87,0,6.6,Female,43,Group_D,64.26,4,1,0.964
+351,Masters,0,73.11,2,6.7,Female,51,Group_C,87.01,3,1,0.861
+352,PhD,16,84.75,3,8.1,Male,28,Group_B,82.65,2,1,0.979
+353,Bachelors,15,78.58,1,8.4,Female,39,Group_B,71.81,5,1,0.932
+354,High School,17,68.4,5,6.9,Male,42,Group_B,74.21,5,1,0.942
+355,Masters,1,69.81,2,6.3,Male,26,Group_B,61.09,2,1,0.913
+356,High School,13,59.97,1,5.8,Male,28,Group_A,63.5,3,1,0.965
+357,Masters,16,69.81,1,7.1,Male,33,Group_A,85.51,4,1,0.843
+358,Bachelors,2,67.11,2,4.2,Male,38,Group_D,61.5,1,1,0.944
+359,Bachelors,1,73.23,1,7.9,Female,45,Group_B,63.32,2,1,0.901
+360,High School,7,61.73,1,5.0,Female,58,Group_A,56.46,3,1,0.947
+361,Bachelors,1,75.19,0,6.1,Female,40,Group_A,80.75,3,1,0.944
+362,PhD,1,85.33,2,6.5,Female,37,Group_A,93.45,2,1,0.919
+363,High School,8,68.91,2,4.7,Female,46,Group_C,66.35,4,1,0.974
+364,Bachelors,19,74.02,0,5.8,Male,48,Group_C,79.01,4,1,0.95
+365,PhD,20,76.9,1,6.8,Female,28,Group_B,83.85,5,1,0.931
+366,Bachelors,5,65.99,3,8.9,Female,29,Group_D,74.92,2,1,0.911
+367,Bachelors,11,72.24,1,6.6,Female,36,Group_D,71.01,3,1,0.988
+368,Bachelors,8,70.13,2,7.2,Male,37,Group_D,60.98,2,1,0.908
+369,Bachelors,6,70.98,1,7.6,Male,29,Group_A,69.9,1,1,0.989
+370,High School,11,62.27,0,6.4,Female,57,Group_B,60.14,3,1,0.979
+371,High School,4,70.25,3,6.9,Female,53,Group_B,68.95,2,1,0.987
+372,Bachelors,15,74.98,1,6.1,Male,38,Group_B,75.98,4,1,0.99
+373,PhD,4,84.51,5,10.0,Female,57,Group_D,90.11,4,1,0.944
+374,High School,11,79.59,5,10.0,Male,43,Group_A,91.92,3,1,0.877
+375,Bachelors,19,91.53,0,7.1,Female,53,Group_C,90.67,4,1,0.991
+376,Bachelors,8,62.33,3,5.0,Male,32,Group_B,70.31,3,1,0.92
+377,Masters,6,78.72,3,7.5,Male,27,Group_A,84.63,2,1,0.941
+378,Bachelors,18,71.83,3,6.0,Male,43,Group_B,74.03,4,1,0.978
+379,Masters,19,91.9,0,9.8,Male,35,Group_A,100.0,4,1,0.919
+380,High School,10,61.92,0,5.3,Male,49,Group_A,67.15,3,1,0.948
+381,PhD,20,61.6,1,8.8,Female,33,Group_C,71.89,4,1,0.897
+382,Bachelors,11,64.01,1,7.8,Female,48,Group_C,56.81,3,1,0.928
+383,Masters,2,48.76,2,5.1,Male,22,Group_A,50.68,2,1,0.981
+384,Bachelors,16,64.74,6,7.7,Female,31,Group_D,64.11,2,1,0.994
+385,Masters,6,62.41,0,7.6,Male,54,Group_A,70.46,1,1,0.92
+386,High School,9,71.5,1,6.5,Male,37,Group_A,82.25,1,1,0.892
+387,High School,14,73.42,0,6.4,Male,27,Group_A,77.71,3,1,0.957
+388,Bachelors,1,88.76,0,9.0,Male,46,Group_A,85.61,4,1,0.968
+389,Masters,12,79.5,3,9.0,Female,41,Group_A,84.87,4,1,0.946
+390,Masters,3,64.23,1,6.6,Male,57,Group_C,69.77,2,1,0.945
+391,Bachelors,17,61.02,3,4.2,Female,44,Group_D,51.31,4,1,0.903
+392,Bachelors,0,74.92,2,6.5,Female,37,Group_D,74.9,3,1,1.0
+393,High School,1,56.8,2,5.6,Female,22,Group_B,48.85,1,0,0.921
+394,Masters,1,88.31,1,8.7,Female,51,Group_C,84.99,5,1,0.967
+395,Masters,3,81.79,1,10.0,Female,48,Group_B,77.28,3,1,0.955
+396,Masters,2,65.31,2,4.9,Female,23,Group_B,69.35,2,1,0.96
+397,Bachelors,16,52.87,1,5.9,Male,42,Group_C,56.2,4,1,0.967
+398,PhD,13,83.54,1,10.0,Male,30,Group_D,79.25,4,1,0.957
+399,Masters,1,68.85,3,9.6,Female,45,Group_A,75.46,2,1,0.934
+400,Bachelors,15,82.38,2,7.8,Female,28,Group_A,77.44,5,1,0.951
+401,Bachelors,10,54.06,2,6.0,Female,51,Group_A,57.47,2,1,0.966
+402,Bachelors,12,64.01,1,7.1,Male,23,Group_B,62.74,4,1,0.987
+403,Bachelors,0,70.05,2,7.2,Male,33,Group_B,70.74,2,1,0.993
+404,Bachelors,1,70.47,3,6.9,Male,34,Group_B,75.16,2,1,0.953
+405,Bachelors,1,65.5,1,7.1,Female,24,Group_A,69.76,4,1,0.957
+406,Bachelors,20,76.23,2,4.6,Male,39,Group_B,84.85,4,1,0.914
+407,Bachelors,4,59.32,3,6.8,Male,27,Group_B,60.57,2,1,0.988
+408,Bachelors,3,68.58,1,7.0,Male,48,Group_B,73.17,3,1,0.954
+409,Bachelors,11,71.2,3,6.9,Male,36,Group_D,72.15,5,1,0.99
+410,Masters,2,75.14,1,10.0,Male,36,Group_B,78.63,4,1,0.965
+411,Bachelors,19,77.12,6,6.9,Male,40,Group_A,82.25,5,1,0.949
+412,High School,9,58.75,3,5.4,Male,59,Group_A,62.18,5,1,0.966
+413,Bachelors,19,54.66,1,7.9,Male,41,Group_A,50.72,3,1,0.961
+414,Masters,17,82.78,1,7.3,Female,41,Group_A,87.33,5,1,0.954
+415,Masters,20,73.32,1,6.7,Female,39,Group_B,75.15,4,1,0.982
+416,Bachelors,20,62.52,2,6.1,Female,55,Group_C,59.11,2,1,0.966
+417,PhD,20,85.51,1,9.6,Male,58,Group_A,83.39,5,1,0.979
+418,High School,9,71.16,2,7.4,Male,56,Group_D,80.15,3,1,0.91
+419,PhD,0,81.79,3,6.6,Other,59,Group_A,86.17,4,1,0.956
+420,Bachelors,5,70.68,5,6.4,Male,59,Group_A,74.64,2,1,0.96
+421,High School,10,90.61,2,8.3,Male,22,Group_A,89.5,3,1,0.989
+422,Bachelors,1,87.55,0,8.7,Male,33,Group_D,86.85,4,1,0.993
+423,Bachelors,6,67.51,0,7.3,Male,26,Group_B,76.67,3,1,0.908
+424,Bachelors,19,79.72,1,8.5,Male,48,Group_B,83.83,5,1,0.959
+425,Masters,20,76.45,1,5.5,Female,41,Group_A,75.66,5,1,0.992
+426,Masters,20,83.69,2,9.6,Female,40,Group_C,86.23,5,1,0.975
+427,Bachelors,20,60.35,0,6.3,Female,59,Group_C,56.28,4,1,0.959
+428,Bachelors,17,76.86,1,9.3,Male,36,Group_B,87.43,4,1,0.894
+429,High School,20,80.58,2,8.6,Female,27,Group_C,87.35,4,1,0.932
+430,High School,18,52.41,1,6.6,Male,30,Group_B,53.03,3,1,0.994
+431,Bachelors,3,58.17,2,6.4,Male,57,Group_A,59.33,2,1,0.988
+432,High School,12,49.61,2,6.6,Female,44,Group_C,36.52,4,0,0.869
+433,Masters,17,67.31,2,7.4,Female,31,Group_D,59.9,4,1,0.926
+434,Bachelors,19,77.18,4,7.6,Male,22,Group_B,73.19,5,1,0.96
+435,High School,12,85.02,3,10.0,Female,32,Group_A,88.26,4,1,0.968
+436,Bachelors,18,70.74,0,8.1,Female,41,Group_A,70.29,2,1,0.996
+437,High School,16,86.29,3,9.3,Female,49,Group_D,79.56,3,1,0.933
+438,Bachelors,0,56.2,0,4.1,Male,43,Group_A,59.01,1,1,0.972
+439,Masters,5,52.97,5,3.8,Male,41,Group_C,57.77,1,1,0.952
+440,Bachelors,18,69.44,3,7.3,Male,59,Group_B,74.02,3,1,0.954
+441,High School,19,73.84,1,7.6,Male,37,Group_B,66.71,4,1,0.929
+442,Masters,0,69.67,3,6.2,Male,23,Group_A,73.14,2,1,0.965
+443,High School,7,49.33,0,5.1,Female,46,Group_A,44.69,3,1,0.954
+444,Masters,16,69.11,3,8.8,Male,48,Group_B,75.38,4,1,0.937
+445,Bachelors,20,56.96,3,6.5,Female,24,Group_D,60.88,4,1,0.961
+446,Bachelors,14,76.7,0,6.3,Male,44,Group_A,76.24,4,1,0.995
+447,Masters,17,73.67,0,7.2,Female,53,Group_B,69.84,5,1,0.962
+448,Masters,6,60.6,1,5.1,Female,38,Group_C,58.29,3,1,0.977
+449,High School,15,64.86,1,6.0,Male,41,Group_B,55.38,3,1,0.905
+450,Bachelors,6,59.41,1,5.4,Female,51,Group_B,61.09,4,1,0.983
+451,Masters,16,69.37,0,6.4,Male,49,Group_C,71.22,3,1,0.982
+452,High School,3,79.55,2,6.4,Male,44,Group_C,87.41,3,1,0.921
+453,Bachelors,11,60.14,3,5.9,Male,40,Group_A,58.82,3,1,0.987
+454,Masters,12,75.04,2,6.8,Male,46,Group_D,73.99,4,1,0.989
+455,Bachelors,3,64.7,1,3.0,Female,45,Group_B,57.16,3,1,0.925
+456,Masters,20,62.07,3,8.7,Female,22,Group_C,57.05,3,1,0.95
+457,Masters,0,68.93,1,8.2,Male,49,Group_A,66.76,3,1,0.978
+458,Masters,0,59.65,5,5.5,Female,50,Group_B,64.63,2,1,0.95
+459,Masters,6,64.46,2,6.5,Female,56,Group_A,63.18,3,1,0.987
+460,Bachelors,8,58.02,2,4.4,Male,38,Group_B,60.21,2,1,0.978
+461,Bachelors,0,89.65,4,10.0,Male,32,Group_A,92.88,2,1,0.968
+462,Bachelors,15,70.35,1,9.3,Male,58,Group_D,66.27,4,1,0.959
+463,Masters,17,63.0,0,6.5,Female,28,Group_C,62.16,3,1,0.992
+464,Masters,14,72.14,2,8.4,Male,47,Group_C,78.31,4,1,0.938
+465,Bachelors,5,68.88,1,7.1,Male,44,Group_B,65.7,2,1,0.968
+466,Bachelors,1,67.79,2,5.2,Female,39,Group_D,71.84,1,1,0.96
+467,PhD,8,76.14,4,7.1,Female,50,Group_D,71.89,2,1,0.958
+468,Bachelors,3,77.58,2,7.9,Male,55,Group_B,76.95,3,1,0.994
+469,High School,12,64.69,1,5.9,Female,59,Group_B,67.35,3,1,0.973
+470,Masters,10,64.24,3,6.2,Female,29,Group_B,60.92,2,1,0.967
+471,PhD,12,67.25,1,6.6,Male,42,Group_A,73.35,3,1,0.939
+472,Masters,10,46.98,3,4.6,Female,42,Group_D,45.41,2,1,0.984
+473,Masters,18,54.85,4,5.5,Male,57,Group_B,58.53,5,1,0.963
+474,Bachelors,7,83.67,4,7.1,Male,38,Group_B,74.71,2,1,0.91
+475,Masters,6,86.45,1,7.8,Male,37,Group_C,79.23,4,1,0.928
+476,Bachelors,15,67.51,4,5.2,Male,36,Group_A,76.69,3,1,0.908
+477,Masters,2,75.77,0,8.7,Male,36,Group_A,84.56,2,1,0.912
+478,Bachelors,16,73.11,0,4.8,Male,38,Group_A,71.8,4,1,0.987
+479,High School,17,100.0,0,10.0,Female,22,Group_B,98.78,5,1,0.988
+480,Bachelors,14,81.2,1,9.8,Female,34,Group_A,85.1,4,1,0.961
+481,Bachelors,16,68.72,4,6.5,Male,59,Group_C,75.0,4,1,0.937
+482,Masters,10,60.44,1,2.9,Male,31,Group_B,52.23,3,1,0.918
+483,PhD,4,53.94,2,5.0,Female,54,Group_B,49.51,2,1,0.956
+484,Masters,15,72.03,1,7.1,Male,47,Group_A,75.48,4,1,0.966
+485,Masters,14,62.44,4,5.0,Male,33,Group_A,71.12,2,1,0.913
+486,Bachelors,9,55.78,1,5.0,Male,40,Group_C,70.7,2,1,0.851
+487,Masters,13,63.53,2,8.2,Female,36,Group_A,64.6,3,1,0.989
+488,Masters,1,59.18,2,6.7,Female,26,Group_C,52.15,1,1,0.93
+489,Masters,15,86.87,2,7.6,Female,23,Group_A,91.85,4,1,0.95
+490,Bachelors,18,78.82,2,6.0,Male,35,Group_B,87.3,5,1,0.915
+491,Bachelors,7,69.92,2,6.6,Female,50,Group_B,70.46,1,1,0.995
+492,Masters,14,84.8,1,8.2,Male,22,Group_B,82.76,4,1,0.98
+493,Bachelors,9,70.77,2,7.7,Male,34,Group_D,77.36,3,1,0.934
+494,Masters,4,61.39,3,5.5,Female,53,Group_B,64.7,2,1,0.967
+495,PhD,19,85.23,0,9.1,Female,55,Group_D,80.1,3,1,0.949
+496,Bachelors,15,75.39,4,9.9,Male,35,Group_A,80.47,4,1,0.949
+497,Masters,20,59.63,4,6.9,Male,59,Group_A,68.29,3,1,0.913
+498,Masters,11,68.1,4,6.8,Female,59,Group_A,76.67,3,1,0.914
+499,Masters,12,61.24,1,5.9,Female,36,Group_B,60.91,2,1,0.997
+500,Bachelors,8,56.17,5,5.2,Female,27,Group_B,54.38,2,1,0.982
+501,Masters,16,79.26,2,9.3,Male,50,Group_B,86.94,3,1,0.923
+502,Bachelors,19,89.09,4,8.2,Female,58,Group_C,83.04,4,1,0.94
+503,High School,11,56.01,2,5.7,Female,40,Group_D,58.21,3,1,0.978
+504,Masters,4,75.63,1,7.6,Female,22,Group_C,68.78,3,1,0.932
+505,Masters,11,63.49,2,5.7,Male,42,Group_A,72.89,4,1,0.906
+506,Masters,0,65.13,3,4.9,Male,39,Group_A,67.63,2,1,0.975
+507,High School,19,64.08,3,6.8,Male,48,Group_B,73.65,4,1,0.904
+508,High School,15,61.36,1,6.1,Male,49,Group_A,67.91,4,1,0.934
+509,PhD,11,70.49,4,7.6,Male,29,Group_B,66.93,3,1,0.964
+510,High School,8,61.69,1,5.5,Male,52,Group_A,73.25,3,1,0.884
+511,Masters,12,72.7,3,8.7,Male,33,Group_D,82.44,4,1,0.903
+512,Masters,16,69.5,6,5.9,Female,27,Group_C,73.91,4,1,0.956
+513,Masters,16,67.61,0,8.8,Male,47,Group_D,66.72,4,1,0.991
+514,High School,3,60.92,3,4.0,Male,37,Group_D,62.33,3,1,0.986
+515,Masters,13,64.23,3,6.9,Female,51,Group_C,64.96,4,1,0.993
+516,Masters,18,77.55,2,8.3,Male,40,Group_A,78.19,4,1,0.994
+517,Bachelors,6,75.01,0,6.5,Male,39,Group_C,85.7,3,1,0.893
+518,Bachelors,2,60.22,4,6.5,Male,45,Group_A,65.64,2,1,0.946
+519,Bachelors,0,70.99,5,8.6,Female,41,Group_A,58.78,1,1,0.878
+520,High School,11,77.51,0,5.1,Other,28,Group_A,81.57,4,1,0.959
+521,Masters,14,53.31,2,5.9,Female,28,Group_A,52.97,2,1,0.997
+522,Masters,10,75.43,3,4.6,Female,37,Group_C,75.06,4,1,0.996
+523,PhD,9,63.37,0,5.2,Male,35,Group_D,64.29,3,1,0.991
+524,Bachelors,1,75.71,0,9.5,Female,33,Group_A,81.19,2,1,0.945
+525,Masters,3,62.37,0,5.5,Female,50,Group_A,70.12,2,1,0.922
+526,Bachelors,16,51.95,1,3.8,Female,36,Group_A,56.3,3,1,0.956
+527,Masters,16,53.72,2,5.1,Female,29,Group_B,52.03,2,1,0.983
+528,Bachelors,7,70.48,2,9.5,Male,30,Group_B,72.95,4,1,0.975
+529,PhD,13,72.6,2,5.1,Male,49,Group_D,75.84,4,1,0.968
+530,Masters,3,60.96,2,4.8,Female,48,Group_A,59.77,4,1,0.988
+531,PhD,5,76.39,1,9.4,Female,28,Group_D,79.28,3,1,0.971
+532,Masters,18,53.38,2,7.6,Female,35,Group_A,58.42,3,1,0.95
+533,Masters,3,69.34,2,6.8,Female,32,Group_B,77.04,2,1,0.923
+534,High School,2,57.89,2,4.3,Female,53,Group_A,66.23,2,1,0.917
+535,Masters,19,63.48,0,8.9,Female,49,Group_B,60.05,4,1,0.966
+536,Bachelors,5,70.47,2,9.0,Male,27,Group_A,78.16,4,1,0.923
+537,Bachelors,6,61.4,2,7.0,Male,56,Group_D,58.6,3,1,0.972
+538,High School,13,66.15,3,5.6,Other,27,Group_A,72.04,4,1,0.941
+539,Masters,11,80.06,1,7.9,Female,45,Group_B,77.48,5,1,0.974
+540,Bachelors,15,64.23,3,6.2,Female,30,Group_A,60.89,2,1,0.967
+541,Bachelors,19,78.36,2,8.2,Female,23,Group_A,82.32,5,1,0.96
+542,Masters,7,58.7,2,7.6,Female,59,Group_A,46.36,3,1,0.877
+543,PhD,1,75.3,3,8.6,Male,35,Group_D,68.81,3,1,0.935
+544,Masters,12,84.42,0,7.1,Male,52,Group_A,87.24,3,1,0.972
+545,Bachelors,7,45.28,1,6.2,Female,51,Group_B,45.7,3,1,0.996
+546,Bachelors,20,62.03,1,6.6,Male,48,Group_A,64.03,4,1,0.98
+547,Bachelors,19,75.77,1,8.4,Female,57,Group_C,67.87,4,1,0.921
+548,Bachelors,15,67.97,2,8.6,Female,52,Group_A,65.38,4,1,0.974
+549,High School,3,73.71,2,6.0,Male,27,Group_C,77.98,4,1,0.957
+550,PhD,15,63.96,6,6.4,Female,39,Group_B,66.87,4,1,0.971
+551,Bachelors,19,70.87,1,6.4,Male,35,Group_B,73.27,4,1,0.976
+552,High School,5,68.44,3,5.0,Male,41,Group_A,78.56,2,1,0.899
+553,Bachelors,3,81.68,2,8.6,Male,32,Group_B,86.97,3,1,0.947
+554,Bachelors,15,72.54,2,10.0,Female,58,Group_B,68.81,4,1,0.963
+555,Bachelors,20,73.38,1,5.1,Male,25,Group_A,76.36,4,1,0.97
+556,High School,12,65.88,1,6.5,Male,27,Group_A,63.15,3,1,0.973
+557,PhD,4,65.12,1,7.3,Male,44,Group_C,66.97,3,1,0.982
+558,Bachelors,14,65.67,3,6.7,Male,29,Group_A,77.06,3,1,0.886
+559,High School,7,73.94,0,7.3,Female,51,Group_A,79.09,4,1,0.948
+560,High School,6,65.79,3,5.0,Male,57,Group_B,74.52,2,1,0.913
+561,Bachelors,13,72.9,3,7.6,Female,32,Group_A,74.21,2,1,0.987
+562,High School,6,90.75,2,8.2,Male,26,Group_B,100.0,2,1,0.908
+563,High School,6,78.71,3,5.2,Female,24,Group_B,77.74,2,1,0.99
+564,Bachelors,17,66.74,2,8.1,Male,36,Group_A,79.69,4,1,0.87
+565,Bachelors,9,82.01,0,9.4,Female,23,Group_A,84.21,3,1,0.978
+566,High School,17,65.92,2,6.7,Male,23,Group_A,75.21,4,1,0.907
+567,Bachelors,13,49.62,2,5.2,Female,29,Group_B,56.99,3,1,0.926
+568,Bachelors,9,59.92,0,7.3,Female,51,Group_D,58.95,3,1,0.99
+569,High School,6,51.29,1,5.4,Female,26,Group_B,52.38,5,1,0.989
+570,Bachelors,6,66.48,1,7.7,Female,51,Group_C,72.93,2,1,0.936
+571,High School,6,70.18,0,6.7,Male,31,Group_B,72.66,3,1,0.975
+572,High School,4,86.76,3,10.0,Female,54,Group_C,80.16,2,1,0.934
+573,Bachelors,0,73.27,1,7.7,Male,45,Group_C,86.0,2,1,0.873
+574,Bachelors,13,67.81,2,7.0,Female,40,Group_A,68.1,4,1,0.997
+575,High School,17,78.29,3,6.3,Female,51,Group_A,80.37,3,1,0.979
+576,Bachelors,12,47.89,3,5.1,Female,46,Group_D,53.67,2,1,0.942
+577,PhD,7,72.36,1,6.2,Male,32,Group_B,72.41,3,1,1.0
+578,Masters,7,77.71,1,7.0,Male,56,Group_A,75.88,3,1,0.982
+579,Masters,9,55.21,1,4.5,Male,22,Group_A,60.57,2,1,0.946
+580,Masters,16,81.44,2,6.9,Male,38,Group_A,76.32,5,1,0.949
+581,PhD,5,73.38,0,9.9,Male,52,Group_D,74.42,2,1,0.99
+582,Masters,14,65.85,0,8.2,Male,27,Group_B,69.6,3,1,0.962
+583,Bachelors,14,76.33,0,9.9,Other,34,Group_B,74.98,4,1,0.986
+584,Bachelors,15,92.71,2,7.8,Female,47,Group_B,84.99,5,1,0.923
+585,High School,7,71.82,1,7.3,Female,57,Group_A,82.25,3,1,0.896
+586,Masters,18,72.48,2,5.7,Male,26,Group_A,78.07,4,1,0.944
+587,PhD,19,65.41,1,5.7,Female,35,Group_B,72.56,4,1,0.928
+588,Bachelors,14,61.5,3,5.0,Female,36,Group_A,61.83,4,1,0.997
+589,Masters,2,78.3,3,9.3,Female,33,Group_A,75.98,3,1,0.977
+590,Bachelors,5,61.44,1,5.7,Male,29,Group_A,68.33,2,1,0.931
+591,Bachelors,7,70.72,3,8.4,Male,52,Group_C,71.75,3,1,0.99
+592,Bachelors,15,65.22,2,7.2,Other,47,Group_A,61.36,3,1,0.961
+593,Bachelors,14,74.79,1,10.0,Male,50,Group_B,85.61,3,1,0.892
+594,Bachelors,12,73.34,1,5.6,Female,25,Group_C,70.23,3,1,0.969
+595,Masters,19,80.38,0,9.5,Male,49,Group_A,76.74,4,1,0.964
+596,Masters,14,64.9,4,7.9,Male,46,Group_A,75.82,3,1,0.891
+597,Masters,17,67.3,3,5.6,Female,53,Group_D,64.78,3,1,0.975
+598,Bachelors,12,60.21,1,7.2,Male,57,Group_C,59.12,3,1,0.989
+599,Masters,7,65.56,3,7.0,Male,32,Group_C,58.37,3,1,0.928
+600,Bachelors,13,73.77,1,7.1,Male,58,Group_A,86.51,3,1,0.873
+601,Bachelors,10,77.57,2,6.8,Female,31,Group_D,71.12,3,1,0.936
+602,Masters,5,60.78,0,5.2,Male,59,Group_A,67.22,3,1,0.936
+603,Bachelors,0,78.7,2,10.0,Female,57,Group_D,83.26,3,1,0.954
+604,High School,1,83.56,3,8.4,Male,48,Group_D,87.74,2,1,0.958
+605,Bachelors,12,74.13,0,8.4,Female,38,Group_B,73.84,5,1,0.997
+606,Masters,0,88.77,4,7.9,Other,28,Group_B,80.26,2,1,0.915
+607,Bachelors,3,62.26,0,5.3,Male,30,Group_C,59.99,1,1,0.977
+608,Bachelors,1,57.55,5,7.1,Male,56,Group_A,61.81,1,1,0.957
+609,Masters,20,52.21,3,3.6,Male,30,Group_B,50.38,5,1,0.982
+610,Masters,19,84.96,3,8.0,Female,57,Group_D,85.98,4,1,0.99
+611,Masters,15,76.54,5,7.7,Male,51,Group_A,84.39,3,1,0.922
+612,Bachelors,2,69.44,0,7.1,Male,52,Group_D,75.96,2,1,0.935
+613,High School,16,72.8,2,7.1,Male,40,Group_C,70.07,5,1,0.973
+614,Bachelors,4,58.75,0,6.3,Male,44,Group_C,71.77,2,1,0.87
+615,Bachelors,7,94.46,0,10.0,Male,41,Group_A,100.0,4,1,0.945
+616,Masters,11,71.29,2,8.0,Female,27,Group_A,72.94,3,1,0.984
+617,High School,11,71.09,3,5.9,Female,45,Group_D,76.54,4,1,0.946
+618,Bachelors,0,77.26,2,7.4,Male,43,Group_A,95.32,2,1,0.819
+619,Masters,0,74.81,1,8.9,Female,27,Group_B,67.62,2,1,0.928
+620,Masters,14,72.24,4,8.3,Female,45,Group_C,71.11,4,1,0.989
+621,Masters,16,62.1,2,4.6,Female,43,Group_A,52.6,3,1,0.905
+622,Masters,1,74.71,3,7.9,Female,39,Group_C,75.68,1,1,0.99
+623,Masters,16,88.82,2,6.5,Male,37,Group_A,96.16,4,1,0.927
+624,Masters,19,83.45,3,8.4,Female,57,Group_B,83.26,3,1,0.998
+625,Bachelors,8,85.93,1,10.0,Female,34,Group_A,85.65,4,1,0.997
+626,PhD,11,64.89,2,5.4,Male,58,Group_B,56.31,3,1,0.914
+627,Bachelors,3,60.1,5,5.0,Male,45,Group_D,63.53,3,1,0.966
+628,Bachelors,12,68.74,3,7.8,Male,40,Group_A,78.74,3,1,0.9
+629,Bachelors,3,70.56,2,5.2,Female,41,Group_B,67.6,2,1,0.97
+630,Masters,6,80.94,0,7.3,Male,48,Group_B,85.82,2,1,0.951
+631,PhD,13,53.08,0,6.0,Female,38,Group_A,48.2,2,1,0.951
+632,High School,8,85.3,1,7.8,Male,37,Group_B,89.2,2,1,0.961
+633,High School,0,68.42,1,6.6,Female,22,Group_D,66.45,3,1,0.98
+634,Masters,0,65.73,4,7.5,Male,42,Group_D,64.56,2,1,0.988
+635,PhD,19,59.88,1,6.5,Female,48,Group_A,57.28,5,1,0.974
+636,Bachelors,3,53.45,3,5.7,Female,22,Group_C,51.48,1,1,0.98
+637,Bachelors,0,78.23,4,7.4,Male,51,Group_B,82.95,4,1,0.953
+638,Masters,9,70.73,0,7.5,Male,41,Group_D,65.97,3,1,0.952
+639,Bachelors,1,57.1,2,5.6,Female,45,Group_A,56.25,2,1,0.991
+640,Masters,20,57.05,5,6.3,Male,23,Group_C,59.32,3,1,0.977
+641,High School,14,66.64,3,6.1,Female,36,Group_D,61.15,4,1,0.945
+642,High School,2,86.69,1,8.4,Female,50,Group_D,95.67,3,1,0.91
+643,Bachelors,8,67.4,2,5.6,Female,56,Group_B,63.14,2,1,0.957
+644,Bachelors,16,54.97,1,5.5,Female,34,Group_A,54.16,2,1,0.992
+645,High School,20,67.54,1,5.8,Female,40,Group_B,62.65,3,1,0.951
+646,High School,12,67.27,0,5.4,Female,22,Group_A,77.97,4,1,0.893
+647,Masters,2,43.03,2,4.6,Female,37,Group_B,45.8,1,1,0.972
+648,High School,3,69.46,3,7.2,Male,24,Group_B,68.2,1,1,0.987
+649,PhD,3,67.69,2,7.7,Male,27,Group_A,79.23,3,1,0.885
+650,Bachelors,10,76.96,0,7.2,Male,52,Group_A,83.01,2,1,0.939
+651,Masters,6,88.49,1,9.3,Female,26,Group_A,91.55,4,1,0.969
+652,Bachelors,10,81.27,1,8.8,Male,47,Group_A,83.22,5,1,0.98
+653,Bachelors,10,67.31,2,7.3,Female,49,Group_B,63.56,2,1,0.962
+654,Bachelors,9,58.93,2,4.9,Male,36,Group_A,64.84,4,1,0.941
+655,Bachelors,4,95.73,3,9.8,Female,30,Group_C,93.01,4,1,0.973
+656,Masters,12,70.59,4,7.5,Male,43,Group_B,82.08,3,1,0.885
+657,Masters,11,70.14,2,7.0,Male,58,Group_C,66.82,3,1,0.967
+658,Masters,9,69.76,0,4.5,Male,42,Group_A,81.6,4,1,0.882
+659,Bachelors,6,71.98,0,7.4,Male,50,Group_C,74.45,3,1,0.975
+660,Masters,18,68.56,3,9.5,Male,47,Group_D,73.49,2,1,0.951
+661,Bachelors,18,64.26,2,6.0,Female,27,Group_B,68.43,5,1,0.958
+662,PhD,18,64.53,1,5.6,Male,32,Group_A,65.31,4,1,0.992
+663,Masters,11,69.67,5,7.4,Female,57,Group_B,73.99,3,1,0.957
+664,High School,19,64.57,1,6.8,Male,41,Group_B,53.74,3,1,0.892
+665,Bachelors,14,62.87,2,7.7,Male,41,Group_A,63.92,3,1,0.989
+666,Bachelors,4,71.06,1,5.6,Male,48,Group_D,68.33,4,1,0.973
+667,Masters,13,67.45,3,7.6,Male,27,Group_B,63.43,4,1,0.96
+668,Bachelors,11,85.04,3,9.2,Female,54,Group_C,83.97,4,1,0.989
+669,Masters,20,43.49,3,4.2,Female,51,Group_B,45.42,2,1,0.981
+670,Bachelors,10,80.92,3,8.5,Male,55,Group_A,89.92,3,1,0.91
+671,High School,4,82.46,1,9.5,Female,26,Group_A,85.43,3,1,0.97
+672,High School,15,49.27,3,6.0,Male,37,Group_A,49.1,4,1,0.998
+673,Bachelors,17,66.57,5,5.3,Female,33,Group_D,68.42,3,1,0.981
+674,Masters,11,66.29,1,7.6,Female,33,Group_C,66.91,4,1,0.994
+675,Bachelors,4,55.92,1,5.5,Female,32,Group_C,60.61,1,1,0.953
+676,Bachelors,15,62.22,3,6.3,Male,42,Group_D,68.56,3,1,0.937
+677,High School,11,58.89,6,6.0,Male,28,Group_A,63.45,3,1,0.954
+678,High School,1,87.52,3,8.6,Female,55,Group_A,84.49,2,1,0.97
+679,Masters,5,79.36,5,9.4,Female,50,Group_D,76.09,3,1,0.967
+680,Bachelors,20,82.72,0,8.2,Female,27,Group_B,79.97,4,1,0.972
+681,Masters,3,77.22,2,6.4,Male,57,Group_B,79.09,4,1,0.981
+682,Masters,12,58.71,3,5.4,Female,55,Group_B,60.05,3,1,0.987
+683,Masters,9,64.75,1,6.7,Female,29,Group_C,68.33,3,1,0.964
+684,High School,16,74.89,3,9.0,Male,58,Group_B,77.85,3,1,0.97
+685,Bachelors,13,57.78,3,6.5,Female,31,Group_C,57.86,3,1,0.999
+686,Masters,14,77.13,2,6.7,Male,37,Group_D,79.69,3,1,0.974
+687,Masters,7,67.6,1,9.7,Male,23,Group_B,66.83,2,1,0.992
+688,Masters,17,66.25,1,6.9,Male,40,Group_B,63.91,5,1,0.977
+689,Bachelors,2,77.11,4,9.2,Male,28,Group_B,70.28,2,1,0.932
+690,High School,16,74.44,4,7.3,Female,23,Group_A,72.54,4,1,0.981
+691,Bachelors,6,66.39,3,7.3,Female,44,Group_C,68.76,3,1,0.976
+692,Masters,12,81.59,2,9.2,Male,52,Group_A,82.62,3,1,0.99
+693,Bachelors,15,59.19,6,7.4,Male,25,Group_D,59.67,4,1,0.995
+694,High School,4,76.16,1,8.9,Female,37,Group_B,78.49,3,1,0.977
+695,Masters,3,75.93,4,8.6,Female,31,Group_D,78.53,3,1,0.974
+696,Bachelors,9,66.9,2,6.3,Female,42,Group_A,63.78,5,1,0.969
+697,High School,12,73.26,4,6.6,Male,49,Group_D,80.64,3,1,0.926
+698,High School,9,57.49,1,6.1,Female,33,Group_B,63.13,4,1,0.944
+699,Bachelors,13,79.24,0,9.0,Female,34,Group_C,73.59,4,1,0.944
+700,Bachelors,11,68.15,0,6.5,Male,38,Group_A,67.32,4,1,0.992
+701,Bachelors,0,64.77,1,7.8,Female,39,Group_B,70.73,2,1,0.94
+702,High School,20,80.49,3,9.8,Female,31,Group_B,79.76,5,1,0.993
+703,High School,19,62.96,1,5.2,Female,49,Group_B,51.86,4,1,0.889
+704,Bachelors,19,55.92,3,4.6,Female,34,Group_A,50.04,4,1,0.941
+705,Masters,6,54.43,1,5.3,Female,55,Group_D,53.19,3,1,0.988
+706,High School,8,76.06,3,8.0,Male,27,Group_A,75.79,3,1,0.997
+707,Bachelors,7,57.2,1,5.1,Female,33,Group_A,57.73,3,1,0.995
+708,High School,12,87.55,4,10.0,Female,50,Group_A,89.27,4,1,0.983
+709,Bachelors,13,49.18,1,5.4,Male,34,Group_D,59.58,2,1,0.896
+710,High School,11,86.96,6,8.7,Female,47,Group_B,85.51,3,1,0.986
+711,High School,7,72.11,6,5.5,Female,25,Group_B,77.47,3,1,0.946
+712,Masters,20,69.03,3,5.3,Male,36,Group_B,79.53,5,1,0.895
+713,Bachelors,17,64.55,1,6.8,Female,37,Group_C,71.72,2,1,0.928
+714,Masters,15,73.99,1,4.8,Male,40,Group_A,81.13,4,1,0.929
+715,High School,10,69.62,2,8.2,Female,47,Group_A,61.99,4,1,0.924
+716,High School,15,81.03,2,7.9,Male,53,Group_A,88.03,3,1,0.93
+717,Bachelors,13,71.14,0,10.0,Female,27,Group_B,76.38,3,1,0.948
+718,Masters,2,71.5,2,9.9,Male,27,Group_B,74.31,3,1,0.972
+719,Bachelors,20,66.36,1,6.4,Female,26,Group_B,75.09,5,1,0.913
+720,Bachelors,1,69.43,5,6.8,Other,23,Group_C,73.73,3,1,0.957
+721,Bachelors,2,73.08,1,8.5,Male,23,Group_A,81.32,2,1,0.918
+722,High School,3,52.9,1,7.3,Female,58,Group_A,60.05,1,1,0.928
+723,PhD,4,56.52,2,3.7,Male,24,Group_A,63.39,3,1,0.931
+724,Bachelors,9,77.43,0,5.6,Female,27,Group_A,67.57,3,1,0.901
+725,Masters,19,71.71,1,6.4,Female,52,Group_A,71.61,4,1,0.999
+726,Masters,1,68.16,2,7.5,Female,26,Group_B,74.15,4,1,0.94
+727,Bachelors,11,70.18,1,7.6,Female,31,Group_B,66.15,4,1,0.96
+728,High School,4,73.48,3,8.6,Male,48,Group_C,75.56,3,1,0.979
+729,Bachelors,4,64.6,0,5.0,Male,45,Group_B,61.14,3,1,0.965
+730,High School,0,62.22,1,3.4,Female,43,Group_A,73.98,2,1,0.882
+731,Bachelors,3,71.96,0,8.2,Male,46,Group_B,83.76,3,1,0.882
+732,Bachelors,20,60.22,4,5.0,Male,24,Group_B,58.39,4,1,0.982
+733,Masters,11,74.08,2,5.0,Male,37,Group_D,76.99,4,1,0.971
+734,Masters,11,52.97,1,5.5,Female,51,Group_C,49.57,3,1,0.966
+735,Masters,15,80.29,3,9.0,Male,25,Group_B,85.55,3,1,0.947
+736,High School,16,74.73,2,7.3,Female,37,Group_B,77.27,4,1,0.975
+737,Bachelors,20,72.56,1,6.7,Female,29,Group_A,78.61,2,1,0.94
+738,High School,9,79.83,3,7.8,Female,45,Group_B,81.49,4,1,0.983
+739,Masters,16,86.65,2,8.2,Male,37,Group_D,100.0,4,1,0.866
+740,PhD,16,80.14,2,6.4,Male,48,Group_B,77.86,5,1,0.977
+741,Bachelors,17,51.59,0,4.3,Female,23,Group_A,45.65,4,1,0.941
+742,High School,1,57.2,7,6.3,Other,41,Group_B,55.24,3,1,0.98
+743,Bachelors,3,63.75,3,6.8,Male,41,Group_D,58.87,1,1,0.951
+744,Masters,18,70.26,4,7.2,Male,41,Group_A,67.63,4,1,0.974
+745,Bachelors,10,75.18,2,6.3,Male,40,Group_B,72.01,3,1,0.968
+746,High School,16,62.74,1,6.1,Female,39,Group_A,60.24,4,1,0.975
+747,PhD,11,71.87,3,4.6,Female,34,Group_A,68.12,2,1,0.962
+748,Masters,1,62.45,0,6.5,Male,38,Group_B,67.98,2,1,0.945
+749,High School,5,63.88,1,8.1,Male,54,Group_B,63.45,1,1,0.996
+750,PhD,8,55.93,0,3.8,Female,49,Group_A,57.68,3,1,0.982
+751,Bachelors,4,60.77,2,5.4,Male,26,Group_B,67.18,4,1,0.936
+752,Bachelors,19,56.48,2,6.0,Female,49,Group_B,52.65,4,1,0.962
+753,Bachelors,20,60.24,2,7.5,Female,46,Group_A,61.61,4,1,0.986
+754,Masters,8,80.54,1,7.5,Female,41,Group_D,82.37,1,1,0.982
+755,Masters,7,60.51,1,5.2,Female,42,Group_A,52.6,2,1,0.921
+756,High School,19,96.32,1,7.3,Female,34,Group_B,84.4,5,1,0.881
+757,PhD,7,74.93,1,7.6,Female,27,Group_A,78.12,3,1,0.968
+758,High School,20,71.85,1,9.6,Male,50,Group_B,76.24,5,1,0.956
+759,Masters,5,61.42,0,6.5,Male,30,Group_B,73.54,2,1,0.879
+760,Bachelors,2,77.0,2,7.7,Female,50,Group_B,77.79,3,1,0.992
+761,High School,4,64.24,3,6.8,Male,59,Group_C,70.69,2,1,0.936
+762,High School,8,71.22,2,7.1,Female,22,Group_C,70.24,3,1,0.99
+763,Masters,6,95.6,4,8.6,Male,51,Group_B,99.11,3,1,0.965
+764,Bachelors,3,69.04,4,7.9,Female,53,Group_A,80.34,2,1,0.887
+765,Masters,6,81.49,6,8.4,Female,44,Group_B,70.87,4,1,0.894
+766,Bachelors,4,62.97,0,6.3,Female,31,Group_B,65.04,2,1,0.979
+767,Masters,10,69.65,0,5.8,Male,42,Group_A,85.72,4,1,0.839
+768,Bachelors,14,87.71,2,10.0,Other,47,Group_A,91.15,4,1,0.966
+769,Bachelors,1,63.73,2,7.2,Male,36,Group_A,77.75,1,1,0.86
+770,Bachelors,12,88.12,4,8.1,Male,38,Group_A,89.78,4,1,0.983
+771,Masters,15,77.08,2,8.9,Male,56,Group_B,79.23,3,1,0.978
+772,Bachelors,6,64.38,1,5.8,Female,46,Group_C,64.54,2,1,0.998
+773,Bachelors,7,76.32,1,6.7,Male,36,Group_B,67.94,2,1,0.916
+774,PhD,5,79.73,6,7.1,Female,54,Group_D,73.88,2,1,0.941
+775,Masters,6,76.22,3,5.5,Female,32,Group_A,73.43,3,1,0.972
+776,High School,17,54.3,0,6.0,Female,45,Group_A,60.81,3,1,0.935
+777,PhD,19,62.73,2,4.1,Female,27,Group_B,67.09,4,1,0.956
+778,Masters,6,67.52,4,5.3,Female,49,Group_D,69.14,3,1,0.984
+779,High School,2,69.26,1,4.4,Female,50,Group_C,73.38,5,1,0.959
+780,Bachelors,4,76.21,2,7.5,Female,42,Group_C,75.39,3,1,0.992
+781,Masters,0,71.78,0,7.0,Male,33,Group_C,80.29,1,1,0.915
+782,Masters,14,56.65,0,5.3,Male,43,Group_C,58.52,3,1,0.981
+783,Bachelors,2,73.8,2,6.1,Male,48,Group_C,75.69,2,1,0.981
+784,Bachelors,7,76.11,1,6.2,Male,42,Group_D,77.65,2,1,0.985
+785,Bachelors,8,75.6,2,8.1,Male,36,Group_A,83.7,3,1,0.919
+786,Bachelors,14,80.81,3,7.4,Female,39,Group_D,78.7,3,1,0.979
+787,High School,9,78.34,3,8.2,Female,31,Group_A,85.08,4,1,0.933
+788,High School,1,74.59,3,6.4,Male,43,Group_D,70.54,1,1,0.96
+789,Masters,19,69.3,1,7.1,Female,41,Group_A,66.62,5,1,0.973
+790,Masters,4,53.39,1,6.9,Female,40,Group_B,56.83,1,1,0.966
+791,Bachelors,18,74.3,1,8.1,Male,49,Group_D,76.23,4,1,0.981
+792,Bachelors,12,72.08,0,6.7,Female,58,Group_A,71.95,3,1,0.999
+793,Bachelors,10,72.72,5,7.6,Female,22,Group_C,77.17,3,1,0.956
+794,Bachelors,0,57.23,2,5.4,Male,55,Group_B,57.18,2,1,1.0
+795,PhD,14,59.19,2,5.9,Male,56,Group_A,63.18,3,1,0.96
+796,Masters,17,80.53,2,7.7,Male,47,Group_D,90.78,5,1,0.898
+797,Bachelors,15,69.6,2,6.8,Male,51,Group_A,80.81,4,1,0.888
+798,Bachelors,8,76.82,0,7.9,Female,33,Group_C,84.68,3,1,0.921
+799,Bachelors,0,70.28,2,5.8,Female,35,Group_B,68.87,2,1,0.986
+800,Bachelors,10,70.3,1,5.8,Female,25,Group_C,76.45,5,1,0.938
+801,Bachelors,8,79.38,0,6.3,Male,33,Group_C,78.11,4,1,0.987
+802,Masters,10,64.84,4,4.6,Female,45,Group_B,60.31,3,1,0.955
+803,Masters,12,70.96,3,5.6,Male,52,Group_D,62.24,4,1,0.913
+804,Bachelors,1,65.38,2,6.7,Female,22,Group_A,75.85,2,1,0.895
+805,Masters,13,65.66,5,5.5,Male,58,Group_C,63.15,2,1,0.975
+806,Masters,5,66.91,4,7.3,Female,22,Group_C,66.28,2,1,0.994
+807,Masters,7,72.22,3,7.3,Female,36,Group_A,69.82,2,1,0.976
+808,PhD,17,65.21,2,4.2,Female,34,Group_B,68.69,2,1,0.965
+809,Bachelors,15,82.56,1,9.0,Male,50,Group_B,83.86,3,1,0.987
+810,Bachelors,20,61.05,1,7.1,Female,25,Group_C,54.53,4,1,0.935
+811,Masters,11,68.13,1,5.6,Female,36,Group_A,73.14,3,1,0.95
+812,Masters,10,65.6,3,7.1,Female,33,Group_A,60.84,2,1,0.952
+813,PhD,5,84.47,4,7.4,Male,46,Group_A,85.43,1,1,0.99
+814,High School,2,71.97,1,7.3,Male,48,Group_A,65.6,4,1,0.936
+815,Bachelors,13,80.32,3,6.5,Male,27,Group_A,76.52,4,1,0.962
+816,High School,1,55.14,6,3.4,Male,44,Group_B,58.41,3,1,0.967
+817,Bachelors,10,72.67,1,6.8,Female,36,Group_B,62.85,4,1,0.902
+818,High School,2,78.9,1,7.7,Female,26,Group_D,71.49,3,1,0.926
+819,High School,17,70.82,2,6.6,Male,44,Group_C,73.37,4,1,0.974
+820,High School,0,80.65,1,6.6,Female,36,Group_A,79.35,2,1,0.987
+821,Bachelors,0,64.83,4,6.0,Male,46,Group_A,79.7,3,1,0.851
+822,Bachelors,11,84.09,1,8.7,Male,51,Group_C,95.19,3,1,0.889
+823,High School,14,92.99,1,9.2,Male,25,Group_C,91.1,4,1,0.981
+824,Bachelors,4,66.37,2,6.9,Female,34,Group_C,69.16,1,1,0.972
+825,High School,5,65.54,3,5.8,Female,44,Group_B,69.29,2,1,0.962
+826,PhD,15,84.53,2,9.9,Male,37,Group_A,84.79,5,1,0.997
+827,Bachelors,11,85.8,2,7.2,Female,56,Group_B,78.32,5,1,0.925
+828,Bachelors,11,64.77,1,7.1,Male,37,Group_C,67.33,3,1,0.974
+829,Masters,2,65.8,1,8.0,Male,28,Group_A,70.02,1,1,0.958
+830,Bachelors,1,67.18,0,7.3,Male,34,Group_B,67.64,3,1,0.995
+831,Masters,6,56.56,1,5.4,Male,50,Group_A,63.6,2,1,0.93
+832,Bachelors,1,60.81,3,5.4,Female,41,Group_B,57.06,2,1,0.962
+833,PhD,20,59.96,0,7.2,Female,50,Group_B,54.2,3,1,0.942
+834,Bachelors,6,62.32,2,4.5,Male,39,Group_B,65.87,4,1,0.964
+835,PhD,10,69.65,3,5.8,Male,43,Group_B,73.38,4,1,0.963
+836,Masters,10,72.34,4,6.8,Male,57,Group_B,69.77,4,1,0.974
+837,Bachelors,13,85.51,5,10.0,Male,57,Group_D,92.81,3,1,0.927
+838,Masters,2,60.02,0,6.5,Female,29,Group_B,51.16,2,1,0.911
+839,Bachelors,13,79.84,2,6.8,Male,24,Group_C,79.82,4,1,1.0
+840,High School,10,67.86,2,6.4,Female,50,Group_A,68.64,4,1,0.992
+841,Bachelors,3,69.51,1,6.2,Male,30,Group_B,69.46,3,1,0.999
+842,PhD,16,76.75,0,6.8,Male,29,Group_A,79.05,3,1,0.977
+843,Bachelors,15,58.77,1,7.1,Female,51,Group_A,69.84,2,1,0.889
+844,Bachelors,2,73.82,3,5.7,Male,33,Group_A,73.76,3,1,0.999
+845,Masters,9,71.66,1,9.1,Male,49,Group_B,86.83,3,1,0.848
+846,Bachelors,20,74.92,1,8.5,Male,31,Group_B,78.71,5,1,0.962
+847,High School,14,72.89,1,8.6,Male,34,Group_D,75.61,3,1,0.973
+848,Masters,7,94.55,2,8.9,Male,23,Group_C,100.0,3,1,0.946
+849,Masters,17,63.62,3,6.2,Male,22,Group_A,79.69,2,1,0.839
+850,High School,2,64.69,1,4.7,Female,43,Group_C,59.72,3,1,0.95
+851,PhD,6,63.77,2,5.7,Female,54,Group_B,58.17,3,1,0.944
+852,Bachelors,9,64.45,1,7.0,Female,37,Group_C,60.67,4,1,0.962
+853,Bachelors,19,63.63,1,7.9,Male,50,Group_B,66.37,4,1,0.973
+854,High School,8,81.89,1,6.9,Male,31,Group_A,77.31,1,1,0.954
+855,Bachelors,13,84.21,3,8.0,Male,28,Group_B,86.47,4,1,0.977
+856,Bachelors,13,64.29,0,6.2,Male,22,Group_B,75.69,2,1,0.886
+857,Bachelors,10,61.68,0,4.5,Male,47,Group_D,65.22,1,1,0.965
+858,Masters,0,74.71,1,8.2,Male,26,Group_A,76.91,1,1,0.978
+859,High School,3,64.48,0,5.6,Male,56,Group_C,64.77,1,1,0.997
+860,Masters,5,76.33,1,7.4,Male,34,Group_B,83.87,3,1,0.925
+861,Bachelors,4,72.03,3,6.7,Male,48,Group_B,69.94,2,1,0.979
+862,PhD,2,54.84,3,4.5,Male,33,Group_C,66.5,1,1,0.883
+863,Bachelors,1,85.48,2,8.5,Male,51,Group_C,98.4,3,1,0.871
+864,High School,2,87.96,2,8.5,Male,53,Group_C,90.78,2,1,0.972
+865,High School,8,63.87,3,5.9,Male,52,Group_A,68.27,4,1,0.956
+866,Masters,18,66.12,1,5.7,Male,26,Group_A,74.67,5,1,0.915
+867,Masters,18,72.86,3,7.7,Male,58,Group_A,82.28,4,1,0.906
+868,Bachelors,16,73.34,0,9.3,Male,23,Group_A,74.87,5,1,0.985
+869,Bachelors,17,76.59,2,7.8,Male,59,Group_B,77.08,5,1,0.995
+870,Bachelors,10,90.1,1,10.0,Female,28,Group_B,83.49,4,1,0.934
+871,PhD,11,68.23,0,5.2,Male,22,Group_C,72.15,5,1,0.961
+872,PhD,2,62.02,1,6.4,Male,24,Group_B,68.52,2,1,0.935
+873,PhD,17,56.21,1,4.3,Male,41,Group_B,51.25,2,1,0.95
+874,Masters,5,62.69,2,4.5,Male,23,Group_B,62.86,1,1,0.998
+875,PhD,6,69.67,3,6.1,Male,42,Group_B,65.88,2,1,0.962
+876,Bachelors,0,87.95,4,10.0,Other,53,Group_B,83.45,3,1,0.955
+877,Masters,5,64.82,3,7.6,Female,41,Group_A,69.34,2,1,0.955
+878,Masters,17,72.24,1,7.5,Male,52,Group_C,71.14,3,1,0.989
+879,PhD,12,69.84,3,5.1,Female,54,Group_D,68.33,2,1,0.985
+880,Bachelors,18,81.88,2,8.0,Male,45,Group_C,76.95,4,1,0.951
+881,High School,6,95.27,0,9.9,Male,39,Group_B,98.93,5,1,0.963
+882,Bachelors,18,64.69,2,6.7,Female,41,Group_B,64.47,4,1,0.998
+883,Masters,8,65.11,2,4.3,Male,53,Group_B,63.82,2,1,0.987
+884,Bachelors,2,80.44,1,7.0,Male,26,Group_A,84.11,4,1,0.963
+885,Bachelors,11,76.82,4,7.6,Female,23,Group_B,77.72,3,1,0.991
+886,Bachelors,19,88.47,1,9.5,Female,47,Group_D,84.39,5,1,0.959
+887,Bachelors,17,75.84,2,4.9,Female,46,Group_A,69.88,5,1,0.94
+888,Bachelors,7,66.41,1,6.4,Female,43,Group_B,75.43,2,1,0.91
+889,High School,8,75.91,3,7.8,Female,43,Group_D,72.74,4,1,0.968
+890,PhD,12,81.09,2,9.1,Male,32,Group_B,82.17,4,1,0.989
+891,Masters,7,78.2,1,8.7,Male,32,Group_B,85.74,3,1,0.925
+892,High School,9,75.07,1,8.2,Female,25,Group_C,92.72,2,1,0.823
+893,Masters,16,80.67,3,7.1,Other,54,Group_B,74.44,4,1,0.938
+894,Masters,6,81.69,1,5.9,Male,39,Group_C,86.76,4,1,0.949
+895,High School,16,83.82,2,7.9,Other,52,Group_A,82.22,5,1,0.984
+896,Bachelors,17,76.49,1,8.9,Male,49,Group_C,76.96,5,1,0.995
+897,Bachelors,1,68.33,2,8.5,Male,43,Group_A,70.26,2,1,0.981
+898,Bachelors,2,71.47,3,8.0,Male,24,Group_A,70.65,3,1,0.992
+899,Masters,18,82.07,1,8.7,Male,28,Group_B,84.21,3,1,0.979
+900,Bachelors,0,61.83,4,6.6,Female,41,Group_B,54.46,2,1,0.926
+901,High School,20,73.69,2,6.7,Male,28,Group_C,80.55,5,1,0.931
+902,PhD,20,66.07,3,6.5,Female,28,Group_A,67.72,5,1,0.983
+903,Bachelors,9,70.29,2,9.0,Female,50,Group_C,72.4,3,1,0.979
+904,Masters,20,82.78,6,7.1,Male,47,Group_A,85.34,4,1,0.974
+905,High School,13,71.91,2,9.1,Female,24,Group_D,70.07,3,1,0.982
+906,Bachelors,12,70.46,3,6.7,Male,38,Group_B,74.73,3,1,0.957
+907,Bachelors,8,56.4,2,7.2,Female,41,Group_A,53.0,1,1,0.966
+908,High School,5,77.46,2,6.1,Male,55,Group_C,78.02,3,1,0.994
+909,Bachelors,5,76.45,0,8.3,Male,54,Group_D,75.42,1,1,0.99
+910,High School,18,91.63,1,8.3,Female,37,Group_D,87.18,3,1,0.956
+911,Bachelors,20,66.92,2,5.0,Female,44,Group_A,59.2,5,1,0.923
+912,Masters,9,72.19,0,7.5,Female,25,Group_C,78.89,4,1,0.933
+913,High School,2,72.49,2,8.5,Female,54,Group_B,69.06,2,1,0.966
+914,Masters,17,85.77,1,7.6,Female,29,Group_C,91.59,4,1,0.942
+915,High School,20,69.05,1,5.1,Male,26,Group_B,77.26,4,1,0.918
+916,Bachelors,18,72.79,2,7.2,Female,54,Group_B,66.36,4,1,0.936
+917,Masters,4,76.08,0,7.5,Male,46,Group_D,73.42,3,1,0.973
+918,Bachelors,10,71.87,3,7.8,Male,28,Group_D,87.63,2,1,0.842
+919,Bachelors,9,65.54,2,7.7,Male,28,Group_C,77.27,1,1,0.883
+920,High School,16,71.94,3,7.1,Male,54,Group_C,74.27,3,1,0.977
+921,Masters,3,80.74,1,10.0,Male,54,Group_C,84.36,3,1,0.964
+922,Bachelors,20,59.73,1,6.2,Male,50,Group_A,61.05,5,1,0.987
+923,High School,17,71.33,2,6.7,Male,53,Group_C,75.98,4,1,0.953
+924,Bachelors,17,63.0,0,4.4,Female,58,Group_B,59.41,4,1,0.964
+925,Masters,0,81.95,2,7.9,Female,50,Group_A,74.29,2,1,0.923
+926,Bachelors,13,54.77,0,5.1,Female,43,Group_C,48.16,3,1,0.934
+927,High School,7,64.41,1,7.6,Male,23,Group_C,66.45,3,1,0.98
+928,Bachelors,1,73.77,2,7.9,Female,30,Group_D,68.12,2,1,0.944
+929,Bachelors,18,85.66,0,7.2,Male,50,Group_B,87.86,4,1,0.978
+930,Bachelors,14,69.34,0,7.1,Female,54,Group_B,63.97,3,1,0.946
+931,Masters,1,64.45,1,7.3,Male,31,Group_D,62.11,3,1,0.977
+932,Bachelors,3,88.81,2,10.0,Female,49,Group_A,95.07,2,1,0.937
+933,Bachelors,0,55.52,1,6.6,Male,33,Group_C,59.71,1,1,0.958
+934,PhD,18,48.01,3,5.7,Female,43,Group_D,47.96,4,1,1.0
+935,Bachelors,20,74.4,3,7.5,Female,27,Group_C,78.79,4,1,0.956
+936,Bachelors,9,64.98,1,7.0,Female,44,Group_D,67.38,3,1,0.976
+937,Bachelors,0,59.79,2,7.5,Male,55,Group_B,68.77,2,1,0.91
+938,Bachelors,19,77.08,1,6.1,Male,59,Group_A,79.15,4,1,0.979
+939,Bachelors,14,72.44,2,6.8,Female,37,Group_A,72.13,5,1,0.997
+940,Bachelors,3,64.36,2,5.5,Male,31,Group_C,61.24,2,1,0.969
+941,PhD,6,57.2,0,6.2,Female,42,Group_A,56.06,1,1,0.989
+942,Masters,6,78.72,2,9.3,Male,31,Group_C,86.6,4,1,0.921
+943,Masters,17,76.5,1,6.9,Female,32,Group_A,85.37,4,1,0.911
+944,Bachelors,12,69.01,1,4.0,Female,42,Group_D,73.81,3,1,0.952
+945,Bachelors,9,88.47,1,8.4,Female,46,Group_A,82.12,5,1,0.937
+946,High School,7,59.3,3,7.0,Male,55,Group_B,67.04,2,1,0.923
+947,Bachelors,9,54.74,2,6.1,Male,52,Group_C,47.53,4,1,0.928
+948,Masters,13,63.08,0,6.8,Female,48,Group_C,67.57,3,1,0.955
+949,Bachelors,13,69.54,1,6.6,Female,46,Group_B,67.71,4,1,0.982
+950,Masters,19,72.43,2,5.7,Male,53,Group_D,79.14,5,1,0.933
+951,High School,10,67.59,2,7.4,Male,32,Group_B,64.37,3,1,0.968
+952,Bachelors,5,73.52,2,6.4,Female,47,Group_A,82.18,3,1,0.913
+953,Bachelors,20,57.48,3,8.4,Female,57,Group_B,50.16,3,1,0.927
+954,Bachelors,0,84.44,1,9.1,Female,58,Group_C,81.1,2,1,0.967
+955,Masters,18,69.18,4,6.2,Female,54,Group_B,64.19,3,1,0.95
+956,PhD,6,81.17,1,7.4,Female,54,Group_C,72.4,3,1,0.912
+957,High School,17,73.43,0,7.2,Male,57,Group_B,76.42,5,1,0.97
+958,High School,2,74.57,1,7.2,Male,34,Group_A,88.4,3,1,0.862
+959,High School,19,75.7,4,8.9,Male,35,Group_A,92.26,4,1,0.834
+960,Masters,10,74.48,2,7.7,Female,58,Group_D,74.96,3,1,0.995
+961,Bachelors,4,76.43,1,6.8,Male,22,Group_C,84.69,2,1,0.917
+962,Masters,18,83.29,0,10.0,Male,26,Group_A,88.49,5,1,0.948
+963,Bachelors,20,71.97,0,7.3,Male,51,Group_A,80.22,4,1,0.918
+964,Bachelors,1,77.09,4,8.6,Male,39,Group_B,77.63,4,1,0.995
+965,Masters,3,69.1,2,6.2,Female,58,Group_C,70.08,2,1,0.99
+966,Bachelors,9,84.4,1,8.9,Female,33,Group_A,89.08,3,1,0.953
+967,Bachelors,1,63.24,1,6.7,Female,55,Group_B,60.34,1,1,0.971
+968,High School,7,88.01,3,6.5,Male,35,Group_A,92.82,3,1,0.952
+969,Bachelors,0,69.6,5,9.4,Female,59,Group_C,69.31,1,1,0.997
+970,Bachelors,5,55.69,3,7.1,Male,37,Group_A,62.74,1,1,0.93
+971,Bachelors,10,71.28,4,6.7,Female,32,Group_A,67.1,4,1,0.958
+972,PhD,9,63.19,1,5.0,Male,54,Group_C,64.61,1,1,0.986
+973,PhD,12,78.41,2,8.3,Male,36,Group_B,89.55,4,1,0.889
+974,Masters,0,63.47,2,6.5,Male,31,Group_C,71.62,2,1,0.918
+975,Bachelors,1,65.54,0,7.0,Female,24,Group_A,74.64,3,1,0.909
+976,Masters,2,51.1,1,5.3,Female,32,Group_B,51.23,1,1,0.999
+977,Bachelors,8,65.48,0,7.2,Male,32,Group_A,70.49,3,1,0.95
+978,Bachelors,4,45.76,3,6.3,Male,37,Group_B,54.26,2,1,0.915
+979,Bachelors,9,54.16,3,6.1,Female,59,Group_A,63.74,3,1,0.904
+980,High School,9,77.6,1,6.5,Male,51,Group_A,73.23,4,1,0.956
+981,Bachelors,11,77.86,0,9.4,Male,22,Group_A,75.39,3,1,0.975
+982,Bachelors,17,74.25,1,9.4,Male,59,Group_B,83.91,2,1,0.903
+983,PhD,20,60.33,2,9.8,Female,55,Group_B,58.95,4,1,0.986
+984,Bachelors,20,69.52,0,5.6,Male,40,Group_B,68.19,4,1,0.987
+985,PhD,0,69.96,1,7.3,Other,55,Group_B,63.69,2,1,0.937
+986,Bachelors,2,58.42,2,3.3,Male,57,Group_A,61.56,1,1,0.969
+987,High School,4,85.03,5,9.2,Male,25,Group_A,82.8,3,1,0.978
+988,Bachelors,16,78.77,0,7.2,Male,31,Group_A,93.78,5,1,0.85
+989,Masters,7,67.79,2,9.1,Female,38,Group_A,69.27,2,1,0.985
+990,High School,16,70.27,2,6.1,Male,37,Group_A,74.97,2,1,0.953
+991,Bachelors,8,72.08,3,5.2,Female,42,Group_A,77.66,2,1,0.944
+992,Bachelors,5,49.58,2,4.4,Male,49,Group_C,56.53,2,1,0.93
+993,Bachelors,16,67.53,2,4.4,Male,29,Group_B,73.78,5,1,0.938
+994,Masters,7,63.18,2,7.2,Female,50,Group_B,68.55,4,1,0.946
+995,Bachelors,20,59.98,3,3.5,Female,27,Group_C,56.83,4,1,0.968
+996,High School,6,67.19,0,6.8,Male,51,Group_D,67.93,2,1,0.993
+997,Masters,6,87.98,3,6.3,Female,23,Group_B,91.82,3,1,0.962
+998,Bachelors,14,76.41,4,7.3,Female,52,Group_B,73.77,4,1,0.974
+999,Masters,6,64.29,1,8.4,Male,46,Group_D,67.76,4,1,0.965
+1000,Masters,7,75.73,4,8.0,Male,44,Group_C,80.49,2,1,0.952
+1001,PhD,8,83.99,1,7.4,Male,42,Group_C,90.81,4,1,0.932
+1002,Bachelors,14,79.25,2,7.9,Male,37,Group_B,72.34,4,1,0.931
+1003,Bachelors,1,70.6,1,7.1,Female,25,Group_B,74.17,3,1,0.964
+1004,Bachelors,6,63.53,2,6.9,Male,29,Group_B,64.15,3,1,0.994
+1005,Masters,14,76.98,1,6.1,Male,27,Group_C,83.79,3,1,0.932
+1006,Bachelors,17,73.93,7,8.1,Male,48,Group_B,80.15,4,1,0.938
+1007,Bachelors,17,78.95,2,4.6,Female,57,Group_C,86.99,5,1,0.92
+1008,Masters,9,76.35,0,6.9,Female,57,Group_D,83.12,3,1,0.932
+1009,High School,17,80.5,1,7.5,Male,45,Group_B,88.74,3,1,0.918
+1010,Masters,0,64.65,3,7.2,Male,27,Group_B,73.96,2,1,0.907
+1011,Masters,6,83.17,2,8.3,Male,54,Group_C,86.52,3,1,0.966
+1012,Bachelors,2,71.98,2,5.5,Female,23,Group_A,74.24,2,1,0.977
+1013,Bachelors,13,90.75,1,7.9,Male,37,Group_D,97.83,4,1,0.929
+1014,Bachelors,11,63.11,0,6.5,Female,59,Group_C,66.77,2,1,0.963
+1015,PhD,13,87.36,3,8.6,Male,30,Group_A,90.23,4,1,0.971
+1016,High School,3,71.98,3,6.5,Female,26,Group_B,74.0,4,1,0.98
+1017,Bachelors,12,63.49,2,5.8,Female,31,Group_C,63.31,3,1,0.998
+1018,Masters,15,65.16,0,7.4,Female,51,Group_A,61.9,3,1,0.967
+1019,PhD,15,66.8,2,6.1,Male,28,Group_A,78.69,4,1,0.881
+1020,Masters,4,74.24,3,7.3,Female,50,Group_B,74.52,5,1,0.997
+1021,Bachelors,19,75.23,1,10.0,Male,23,Group_C,87.34,5,1,0.879
+1022,High School,5,64.26,3,4.7,Male,41,Group_A,59.62,2,1,0.954
+1023,Bachelors,5,69.76,4,4.8,Female,25,Group_C,66.97,3,1,0.972
+1024,High School,17,91.42,3,10.0,Female,49,Group_B,91.59,5,1,0.998
+1025,Masters,5,87.28,4,7.9,Female,29,Group_A,94.75,2,1,0.925
+1026,Masters,6,74.36,2,7.1,Male,56,Group_A,79.59,3,1,0.948
+1027,Masters,15,70.38,2,6.1,Female,23,Group_A,74.72,3,1,0.957
+1028,Masters,8,71.2,2,6.8,Male,49,Group_D,68.67,4,1,0.975
+1029,Bachelors,12,76.14,1,9.5,Male,32,Group_D,72.69,3,1,0.966
+1030,High School,11,59.77,1,6.9,Female,57,Group_A,62.66,3,1,0.971
+1031,Bachelors,18,67.43,5,7.8,Male,30,Group_B,62.61,4,1,0.952
+1032,High School,0,53.31,0,3.6,Female,59,Group_D,50.65,2,0,0.973
+1033,Masters,7,73.99,2,6.0,Male,22,Group_B,78.04,3,1,0.959
+1034,High School,3,76.47,2,4.2,Male,48,Group_A,75.72,4,1,0.992
+1035,Masters,20,65.17,3,5.5,Female,24,Group_A,75.03,5,1,0.901
+1036,Masters,18,85.74,1,9.7,Female,30,Group_C,91.86,3,1,0.939
+1037,Bachelors,20,57.74,1,6.4,Male,49,Group_B,52.76,4,1,0.95
+1038,High School,4,55.36,3,5.3,Male,42,Group_B,52.57,3,1,0.972
+1039,Bachelors,16,72.24,6,7.2,Female,49,Group_B,60.82,3,1,0.886
+1040,Bachelors,2,80.47,2,7.2,Male,45,Group_A,81.75,4,1,0.987
+1041,Masters,18,86.84,0,8.9,Male,39,Group_A,94.73,5,1,0.921
+1042,High School,0,65.41,1,7.5,Female,30,Group_D,63.34,2,1,0.979
+1043,Masters,0,80.79,1,6.1,Male,47,Group_D,86.0,3,1,0.948
+1044,Masters,19,69.61,1,7.3,Female,45,Group_B,62.0,2,1,0.924
+1045,High School,8,68.27,4,7.9,Female,27,Group_A,74.32,4,1,0.94
+1046,Masters,4,78.84,4,7.4,Other,33,Group_B,76.06,3,1,0.972
+1047,Masters,6,76.52,1,8.5,Male,57,Group_B,79.8,2,1,0.967
+1048,Masters,5,54.24,4,8.8,Female,30,Group_B,53.77,2,1,0.995
+1049,High School,16,84.77,2,8.4,Male,31,Group_D,80.52,3,1,0.958
+1050,High School,16,83.8,0,8.9,Male,24,Group_A,83.21,4,1,0.994
+1051,Bachelors,12,63.74,4,5.5,Male,50,Group_C,71.49,4,1,0.923
+1052,Bachelors,11,73.96,3,7.6,Male,28,Group_A,79.15,3,1,0.948
+1053,Masters,3,74.94,2,8.0,Male,47,Group_B,83.27,2,1,0.917
+1054,Masters,7,72.61,0,7.5,Male,29,Group_C,76.72,3,1,0.959
+1055,PhD,4,64.5,2,5.2,Male,34,Group_B,68.6,2,1,0.959
+1056,High School,4,63.28,0,6.6,Male,56,Group_A,59.69,3,1,0.964
+1057,High School,12,69.74,1,8.7,Female,40,Group_B,68.39,3,1,0.986
+1058,Masters,10,81.73,1,8.7,Male,43,Group_D,84.27,4,1,0.975
+1059,Bachelors,7,75.44,2,8.7,Female,37,Group_B,85.2,2,1,0.902
+1060,Bachelors,7,66.29,4,6.3,Female,36,Group_A,72.32,3,1,0.94
+1061,Bachelors,0,77.72,0,8.7,Female,23,Group_C,85.4,2,1,0.923
+1062,High School,12,41.51,2,4.5,Male,59,Group_A,49.26,2,1,0.922
+1063,Bachelors,4,81.49,2,7.0,Other,42,Group_B,77.93,3,1,0.964
+1064,Bachelors,20,52.6,3,5.6,Female,51,Group_B,53.19,3,1,0.994
+1065,Bachelors,7,66.38,2,5.4,Female,28,Group_A,69.67,2,1,0.967
+1066,Masters,16,58.8,3,5.1,Male,52,Group_B,56.15,4,1,0.974
+1067,High School,12,57.05,2,5.9,Female,56,Group_C,55.13,3,1,0.981
+1068,PhD,8,81.61,0,8.5,Female,25,Group_A,83.17,2,1,0.984
+1069,Bachelors,1,65.32,3,5.1,Male,55,Group_B,75.79,2,1,0.895
+1070,PhD,18,73.47,2,8.6,Female,22,Group_A,65.22,4,1,0.918
+1071,Bachelors,19,69.53,1,7.6,Female,31,Group_B,75.56,4,1,0.94
+1072,Bachelors,16,74.77,1,6.6,Female,51,Group_A,72.08,4,1,0.973
+1073,Bachelors,6,70.77,4,5.2,Male,53,Group_A,68.06,4,1,0.973
+1074,Masters,2,57.17,1,5.5,Female,24,Group_A,64.28,1,1,0.929
+1075,Bachelors,18,79.96,1,7.5,Male,31,Group_A,87.99,2,1,0.92
+1076,Bachelors,18,65.06,2,6.6,Female,30,Group_B,71.34,3,1,0.937
+1077,PhD,8,54.43,2,5.0,Male,38,Group_B,61.62,2,1,0.928
+1078,Bachelors,9,65.72,3,4.2,Male,24,Group_B,78.56,2,1,0.872
+1079,Bachelors,13,85.01,5,8.0,Male,48,Group_A,91.96,4,1,0.931
+1080,Bachelors,17,78.5,0,7.5,Female,56,Group_A,80.69,3,1,0.978
+1081,Bachelors,14,66.51,5,7.4,Female,25,Group_B,68.23,2,1,0.983
+1082,Bachelors,0,66.51,1,5.8,Male,25,Group_C,75.29,1,1,0.912
+1083,Bachelors,5,66.78,2,8.7,Male,53,Group_B,65.09,2,1,0.983
+1084,PhD,14,90.77,4,6.8,Male,59,Group_D,89.36,5,1,0.986
+1085,Masters,5,73.82,1,9.0,Female,32,Group_D,72.27,4,1,0.984
+1086,High School,17,74.3,1,7.2,Male,27,Group_A,68.99,3,1,0.947
+1087,Bachelors,0,80.3,2,9.1,Male,56,Group_A,83.81,1,1,0.965
+1088,PhD,2,72.39,4,7.3,Female,53,Group_D,62.96,2,1,0.906
+1089,Masters,16,67.41,2,8.1,Male,44,Group_A,71.68,5,1,0.957
+1090,PhD,15,68.04,3,6.3,Male,58,Group_B,73.99,4,1,0.941
+1091,Bachelors,7,69.28,2,5.6,Male,47,Group_D,69.75,3,1,0.995
+1092,Masters,16,69.63,1,8.7,Female,55,Group_C,78.01,3,1,0.916
+1093,Masters,7,77.28,1,7.6,Female,59,Group_A,72.59,4,1,0.953
+1094,Bachelors,16,70.52,5,7.3,Female,32,Group_C,76.48,4,1,0.94
+1095,Bachelors,8,77.33,1,9.2,Male,42,Group_B,83.01,5,1,0.943
+1096,Bachelors,11,69.19,0,5.7,Male,45,Group_D,63.1,2,1,0.939
+1097,Bachelors,18,70.79,1,7.8,Male,36,Group_A,88.36,4,1,0.824
+1098,Masters,3,50.02,2,4.3,Female,24,Group_B,49.7,1,1,0.997
+1099,Masters,20,79.16,2,7.8,Female,23,Group_C,74.78,5,1,0.956
+1100,Masters,10,73.46,1,7.4,Female,28,Group_A,68.09,3,1,0.946
+1101,Masters,3,79.98,2,6.2,Male,26,Group_A,83.06,3,1,0.969
+1102,Bachelors,13,41.04,5,3.2,Female,50,Group_A,42.44,3,1,0.986
+1103,Bachelors,13,90.88,2,10.0,Female,53,Group_B,91.4,5,1,0.995
+1104,Masters,5,68.6,1,7.9,Male,51,Group_D,69.34,4,1,0.993
+1105,Bachelors,16,81.08,0,8.0,Female,29,Group_A,85.78,4,1,0.953
+1106,Bachelors,1,59.6,1,6.3,Female,53,Group_A,59.45,1,1,0.998
+1107,Bachelors,7,76.13,4,7.3,Female,23,Group_B,66.45,2,1,0.903
+1108,High School,3,59.47,2,7.6,Female,31,Group_A,60.81,2,1,0.987
+1109,Masters,9,63.76,0,6.1,Male,58,Group_B,53.81,3,1,0.901
+1110,Bachelors,6,89.14,1,9.2,Female,24,Group_B,90.91,2,1,0.982
+1111,Bachelors,3,68.09,1,8.2,Female,44,Group_B,63.2,3,1,0.951
+1112,PhD,15,72.17,1,6.3,Male,55,Group_A,78.01,4,1,0.942
+1113,Masters,13,78.7,2,9.7,Male,39,Group_A,89.04,3,1,0.897
+1114,Masters,15,74.96,4,5.7,Male,54,Group_C,72.74,3,1,0.978
+1115,Bachelors,8,71.5,1,9.1,Male,54,Group_A,81.96,2,1,0.895
+1116,Masters,3,73.65,2,6.9,Female,38,Group_C,71.48,2,1,0.978
+1117,Masters,5,94.03,2,9.1,Male,27,Group_C,100.0,4,1,0.94
+1118,Bachelors,0,69.42,3,4.7,Male,34,Group_A,70.37,3,1,0.99
+1119,PhD,6,72.01,2,6.7,Male,42,Group_D,70.72,4,1,0.987
+1120,High School,0,80.51,3,6.8,Male,52,Group_A,88.25,2,1,0.923
+1121,PhD,18,81.06,1,7.4,Male,42,Group_C,82.0,5,1,0.991
+1122,Bachelors,7,81.87,2,8.0,Male,54,Group_B,79.63,3,1,0.978
+1123,Bachelors,2,76.39,1,8.8,Male,49,Group_A,79.58,3,1,0.968
+1124,High School,0,58.57,1,6.1,Female,27,Group_D,58.35,1,1,0.998
+1125,Bachelors,0,86.33,2,9.0,Male,29,Group_D,95.13,2,1,0.912
+1126,Bachelors,6,58.54,1,4.5,Female,34,Group_B,48.87,3,1,0.903
+1127,PhD,20,73.03,2,6.2,Male,55,Group_B,74.87,3,1,0.982
+1128,PhD,12,62.46,1,8.4,Male,43,Group_D,67.35,4,1,0.951
+1129,PhD,0,69.36,1,6.1,Male,22,Group_B,72.27,2,1,0.971
+1130,Bachelors,15,73.29,2,9.3,Male,34,Group_A,85.01,2,1,0.883
+1131,PhD,13,73.21,1,7.0,Male,22,Group_B,74.83,1,1,0.984
+1132,Bachelors,3,74.22,2,7.4,Male,31,Group_C,76.01,4,1,0.982
+1133,Masters,11,86.14,3,9.9,Male,26,Group_D,91.11,2,1,0.95
+1134,Bachelors,11,74.54,2,9.0,Female,41,Group_D,75.03,3,1,0.995
+1135,Bachelors,16,67.56,5,6.6,Male,34,Group_A,70.68,4,1,0.969
+1136,PhD,20,79.64,0,7.5,Female,58,Group_C,82.22,3,1,0.974
+1137,PhD,14,81.89,1,8.1,Female,31,Group_A,80.81,3,1,0.989
+1138,Masters,9,57.72,2,6.2,Female,24,Group_C,54.67,3,1,0.97
+1139,Masters,2,75.97,4,8.7,Male,55,Group_B,76.61,3,1,0.994
+1140,High School,19,77.01,3,7.7,Female,55,Group_A,86.06,4,1,0.91
+1141,Masters,19,67.02,3,7.4,Male,51,Group_C,53.42,4,1,0.864
+1142,Bachelors,11,83.76,1,10.0,Male,58,Group_A,90.85,4,1,0.929
+1143,High School,0,68.5,2,7.3,Male,25,Group_A,71.92,1,1,0.966
+1144,High School,0,71.26,3,7.5,Female,55,Group_B,62.85,3,1,0.916
+1145,High School,9,68.27,1,5.0,Male,53,Group_C,71.58,3,1,0.967
+1146,Masters,17,70.16,2,3.9,Female,42,Group_A,75.04,2,1,0.951
+1147,High School,14,59.04,2,6.4,Male,45,Group_A,65.92,4,1,0.931
+1148,Bachelors,1,55.6,1,5.4,Female,30,Group_A,44.19,1,1,0.886
+1149,Bachelors,16,85.95,1,8.0,Female,45,Group_B,92.78,4,1,0.932
+1150,Bachelors,7,61.53,4,6.4,Female,46,Group_A,58.87,3,1,0.973
+1151,Masters,8,60.09,3,5.9,Male,57,Group_C,66.73,2,1,0.934
+1152,Masters,20,48.47,2,6.2,Female,29,Group_D,52.17,5,1,0.963
+1153,Bachelors,19,63.61,1,6.5,Female,50,Group_B,59.23,3,1,0.956
+1154,Bachelors,10,56.77,2,4.8,Male,46,Group_C,62.05,3,1,0.947
+1155,Bachelors,5,86.42,3,9.8,Male,56,Group_B,87.23,3,1,0.992
+1156,Masters,13,80.1,2,7.7,Female,59,Group_A,72.43,4,1,0.923
+1157,Bachelors,0,63.12,2,6.9,Male,49,Group_A,75.11,2,1,0.88
+1158,Bachelors,6,92.52,4,8.7,Female,40,Group_B,88.65,3,1,0.961
+1159,Masters,8,79.82,0,7.2,Male,53,Group_D,78.92,3,1,0.991
+1160,Bachelors,10,66.75,1,6.8,Female,58,Group_D,64.74,2,1,0.98
+1161,Masters,15,45.01,2,4.5,Male,49,Group_D,49.86,4,1,0.952
+1162,Bachelors,18,92.91,3,9.9,Male,56,Group_D,95.65,4,1,0.973
+1163,Masters,1,56.1,1,5.3,Male,29,Group_A,61.61,3,1,0.945
+1164,High School,14,53.55,1,3.2,Female,44,Group_A,49.12,4,0,0.956
+1165,Bachelors,2,80.23,1,7.5,Male,44,Group_B,79.75,1,1,0.995
+1166,Bachelors,3,94.4,2,10.0,Female,53,Group_C,93.82,4,1,0.994
+1167,Masters,19,83.84,3,8.0,Female,31,Group_B,93.33,4,1,0.905
+1168,PhD,6,75.64,1,7.3,Male,38,Group_D,78.34,2,1,0.973
+1169,Bachelors,11,75.95,0,8.8,Male,56,Group_C,83.98,4,1,0.92
+1170,Masters,3,78.53,1,7.0,Male,56,Group_B,80.36,2,1,0.982
+1171,Masters,9,77.59,1,5.9,Male,24,Group_A,80.54,3,1,0.97
+1172,PhD,5,72.81,1,7.1,Male,57,Group_A,75.72,3,1,0.971
+1173,Masters,13,71.04,2,6.5,Female,50,Group_B,70.2,4,1,0.992
+1174,High School,2,69.37,1,5.8,Female,48,Group_D,72.39,2,1,0.97
+1175,Masters,16,62.46,3,6.0,Male,52,Group_A,74.31,4,1,0.882
+1176,Bachelors,10,67.19,0,7.3,Female,55,Group_B,68.99,2,1,0.982
+1177,High School,9,53.07,6,5.3,Female,33,Group_D,59.01,3,1,0.941
+1178,Bachelors,20,69.02,1,7.3,Female,58,Group_A,65.43,4,1,0.964
+1179,PhD,9,60.11,2,8.2,Female,46,Group_A,59.53,3,1,0.994
+1180,PhD,9,58.96,1,5.5,Female,23,Group_B,55.34,2,1,0.964
+1181,Masters,2,71.8,2,7.5,Male,51,Group_B,76.32,3,1,0.955
+1182,PhD,14,83.92,1,7.8,Female,30,Group_D,82.13,4,1,0.982
+1183,Masters,16,79.18,2,6.9,Female,44,Group_A,84.52,5,1,0.947
+1184,High School,17,54.29,0,4.7,Male,30,Group_B,52.48,3,1,0.982
+1185,Bachelors,18,60.1,1,5.4,Male,41,Group_A,66.34,4,1,0.938
+1186,High School,18,79.41,2,8.4,Male,22,Group_B,85.29,4,1,0.941
+1187,High School,11,60.18,2,8.8,Male,44,Group_A,54.94,2,1,0.948
+1188,Bachelors,4,67.75,3,5.9,Male,39,Group_C,81.73,2,1,0.86
+1189,Bachelors,15,75.5,0,7.1,Female,53,Group_B,74.08,2,1,0.986
+1190,Masters,14,60.32,3,6.0,Female,30,Group_C,50.19,3,1,0.899
+1191,Masters,14,71.05,1,7.6,Male,32,Group_B,74.6,2,1,0.964
+1192,Bachelors,5,56.66,2,6.0,Male,22,Group_B,59.83,4,1,0.968
+1193,PhD,11,63.99,1,7.9,Female,32,Group_D,63.58,2,1,0.996
+1194,Bachelors,1,73.2,2,4.4,Male,54,Group_A,83.75,4,1,0.895
+1195,Masters,19,54.07,2,2.5,Male,51,Group_A,62.57,4,1,0.915
+1196,Bachelors,8,74.4,1,6.8,Female,26,Group_B,75.89,3,1,0.985
+1197,Bachelors,3,69.8,2,8.3,Male,22,Group_C,75.38,3,1,0.944
+1198,PhD,4,75.52,4,5.7,Male,31,Group_B,77.21,2,1,0.983
+1199,Bachelors,20,72.24,1,3.6,Male,34,Group_B,83.48,3,1,0.888
+1200,Bachelors,7,83.64,2,9.0,Female,48,Group_A,78.68,3,1,0.95
+1201,Bachelors,9,71.25,2,7.4,Female,29,Group_A,74.41,4,1,0.968
+1202,Masters,6,65.71,1,5.3,Male,49,Group_A,70.43,4,1,0.953
+1203,PhD,13,71.22,1,5.9,Male,23,Group_D,78.32,4,1,0.929
+1204,High School,4,75.43,1,6.4,Female,33,Group_C,71.21,2,1,0.958
+1205,Masters,15,70.49,3,7.2,Female,48,Group_A,64.53,5,1,0.94
+1206,High School,14,70.41,1,6.3,Female,34,Group_A,72.51,4,1,0.979
+1207,Bachelors,4,62.98,3,6.9,Female,43,Group_A,65.51,3,1,0.975
+1208,High School,2,63.37,0,2.9,Female,36,Group_A,72.43,3,1,0.909
+1209,Masters,9,55.97,1,4.6,Female,52,Group_C,49.62,4,1,0.936
+1210,High School,4,87.5,1,7.4,Female,28,Group_A,94.45,3,1,0.93
+1211,Bachelors,14,57.56,0,5.4,Female,56,Group_A,70.52,2,1,0.87
+1212,Bachelors,17,63.07,3,5.7,Female,28,Group_B,61.18,3,1,0.981
+1213,High School,7,62.82,3,7.2,Male,33,Group_A,61.44,2,1,0.986
+1214,Masters,20,78.95,1,5.7,Female,35,Group_B,76.91,5,1,0.98
+1215,Bachelors,1,67.05,1,6.8,Female,55,Group_C,67.12,1,1,0.999
+1216,Bachelors,7,82.48,0,8.9,Female,30,Group_B,85.3,4,1,0.972
+1217,Bachelors,7,63.27,1,8.6,Male,54,Group_A,63.93,2,1,0.993
+1218,Bachelors,3,72.79,0,6.7,Female,33,Group_B,80.57,4,1,0.922
+1219,Masters,18,61.65,0,6.6,Female,55,Group_C,56.07,2,1,0.944
+1220,High School,17,91.45,2,7.0,Male,48,Group_A,87.12,4,1,0.957
+1221,Bachelors,20,58.12,1,2.9,Female,43,Group_A,65.82,3,1,0.923
+1222,Bachelors,0,73.1,4,8.3,Female,39,Group_A,63.45,3,1,0.904
+1223,Bachelors,19,76.34,1,7.6,Male,39,Group_B,77.81,5,1,0.985
+1224,Masters,14,74.14,2,8.8,Male,58,Group_A,94.77,2,1,0.794
+1225,Masters,17,68.15,1,5.2,Female,28,Group_A,70.22,4,1,0.979
+1226,Bachelors,11,68.7,1,7.5,Male,25,Group_A,66.88,4,1,0.982
+1227,Bachelors,0,70.44,1,9.3,Male,37,Group_B,72.55,2,1,0.979
+1228,Masters,6,68.53,1,7.4,Male,43,Group_A,71.43,3,1,0.971
+1229,Masters,18,79.64,1,8.3,Male,57,Group_C,83.79,5,1,0.958
+1230,Bachelors,0,92.11,1,9.2,Male,41,Group_B,98.02,3,1,0.941
+1231,Masters,6,64.43,0,4.6,Male,52,Group_B,61.89,2,1,0.975
+1232,Masters,1,56.3,2,7.3,Female,54,Group_B,64.74,3,1,0.916
+1233,Bachelors,6,69.12,0,6.2,Female,34,Group_C,70.34,3,1,0.988
+1234,Bachelors,18,95.8,3,10.0,Female,41,Group_D,99.43,5,1,0.964
+1235,Masters,12,61.96,1,4.3,Male,59,Group_C,60.34,4,1,0.984
+1236,Bachelors,4,86.39,3,7.2,Male,43,Group_B,95.63,2,1,0.908
+1237,Masters,18,86.78,2,10.0,Male,44,Group_C,87.6,3,1,0.992
+1238,Masters,0,64.46,2,6.0,Female,54,Group_B,65.85,2,1,0.986
+1239,Masters,0,75.69,3,9.3,Female,51,Group_A,73.35,4,1,0.977
+1240,Bachelors,17,86.28,1,8.5,Female,35,Group_A,83.3,3,1,0.97
+1241,High School,0,66.21,2,4.4,Male,57,Group_B,72.18,2,1,0.94
+1242,High School,4,67.96,2,7.9,Female,29,Group_A,67.3,2,1,0.993
+1243,Masters,8,64.18,1,5.7,Female,43,Group_A,61.49,2,1,0.973
+1244,Masters,11,59.85,3,6.8,Female,25,Group_A,58.55,3,1,0.987
+1245,Masters,8,63.51,3,6.4,Male,56,Group_D,69.56,3,1,0.94
+1246,High School,17,57.76,2,3.9,Female,29,Group_A,57.28,3,1,0.995
+1247,PhD,10,70.34,4,7.2,Male,55,Group_B,72.43,4,1,0.979
+1248,PhD,0,62.3,1,8.9,Female,43,Group_D,62.38,2,1,0.999
+1249,Bachelors,18,72.34,1,7.8,Male,46,Group_B,65.9,4,1,0.936
+1250,Bachelors,9,54.44,4,5.4,Male,46,Group_B,49.19,3,1,0.948
+1251,Masters,1,73.31,1,8.6,Male,38,Group_C,77.0,4,1,0.963
+1252,Masters,6,78.34,0,8.1,Female,37,Group_B,74.65,4,1,0.963
+1253,PhD,19,50.06,2,5.3,Male,36,Group_A,60.29,3,1,0.898
+1254,High School,1,73.74,0,6.1,Female,38,Group_C,78.57,2,1,0.952
+1255,Bachelors,18,82.28,0,8.5,Female,56,Group_A,88.55,4,1,0.937
+1256,Masters,5,57.9,1,7.0,Female,54,Group_C,67.0,3,1,0.909
+1257,Masters,9,86.73,1,7.7,Female,39,Group_A,88.16,4,1,0.986
+1258,Masters,8,74.19,2,9.1,Female,51,Group_B,77.43,5,1,0.968
+1259,PhD,7,62.95,0,6.2,Male,44,Group_B,62.97,2,1,1.0
+1260,Bachelors,10,69.44,5,5.9,Male,58,Group_D,83.65,2,1,0.858
+1261,Masters,8,75.58,1,8.8,Female,28,Group_B,85.5,3,1,0.901
+1262,Bachelors,19,70.76,5,6.7,Male,31,Group_D,72.32,4,1,0.984
+1263,Bachelors,19,75.39,2,8.5,Male,37,Group_B,80.15,3,1,0.952
+1264,Bachelors,8,60.79,5,5.7,Female,49,Group_C,67.59,2,1,0.932
+1265,Masters,7,71.69,2,7.1,Female,44,Group_B,70.96,3,1,0.993
+1266,PhD,14,55.86,2,6.2,Female,55,Group_A,55.24,4,1,0.994
+1267,Bachelors,1,68.89,4,7.2,Female,39,Group_C,73.26,1,1,0.956
+1268,High School,0,60.96,1,3.7,Female,44,Group_A,64.21,2,1,0.968
+1269,Masters,8,62.64,3,4.9,Male,41,Group_B,65.37,4,1,0.973
+1270,Bachelors,8,82.36,0,9.4,Male,52,Group_C,81.6,3,1,0.992
+1271,PhD,12,80.91,2,7.9,Female,35,Group_D,72.32,3,1,0.914
+1272,Bachelors,7,76.09,4,7.0,Male,44,Group_B,79.98,4,1,0.961
+1273,High School,20,59.08,1,4.3,Male,23,Group_B,66.8,4,1,0.923
+1274,Bachelors,4,66.84,4,5.4,Female,50,Group_B,65.71,4,1,0.989
+1275,High School,2,82.13,3,5.8,Male,30,Group_C,92.42,3,1,0.897
+1276,Bachelors,20,71.42,5,7.0,Male,54,Group_D,70.52,5,1,0.991
+1277,High School,3,93.19,1,8.6,Male,33,Group_B,90.3,4,1,0.971
+1278,Bachelors,16,73.93,2,6.2,Male,40,Group_B,76.09,4,1,0.978
+1279,High School,15,71.92,0,7.1,Male,41,Group_A,75.66,4,1,0.963
+1280,PhD,15,66.91,1,7.1,Female,58,Group_A,71.88,3,1,0.95
+1281,Bachelors,19,71.34,1,9.6,Male,52,Group_D,70.24,3,1,0.989
+1282,Bachelors,2,68.48,3,5.0,Male,56,Group_D,77.23,2,1,0.912
+1283,Masters,5,77.08,3,9.1,Male,42,Group_C,89.64,4,1,0.874
+1284,Masters,0,79.57,1,9.1,Male,34,Group_D,81.68,3,1,0.979
+1285,Bachelors,20,62.14,2,5.3,Female,48,Group_A,69.66,3,1,0.925
+1286,Masters,15,56.69,3,5.9,Male,46,Group_B,53.03,3,1,0.963
+1287,Masters,14,51.64,5,4.6,Other,23,Group_B,57.01,4,1,0.946
+1288,Masters,6,75.08,0,7.7,Male,56,Group_B,82.58,3,1,0.925
+1289,Bachelors,1,58.97,1,7.7,Female,29,Group_B,63.28,3,1,0.957
+1290,Masters,9,48.47,2,5.6,Male,54,Group_A,51.59,3,1,0.969
+1291,Bachelors,14,73.89,4,8.0,Male,46,Group_B,62.29,4,1,0.884
+1292,Bachelors,5,94.93,0,9.0,Male,42,Group_C,93.43,3,1,0.985
+1293,Masters,1,69.94,1,5.2,Female,57,Group_C,66.81,1,1,0.969
+1294,Bachelors,16,78.38,0,7.6,Male,34,Group_C,75.71,5,1,0.973
+1295,PhD,0,70.82,1,8.5,Male,30,Group_A,76.23,2,1,0.946
+1296,High School,0,69.01,2,5.1,Female,56,Group_B,66.92,1,1,0.979
+1297,Bachelors,3,79.19,0,6.7,Male,57,Group_A,80.89,2,1,0.983
+1298,PhD,19,67.1,1,6.9,Male,31,Group_A,66.89,5,1,0.998
+1299,Bachelors,15,72.67,0,6.1,Female,26,Group_B,69.1,2,1,0.964
+1300,PhD,7,73.22,2,6.4,Male,52,Group_A,83.37,2,1,0.898
+1301,PhD,0,63.32,2,5.8,Female,45,Group_B,60.01,2,1,0.967
+1302,Masters,18,79.92,2,6.4,Male,53,Group_B,79.6,5,1,0.997
+1303,Bachelors,10,68.25,1,5.7,Male,24,Group_A,70.25,4,1,0.98
+1304,Bachelors,16,62.44,2,7.1,Male,37,Group_B,66.29,5,1,0.961
+1305,Masters,9,75.37,3,6.0,Female,41,Group_A,79.92,3,1,0.954
+1306,Masters,11,61.02,4,4.2,Female,45,Group_A,47.58,3,1,0.866
+1307,Bachelors,8,70.28,1,6.3,Other,55,Group_A,77.83,4,1,0.924
+1308,PhD,6,69.91,0,7.9,Male,44,Group_A,82.05,2,1,0.879
+1309,Masters,11,80.86,2,7.8,Female,59,Group_B,75.61,3,1,0.948
+1310,PhD,14,74.75,2,6.9,Male,23,Group_B,72.82,3,1,0.981
+1311,High School,7,69.75,1,7.0,Male,26,Group_B,69.74,4,1,1.0
+1312,High School,16,78.18,2,5.7,Female,39,Group_A,76.92,3,1,0.987
+1313,Bachelors,4,83.9,0,9.0,Male,50,Group_A,88.21,4,1,0.957
+1314,Bachelors,13,75.58,2,8.0,Male,31,Group_C,67.63,4,1,0.92
+1315,Masters,1,70.1,0,6.5,Male,37,Group_A,69.36,3,1,0.993
+1316,High School,15,56.88,4,6.9,Female,44,Group_B,64.58,2,1,0.923
+1317,PhD,16,59.35,1,4.6,Male,51,Group_A,59.86,3,1,0.995
+1318,Bachelors,2,66.95,1,8.0,Male,27,Group_D,76.12,3,1,0.908
+1319,Bachelors,0,63.9,4,6.6,Other,57,Group_A,66.93,2,1,0.97
+1320,Bachelors,17,68.13,3,6.4,Male,41,Group_B,61.56,2,1,0.934
+1321,Bachelors,17,70.57,2,7.0,Male,37,Group_A,78.7,3,1,0.919
+1322,High School,3,75.3,3,7.4,Female,49,Group_B,74.71,2,1,0.994
+1323,High School,14,69.3,2,8.4,Female,47,Group_B,67.02,3,1,0.977
+1324,Masters,18,74.87,0,6.2,Male,43,Group_A,79.28,5,1,0.956
+1325,High School,18,70.64,1,6.1,Female,32,Group_A,74.67,4,1,0.96
+1326,Bachelors,9,50.25,2,6.3,Male,22,Group_D,55.62,3,1,0.946
+1327,Masters,4,60.61,1,5.3,Female,26,Group_D,66.5,4,1,0.941
+1328,High School,18,68.56,4,7.9,Male,57,Group_C,72.41,5,1,0.962
+1329,Bachelors,10,57.9,1,7.8,Male,23,Group_D,54.5,3,1,0.966
+1330,High School,6,76.0,0,7.1,Male,27,Group_A,78.25,2,1,0.978
+1331,Bachelors,4,85.31,1,9.3,Female,48,Group_C,100.0,3,1,0.853
+1332,Masters,19,82.19,3,6.8,Female,47,Group_A,86.93,5,1,0.953
+1333,High School,11,67.87,4,7.7,Female,56,Group_B,79.71,3,1,0.882
+1334,Masters,18,84.91,0,8.7,Female,34,Group_C,91.88,5,1,0.93
+1335,PhD,14,71.49,1,7.7,Male,33,Group_A,76.99,4,1,0.945
+1336,High School,11,66.63,3,5.9,Male,39,Group_C,70.07,2,1,0.966
+1337,PhD,3,63.87,8,4.4,Female,59,Group_B,63.68,1,1,0.998
+1338,Bachelors,11,66.98,1,7.3,Female,27,Group_B,58.29,5,1,0.913
+1339,High School,17,66.12,0,4.1,Other,49,Group_D,66.21,3,1,0.999
+1340,High School,16,71.7,1,6.8,Male,49,Group_D,79.94,2,1,0.918
+1341,Bachelors,18,71.61,2,8.3,Male,46,Group_A,73.63,3,1,0.98
+1342,Bachelors,15,70.03,2,7.2,Male,26,Group_B,74.55,2,1,0.955
+1343,Bachelors,10,74.37,4,9.8,Male,36,Group_B,80.97,4,1,0.934
+1344,Masters,1,81.91,3,9.4,Male,30,Group_A,81.78,1,1,0.999
+1345,Masters,15,79.5,2,7.2,Male,23,Group_D,80.18,3,1,0.993
+1346,Bachelors,0,55.15,2,5.5,Female,30,Group_A,51.09,2,1,0.959
+1347,Masters,16,44.46,5,4.4,Male,47,Group_A,44.42,4,1,1.0
+1348,PhD,17,79.34,1,6.0,Male,44,Group_A,76.86,4,1,0.975
+1349,High School,12,56.33,1,4.5,Female,49,Group_A,53.29,2,1,0.97
+1350,Bachelors,4,67.75,2,6.1,Male,27,Group_A,78.63,3,1,0.891
+1351,Bachelors,5,58.3,1,3.4,Female,25,Group_B,53.72,2,1,0.954
+1352,Bachelors,0,51.98,0,5.3,Male,51,Group_B,54.67,2,1,0.973
+1353,Bachelors,9,75.41,2,7.2,Female,39,Group_B,72.9,4,1,0.975
+1354,Bachelors,4,77.59,1,5.8,Female,51,Group_A,85.02,2,1,0.926
+1355,Masters,0,64.23,0,6.9,Female,48,Group_B,70.79,3,1,0.934
+1356,Bachelors,10,44.09,0,5.3,Male,52,Group_B,51.83,3,1,0.923
+1357,Bachelors,6,64.54,0,6.7,Male,51,Group_B,68.98,4,1,0.956
+1358,High School,17,73.92,1,7.0,Male,58,Group_A,76.06,5,1,0.979
+1359,Bachelors,20,55.21,1,6.2,Female,33,Group_A,51.68,4,1,0.965
+1360,Bachelors,19,71.83,0,8.0,Female,38,Group_A,82.78,5,1,0.89
+1361,Bachelors,20,69.85,2,7.4,Female,55,Group_C,66.05,4,1,0.962
+1362,PhD,9,75.79,0,6.6,Male,49,Group_A,84.19,3,1,0.916
+1363,Bachelors,14,71.2,2,7.5,Female,25,Group_B,76.49,4,1,0.947
+1364,High School,3,60.27,2,7.5,Female,55,Group_B,57.49,2,1,0.972
+1365,Bachelors,15,81.97,3,7.5,Female,35,Group_D,87.16,4,1,0.948
+1366,Masters,14,68.41,2,9.4,Male,34,Group_C,74.62,4,1,0.938
+1367,Masters,14,69.73,1,6.3,Other,24,Group_D,78.37,4,1,0.914
+1368,Bachelors,11,60.67,2,6.1,Male,42,Group_C,61.03,2,1,0.996
+1369,Bachelors,7,65.57,2,5.7,Male,37,Group_B,61.64,3,1,0.961
+1370,Bachelors,7,61.15,4,6.4,Female,59,Group_D,58.62,2,1,0.975
+1371,Bachelors,17,68.27,2,4.7,Male,47,Group_B,70.95,5,1,0.973
+1372,PhD,5,87.12,1,8.1,Female,27,Group_B,87.41,4,1,0.997
+1373,Bachelors,4,56.28,3,4.3,Male,39,Group_B,56.84,2,1,0.994
+1374,Masters,1,53.86,2,5.5,Male,27,Group_B,46.08,2,1,0.922
+1375,Bachelors,11,84.71,0,9.7,Male,46,Group_C,89.6,3,1,0.951
+1376,Bachelors,3,67.91,0,7.6,Male,45,Group_A,80.85,2,1,0.871
+1377,Masters,12,63.31,0,3.5,Male,51,Group_A,70.03,3,1,0.933
+1378,Bachelors,16,80.4,1,10.0,Male,44,Group_C,85.52,5,1,0.949
+1379,PhD,15,63.94,2,6.7,Female,29,Group_B,66.81,4,1,0.971
+1380,Bachelors,8,88.26,1,7.9,Female,30,Group_C,90.25,2,1,0.98
+1381,High School,0,76.78,4,7.9,Female,27,Group_D,81.44,1,1,0.953
+1382,Masters,14,65.12,0,6.7,Female,54,Group_A,69.55,2,1,0.956
+1383,High School,11,91.57,3,8.4,Male,54,Group_A,93.27,4,1,0.983
+1384,Bachelors,4,63.94,2,6.6,Female,28,Group_A,61.2,3,1,0.973
+1385,Bachelors,17,77.42,1,7.0,Female,39,Group_D,76.18,3,1,0.988
+1386,Masters,19,72.99,5,6.8,Male,27,Group_A,79.33,5,1,0.937
+1387,Bachelors,1,83.02,4,7.5,Female,58,Group_A,83.8,3,1,0.992
+1388,High School,3,85.62,0,6.8,Male,42,Group_A,92.01,3,1,0.936
+1389,Bachelors,14,70.32,0,7.2,Female,47,Group_B,72.52,4,1,0.978
+1390,Bachelors,5,62.47,4,6.9,Male,36,Group_A,69.78,3,1,0.927
+1391,PhD,11,74.6,0,8.1,Male,51,Group_C,83.45,3,1,0.912
+1392,Bachelors,17,63.22,1,7.3,Male,32,Group_C,66.15,2,1,0.971
+1393,Masters,19,90.13,1,9.4,Male,29,Group_C,85.45,4,1,0.953
+1394,Bachelors,3,71.37,3,6.5,Female,26,Group_B,69.64,2,1,0.983
+1395,Masters,0,66.35,2,7.6,Other,29,Group_B,66.57,2,1,0.998
+1396,Masters,14,71.85,3,5.6,Male,26,Group_B,65.05,4,1,0.932
+1397,PhD,17,56.53,0,4.6,Male,31,Group_B,66.68,3,1,0.898
+1398,High School,13,60.28,2,4.9,Male,36,Group_A,65.54,5,1,0.947
+1399,Bachelors,2,82.0,1,9.5,Female,59,Group_C,83.91,2,1,0.981
+1400,Masters,14,63.43,1,7.5,Male,24,Group_B,73.61,2,1,0.898
+1401,High School,4,59.53,4,6.5,Female,31,Group_A,58.19,2,1,0.987
+1402,Bachelors,2,75.37,2,8.8,Female,28,Group_A,79.59,3,1,0.958
+1403,PhD,6,81.86,3,7.1,Female,45,Group_A,84.13,3,1,0.977
+1404,Bachelors,5,77.19,0,8.1,Female,47,Group_A,77.99,3,1,0.992
+1405,PhD,0,79.96,1,7.8,Female,55,Group_B,76.1,3,1,0.961
+1406,High School,18,62.43,3,7.3,Female,29,Group_A,72.69,5,1,0.897
+1407,Masters,6,55.78,1,5.4,Female,26,Group_A,56.3,2,1,0.995
+1408,Bachelors,3,85.01,0,8.0,Female,57,Group_B,88.51,3,1,0.965
+1409,Bachelors,11,66.77,1,7.3,Female,47,Group_D,57.4,4,1,0.906
+1410,PhD,19,67.49,2,7.8,Female,31,Group_A,76.03,4,1,0.915
+1411,High School,17,83.28,2,7.5,Female,54,Group_A,89.74,4,1,0.935
+1412,Masters,8,75.56,3,7.5,Female,57,Group_B,76.05,3,1,0.995
+1413,Masters,18,74.56,2,6.2,Female,52,Group_B,73.42,4,1,0.989
+1414,Bachelors,3,91.65,3,6.2,Male,59,Group_B,96.89,3,1,0.948
+1415,PhD,0,63.56,0,6.6,Male,46,Group_B,78.22,2,1,0.853
+1416,Bachelors,8,79.28,2,8.7,Female,34,Group_C,70.46,5,1,0.912
+1417,Masters,14,70.57,3,7.4,Male,22,Group_C,76.38,2,1,0.942
+1418,Bachelors,7,72.69,3,4.9,Male,57,Group_D,70.6,4,1,0.979
+1419,Masters,14,85.28,1,8.1,Male,57,Group_B,87.92,4,1,0.974
+1420,Bachelors,14,75.08,3,4.8,Female,45,Group_D,73.84,4,1,0.988
+1421,High School,17,75.38,0,9.2,Female,48,Group_C,73.24,5,1,0.979
+1422,Bachelors,6,80.73,1,6.8,Male,39,Group_C,82.37,4,1,0.984
+1423,High School,17,66.35,0,8.1,Male,36,Group_B,63.29,5,1,0.969
+1424,Bachelors,15,61.61,3,7.3,Female,38,Group_D,66.75,4,1,0.949
+1425,High School,1,59.55,0,4.9,Female,50,Group_D,50.58,2,1,0.91
+1426,High School,3,50.34,1,3.7,Male,26,Group_A,59.02,3,0,0.913
+1427,Bachelors,19,90.56,1,9.5,Male,32,Group_B,92.3,4,1,0.983
+1428,Bachelors,15,58.97,2,4.9,Female,37,Group_D,53.11,3,1,0.941
+1429,Bachelors,2,67.79,0,6.9,Female,55,Group_B,68.8,2,1,0.99
+1430,Bachelors,1,67.23,1,6.1,Female,38,Group_A,62.32,2,1,0.951
+1431,Bachelors,2,73.07,1,5.2,Female,54,Group_A,74.79,2,1,0.983
+1432,Masters,4,78.16,2,5.1,Female,52,Group_B,71.04,3,1,0.929
+1433,Masters,1,78.6,0,8.1,Male,39,Group_C,82.97,3,1,0.956
+1434,Bachelors,18,64.17,1,5.7,Male,46,Group_A,63.62,3,1,0.994
+1435,Masters,19,68.33,3,6.2,Female,26,Group_C,66.07,3,1,0.977
+1436,Bachelors,1,72.83,1,8.1,Female,51,Group_D,74.3,2,1,0.985
+1437,Masters,1,67.51,1,8.2,Female,44,Group_A,66.37,2,1,0.989
+1438,Bachelors,19,86.07,1,8.3,Female,59,Group_A,87.75,3,1,0.983
+1439,High School,17,74.91,1,7.1,Female,39,Group_C,67.34,3,1,0.924
+1440,Masters,19,77.35,2,8.3,Female,53,Group_D,80.5,4,1,0.968
+1441,Masters,20,76.63,0,6.0,Male,51,Group_A,89.46,5,1,0.872
+1442,High School,13,81.73,4,8.4,Male,50,Group_C,97.51,4,1,0.842
+1443,Bachelors,14,71.81,2,7.8,Female,57,Group_B,72.27,4,1,0.995
+1444,Masters,11,57.03,2,6.5,Male,30,Group_A,65.57,3,1,0.915
+1445,Masters,10,74.0,2,5.1,Male,44,Group_C,68.16,3,1,0.942
+1446,Masters,10,63.49,1,5.4,Female,24,Group_B,71.0,3,1,0.925
+1447,High School,6,64.71,4,5.4,Female,43,Group_C,68.59,2,1,0.961
+1448,Bachelors,11,75.86,3,7.7,Male,52,Group_A,78.9,5,1,0.97
+1449,High School,15,82.38,1,8.8,Female,43,Group_C,88.57,5,1,0.938
+1450,Bachelors,4,70.21,3,8.8,Male,32,Group_A,74.57,3,1,0.956
+1451,High School,1,73.09,2,6.7,Male,24,Group_B,73.01,1,1,0.999
+1452,Masters,15,87.02,1,8.1,Female,35,Group_B,89.4,4,1,0.976
+1453,Bachelors,14,72.41,3,8.6,Female,40,Group_A,69.34,3,1,0.969
+1454,Masters,10,96.02,5,10.0,Male,52,Group_D,100.0,4,1,0.96
+1455,High School,5,75.66,4,9.1,Male,57,Group_A,75.16,2,1,0.995
+1456,Bachelors,12,52.39,0,5.6,Male,53,Group_B,50.44,2,1,0.98
+1457,Bachelors,18,77.53,1,6.4,Other,47,Group_C,72.98,3,1,0.954
+1458,Bachelors,9,73.81,1,5.8,Female,22,Group_B,77.61,3,1,0.962
+1459,Masters,18,82.9,3,6.4,Male,23,Group_A,85.31,4,1,0.976
+1460,Bachelors,4,76.73,1,8.5,Male,27,Group_C,72.42,3,1,0.957
+1461,Bachelors,20,68.62,3,8.3,Female,35,Group_B,65.59,5,1,0.97
+1462,High School,6,57.76,3,8.0,Female,49,Group_A,58.81,3,1,0.989
+1463,High School,10,67.91,1,7.8,Female,54,Group_A,63.82,2,1,0.959
+1464,Masters,13,61.49,1,7.5,Male,46,Group_B,59.05,3,1,0.976
+1465,Bachelors,20,64.19,1,5.7,Other,39,Group_C,74.75,3,1,0.894
+1466,Masters,15,75.89,4,6.2,Male,55,Group_B,73.97,3,1,0.981
+1467,Masters,17,86.7,1,9.7,Male,33,Group_A,89.76,5,1,0.969
+1468,High School,20,73.95,3,7.9,Male,48,Group_B,75.16,5,1,0.988
+1469,High School,3,58.04,4,5.9,Male,45,Group_A,59.95,2,1,0.981
+1470,Masters,0,74.45,1,7.9,Female,54,Group_A,79.07,1,1,0.954
+1471,Masters,14,81.97,2,8.6,Female,36,Group_D,86.71,4,1,0.953
+1472,Bachelors,13,63.9,0,7.9,Female,53,Group_A,64.38,4,1,0.995
+1473,High School,18,68.66,0,8.4,Male,38,Group_A,68.39,3,1,0.997
+1474,High School,4,70.15,2,7.7,Male,56,Group_D,78.5,3,1,0.917
+1475,Bachelors,3,62.15,1,7.2,Male,56,Group_A,66.85,3,1,0.953
+1476,High School,12,76.48,2,8.3,Female,34,Group_B,85.13,3,1,0.914
+1477,Bachelors,17,68.79,3,6.3,Female,30,Group_C,57.56,5,1,0.888
+1478,Bachelors,11,74.2,0,8.3,Male,31,Group_A,79.34,4,1,0.949
+1479,High School,20,61.13,1,4.4,Male,22,Group_C,73.55,5,1,0.876
+1480,High School,14,65.63,0,7.8,Male,55,Group_C,65.58,5,1,1.0
+1481,Masters,8,77.22,3,6.3,Female,58,Group_B,76.1,2,1,0.989
+1482,Bachelors,3,66.27,3,7.0,Female,46,Group_A,69.2,3,1,0.971
+1483,PhD,4,87.27,1,7.7,Male,43,Group_D,86.11,4,1,0.988
+1484,Bachelors,8,66.0,2,7.3,Male,31,Group_B,67.88,3,1,0.981
+1485,Masters,12,72.25,1,7.2,Male,47,Group_B,72.73,4,1,0.995
+1486,Bachelors,9,79.33,1,6.0,Male,40,Group_D,79.38,2,1,1.0
+1487,Bachelors,15,55.82,3,6.1,Female,25,Group_B,61.96,2,1,0.939
+1488,High School,12,52.39,8,4.5,Female,26,Group_B,54.7,1,1,0.977
+1489,High School,3,54.74,2,6.5,Male,50,Group_D,58.91,2,1,0.958
+1490,PhD,20,82.63,2,8.3,Male,59,Group_B,89.38,5,1,0.932
+1491,Bachelors,12,64.48,2,6.9,Female,26,Group_C,63.16,3,1,0.987
+1492,PhD,20,95.58,3,8.4,Female,22,Group_A,94.52,5,1,0.989
+1493,Bachelors,7,64.36,2,5.7,Male,49,Group_C,64.21,3,1,0.998
+1494,Bachelors,12,71.85,0,6.6,Female,40,Group_B,71.85,2,1,1.0
+1495,Bachelors,14,85.42,1,9.6,Female,57,Group_A,82.69,4,1,0.973
+1496,Masters,19,90.06,2,10.0,Male,22,Group_A,90.31,4,1,0.998
+1497,Bachelors,19,90.62,0,8.1,Female,50,Group_B,88.03,5,1,0.974
+1498,PhD,12,82.08,2,9.5,Female,57,Group_C,92.71,4,1,0.894
+1499,High School,4,80.24,4,5.4,Female,53,Group_B,66.37,2,1,0.861
+1500,Masters,5,75.93,4,6.2,Male,35,Group_D,77.35,4,1,0.986
+1501,Bachelors,4,77.78,2,6.6,Male,53,Group_B,89.12,3,1,0.887
+1502,High School,12,64.49,0,4.8,Male,30,Group_C,68.34,3,1,0.961
+1503,Bachelors,4,61.82,2,4.3,Female,40,Group_A,68.48,2,1,0.933
+1504,Bachelors,12,69.97,0,7.5,Male,32,Group_B,73.4,5,1,0.966
+1505,High School,19,68.3,3,6.6,Female,25,Group_A,66.19,5,1,0.979
+1506,Bachelors,7,65.47,2,7.0,Female,46,Group_D,54.26,3,1,0.888
+1507,Bachelors,8,76.96,1,8.5,Male,38,Group_B,80.0,2,1,0.97
+1508,Bachelors,20,79.55,2,8.3,Female,29,Group_A,77.99,4,1,0.984
+1509,Bachelors,18,70.88,3,7.9,Male,22,Group_B,70.35,4,1,0.995
+1510,High School,19,84.78,2,8.4,Male,23,Group_B,85.07,5,1,0.997
+1511,High School,14,58.58,2,4.4,Male,31,Group_C,69.81,4,1,0.888
+1512,PhD,9,68.06,1,8.1,Female,48,Group_B,80.09,2,1,0.88
+1513,PhD,10,62.83,1,5.6,Female,48,Group_B,63.92,4,1,0.989
+1514,Bachelors,4,51.33,2,4.0,Male,34,Group_D,52.07,1,1,0.993
+1515,PhD,8,69.17,1,6.7,Female,32,Group_D,63.29,2,1,0.941
+1516,Masters,10,68.78,1,5.8,Female,35,Group_A,73.23,2,1,0.956
+1517,High School,18,85.13,0,8.0,Male,53,Group_C,96.76,3,1,0.884
+1518,High School,1,76.31,2,8.0,Male,37,Group_B,77.99,2,1,0.983
+1519,PhD,5,59.76,1,6.4,Male,50,Group_C,50.59,2,1,0.908
+1520,Bachelors,20,88.54,4,7.8,Female,59,Group_B,91.89,4,1,0.966
+1521,Masters,0,82.21,1,7.6,Female,55,Group_A,88.23,4,1,0.94
+1522,Masters,2,75.82,2,8.9,Male,47,Group_D,69.75,2,1,0.939
+1523,Bachelors,2,67.74,0,7.4,Male,26,Group_B,71.21,2,1,0.965
+1524,High School,13,60.41,0,8.5,Male,40,Group_B,64.73,4,1,0.957
+1525,High School,19,66.28,2,8.0,Male,49,Group_C,68.55,4,1,0.977
+1526,High School,4,80.89,0,9.5,Male,49,Group_A,80.27,3,1,0.994
+1527,High School,16,88.85,4,7.2,Male,38,Group_A,98.45,4,1,0.904
+1528,Bachelors,14,85.43,1,9.5,Female,58,Group_A,85.03,4,1,0.996
+1529,High School,5,65.11,0,6.4,Female,40,Group_C,57.69,2,1,0.926
+1530,High School,13,58.8,0,5.2,Male,48,Group_C,51.68,4,1,0.929
+1531,Bachelors,13,71.41,0,7.3,Male,33,Group_A,81.98,3,1,0.894
+1532,Bachelors,16,52.32,4,6.4,Male,24,Group_A,60.64,4,1,0.917
+1533,Bachelors,7,73.23,3,7.9,Male,25,Group_B,76.17,4,1,0.971
+1534,Bachelors,7,68.52,1,5.8,Female,32,Group_C,66.32,3,1,0.978
+1535,Bachelors,18,65.34,2,7.4,Female,55,Group_B,62.69,5,1,0.973
+1536,PhD,8,54.05,1,4.6,Male,39,Group_B,50.85,2,1,0.968
+1537,High School,10,75.14,2,7.8,Male,56,Group_A,76.61,4,1,0.985
+1538,High School,12,64.67,1,6.1,Male,39,Group_B,57.2,4,1,0.925
+1539,Masters,12,58.3,3,5.6,Male,27,Group_A,59.35,3,1,0.989
+1540,Bachelors,18,41.28,0,5.0,Female,55,Group_A,40.8,3,1,0.995
+1541,Masters,20,69.72,0,5.7,Male,54,Group_A,76.64,4,1,0.931
+1542,Bachelors,18,87.72,0,10.0,Female,29,Group_B,87.52,5,1,0.998
+1543,Masters,4,86.61,4,6.5,Female,41,Group_A,93.12,3,1,0.935
+1544,PhD,15,65.43,2,5.8,Male,41,Group_B,74.08,3,1,0.914
+1545,Bachelors,8,63.98,0,6.8,Male,39,Group_B,71.47,4,1,0.925
+1546,High School,19,74.69,2,8.2,Female,48,Group_C,77.04,4,1,0.976
+1547,Masters,2,60.02,2,5.9,Male,26,Group_B,63.35,3,1,0.967
+1548,Masters,18,73.02,3,7.2,Male,28,Group_A,74.01,5,1,0.99
+1549,Masters,4,77.66,3,8.3,Male,43,Group_D,83.61,1,1,0.94
+1550,High School,7,82.27,1,7.9,Female,55,Group_A,93.19,3,1,0.891
+1551,Masters,13,69.0,1,8.6,Male,34,Group_B,72.47,3,1,0.965
+1552,High School,2,67.96,1,7.8,Female,53,Group_D,77.55,1,1,0.904
+1553,Bachelors,12,61.22,0,7.2,Female,45,Group_B,53.59,2,1,0.924
+1554,Bachelors,10,61.73,1,5.0,Female,37,Group_C,55.96,2,1,0.942
+1555,Bachelors,7,67.74,1,6.7,Male,35,Group_A,75.8,3,1,0.919
+1556,Masters,18,73.67,0,7.0,Female,28,Group_A,77.97,4,1,0.957
+1557,Bachelors,9,79.14,2,6.7,Male,33,Group_B,88.74,3,1,0.904
+1558,High School,17,61.97,1,6.6,Male,41,Group_B,63.48,4,1,0.985
+1559,Masters,17,84.93,2,7.8,Female,54,Group_A,82.42,4,1,0.975
+1560,PhD,6,67.29,5,7.5,Male,27,Group_A,70.96,4,1,0.963
+1561,High School,15,69.79,2,5.7,Female,48,Group_B,62.12,3,1,0.923
+1562,Bachelors,5,62.53,0,8.3,Male,34,Group_B,59.74,4,1,0.972
+1563,Bachelors,15,45.76,3,3.5,Other,26,Group_D,50.62,3,0,0.951
+1564,Bachelors,15,78.84,1,8.1,Female,45,Group_C,83.2,3,1,0.956
+1565,Bachelors,0,77.37,0,8.7,Female,31,Group_C,79.18,2,1,0.982
+1566,Bachelors,18,67.19,3,6.0,Male,53,Group_A,62.94,5,1,0.958
+1567,High School,2,70.67,1,8.1,Male,30,Group_A,72.78,3,1,0.979
+1568,PhD,5,75.16,1,6.0,Female,56,Group_A,71.14,2,1,0.96
+1569,Bachelors,3,54.37,3,7.2,Female,33,Group_B,60.26,2,1,0.941
+1570,Bachelors,3,64.71,0,6.5,Male,32,Group_C,63.89,1,1,0.992
+1571,Bachelors,3,77.94,5,7.1,Male,57,Group_D,74.36,2,1,0.964
+1572,Bachelors,9,57.46,1,5.4,Male,29,Group_C,59.88,2,1,0.976
+1573,Bachelors,8,72.94,1,8.3,Male,31,Group_A,74.57,2,1,0.984
+1574,Bachelors,7,56.43,3,4.9,Male,35,Group_C,67.0,3,1,0.894
+1575,Bachelors,18,74.66,1,6.6,Female,51,Group_B,70.99,3,1,0.963
+1576,Bachelors,16,69.64,5,6.7,Male,22,Group_A,66.83,3,1,0.972
+1577,High School,16,53.85,4,4.0,Male,33,Group_B,46.54,4,1,0.927
+1578,Bachelors,0,81.65,1,10.0,Female,26,Group_B,81.49,3,1,0.998
+1579,Masters,19,62.65,0,5.6,Male,35,Group_C,62.41,3,1,0.998
+1580,High School,13,61.9,0,7.2,Female,57,Group_A,56.83,5,1,0.949
+1581,High School,19,72.01,0,7.5,Female,38,Group_A,79.21,5,1,0.928
+1582,Bachelors,10,81.49,1,7.0,Female,43,Group_A,87.6,4,1,0.939
+1583,PhD,2,59.84,3,6.0,Female,52,Group_A,61.88,2,1,0.98
+1584,Masters,7,70.62,2,8.0,Female,47,Group_D,77.44,2,1,0.932
+1585,Bachelors,9,74.29,2,7.2,Male,34,Group_D,79.28,3,1,0.95
+1586,PhD,16,76.93,0,9.1,Female,24,Group_D,72.82,5,1,0.959
+1587,Bachelors,7,71.76,0,8.4,Female,32,Group_A,68.04,3,1,0.963
+1588,PhD,0,66.33,2,7.7,Male,26,Group_A,74.27,2,1,0.921
+1589,Bachelors,19,61.72,1,5.6,Male,59,Group_D,66.89,4,1,0.948
+1590,Bachelors,20,70.86,3,5.8,Female,25,Group_D,71.71,5,1,0.992
+1591,Bachelors,6,59.28,1,5.2,Female,53,Group_A,57.08,2,1,0.978
+1592,Bachelors,8,40.79,2,4.3,Male,31,Group_C,46.12,2,0,0.947
+1593,Bachelors,11,74.37,2,8.1,Female,31,Group_A,73.04,4,1,0.987
+1594,Bachelors,8,79.04,4,5.3,Female,39,Group_D,78.53,2,1,0.995
+1595,Bachelors,19,46.37,4,4.6,Female,44,Group_A,55.58,4,1,0.908
+1596,Bachelors,2,59.9,4,6.2,Female,39,Group_D,56.6,1,1,0.967
+1597,High School,3,76.19,1,7.3,Male,56,Group_A,72.12,3,1,0.959
+1598,PhD,9,90.57,1,10.0,Female,24,Group_B,85.31,5,1,0.947
+1599,Masters,3,70.21,3,7.5,Female,22,Group_A,77.6,2,1,0.926
+1600,PhD,8,62.72,2,7.8,Female,38,Group_B,63.99,2,1,0.987
+1601,Masters,0,68.17,2,6.6,Female,27,Group_B,67.53,2,1,0.994
+1602,Masters,4,83.75,2,9.5,Male,32,Group_C,83.52,3,1,0.998
+1603,Bachelors,8,63.54,2,8.3,Male,35,Group_A,69.18,3,1,0.944
+1604,High School,4,62.01,1,7.8,Male,49,Group_C,59.41,2,1,0.974
+1605,High School,5,65.17,1,5.2,Female,57,Group_A,69.32,2,1,0.959
+1606,Bachelors,18,60.47,1,5.7,Female,32,Group_A,58.6,4,1,0.981
+1607,Masters,7,71.23,1,6.7,Male,25,Group_B,68.6,2,1,0.974
+1608,High School,9,86.25,6,9.2,Female,27,Group_A,85.37,4,1,0.991
+1609,PhD,10,73.23,1,8.1,Female,59,Group_D,71.35,4,1,0.981
+1610,Bachelors,12,67.48,4,5.7,Male,40,Group_C,69.46,2,1,0.98
+1611,Masters,19,67.08,0,6.8,Male,52,Group_C,70.25,3,1,0.968
+1612,High School,3,54.37,2,3.0,Male,23,Group_A,40.26,2,0,0.859
+1613,Bachelors,10,78.83,1,9.6,Female,46,Group_A,77.13,2,1,0.983
+1614,PhD,11,69.22,3,6.3,Female,32,Group_D,67.26,2,1,0.98
+1615,Bachelors,4,68.2,1,6.9,Male,42,Group_A,81.23,1,1,0.87
+1616,Bachelors,9,100.0,1,9.6,Male,24,Group_C,97.24,4,1,0.972
+1617,High School,6,72.99,0,8.7,Female,23,Group_A,76.2,2,1,0.968
+1618,High School,20,62.48,4,2.8,Female,32,Group_B,69.96,4,1,0.925
+1619,Bachelors,8,65.74,4,6.6,Female,45,Group_C,59.17,2,1,0.934
+1620,Bachelors,8,81.48,2,8.0,Male,45,Group_D,85.12,2,1,0.964
+1621,Bachelors,9,71.13,0,6.6,Male,42,Group_A,72.3,3,1,0.988
+1622,Bachelors,9,55.62,3,7.6,Female,46,Group_A,55.6,2,1,1.0
+1623,High School,1,79.19,1,6.9,Male,25,Group_C,77.45,3,1,0.983
+1624,Masters,3,63.32,1,7.3,Male,44,Group_A,64.92,1,1,0.984
+1625,Masters,7,88.73,0,9.3,Female,45,Group_A,100.0,2,1,0.887
+1626,High School,13,80.8,5,9.6,Other,42,Group_A,87.65,2,1,0.931
+1627,Bachelors,16,65.53,4,5.8,Female,23,Group_B,71.04,3,1,0.945
+1628,High School,12,82.81,2,7.4,Female,44,Group_C,85.27,3,1,0.975
+1629,Masters,20,70.68,2,8.4,Male,36,Group_D,65.2,4,1,0.945
+1630,Masters,17,78.53,3,8.4,Male,47,Group_A,84.47,4,1,0.941
+1631,PhD,17,74.85,2,5.6,Male,47,Group_A,83.36,3,1,0.915
+1632,Bachelors,12,61.54,3,5.5,Female,49,Group_B,57.27,4,1,0.957
+1633,Bachelors,7,63.56,2,6.8,Male,47,Group_A,72.85,4,1,0.907
+1634,High School,11,80.3,1,9.0,Female,23,Group_A,85.82,4,1,0.945
+1635,Bachelors,20,66.65,1,5.9,Male,56,Group_B,78.21,4,1,0.884
+1636,Bachelors,0,65.96,2,3.1,Female,53,Group_A,65.28,2,1,0.993
+1637,High School,19,60.45,0,6.7,Male,51,Group_B,57.04,3,1,0.966
+1638,Masters,17,74.24,1,6.0,Female,41,Group_D,72.43,4,1,0.982
+1639,Bachelors,2,90.63,0,6.6,Male,34,Group_D,100.0,2,1,0.906
+1640,Masters,11,59.32,0,2.5,Female,48,Group_B,50.18,2,1,0.909
+1641,Bachelors,18,70.24,2,8.0,Male,44,Group_B,61.54,3,1,0.913
+1642,PhD,12,84.12,3,8.6,Female,37,Group_B,84.57,4,1,0.996
+1643,PhD,9,69.2,5,6.6,Female,52,Group_D,66.99,3,1,0.978
+1644,PhD,14,74.52,2,9.1,Male,33,Group_D,76.84,3,1,0.977
+1645,Masters,19,59.38,0,6.7,Female,54,Group_C,64.1,3,1,0.953
+1646,Masters,1,74.28,3,9.4,Female,59,Group_B,71.52,1,1,0.972
+1647,Bachelors,18,68.13,1,5.1,Female,53,Group_A,61.52,4,1,0.934
+1648,High School,2,79.86,3,7.9,Female,23,Group_D,90.08,2,1,0.898
+1649,Masters,13,81.87,1,6.2,Male,44,Group_D,79.02,4,1,0.971
+1650,Masters,6,95.9,1,9.3,Male,53,Group_C,93.7,4,1,0.978
+1651,PhD,7,75.8,1,7.3,Male,36,Group_B,83.16,4,1,0.926
+1652,Bachelors,10,73.26,3,8.1,Other,29,Group_B,71.34,3,1,0.981
+1653,Bachelors,19,71.94,2,7.2,Male,43,Group_A,77.22,4,1,0.947
+1654,Masters,5,66.47,2,7.4,Female,59,Group_D,68.88,3,1,0.976
+1655,PhD,10,73.38,2,8.2,Female,55,Group_D,78.8,3,1,0.946
+1656,High School,16,67.05,1,9.3,Female,22,Group_A,67.0,4,1,1.0
+1657,Bachelors,9,71.68,1,6.8,Male,31,Group_C,81.78,3,1,0.899
+1658,Bachelors,16,83.18,1,7.2,Male,37,Group_A,75.26,4,1,0.921
+1659,High School,20,59.93,0,6.3,Male,45,Group_B,67.17,5,1,0.928
+1660,High School,1,81.4,2,7.2,Male,45,Group_A,81.27,3,1,0.999
+1661,Bachelors,5,83.17,2,10.0,Male,35,Group_B,92.05,3,1,0.911
+1662,Masters,4,68.82,3,6.5,Male,47,Group_A,73.79,3,1,0.95
+1663,High School,3,48.78,2,4.2,Female,39,Group_A,46.72,1,0,0.979
+1664,Bachelors,1,63.92,1,5.8,Male,41,Group_C,70.54,2,1,0.934
+1665,Masters,11,82.97,0,9.2,Male,57,Group_A,93.55,3,1,0.894
+1666,PhD,2,69.77,1,6.8,Male,45,Group_C,75.94,3,1,0.938
+1667,PhD,5,60.01,2,5.2,Male,47,Group_B,57.82,2,1,0.978
+1668,Bachelors,13,64.95,0,8.5,Male,50,Group_C,64.58,3,1,0.996
+1669,PhD,7,78.41,2,6.8,Male,43,Group_D,81.87,4,1,0.965
+1670,High School,20,75.47,1,7.6,Female,32,Group_A,77.1,4,1,0.984
+1671,Masters,20,67.61,2,7.5,Male,32,Group_A,75.04,4,1,0.926
+1672,Bachelors,13,66.33,3,4.7,Female,24,Group_A,57.7,3,1,0.914
+1673,Bachelors,2,66.08,1,7.2,Male,42,Group_B,69.43,1,1,0.966
+1674,Bachelors,15,60.78,0,4.8,Female,32,Group_A,62.01,3,1,0.988
+1675,High School,14,86.15,4,9.6,Female,29,Group_B,81.96,4,1,0.958
+1676,Masters,6,66.78,0,5.5,Female,52,Group_C,63.06,3,1,0.963
+1677,Bachelors,14,82.17,3,9.0,Female,31,Group_B,81.1,4,1,0.989
+1678,Bachelors,12,85.21,0,9.8,Male,27,Group_A,73.25,2,1,0.88
+1679,High School,5,79.98,1,9.0,Male,38,Group_A,80.05,2,1,0.999
+1680,Bachelors,14,65.68,1,6.9,Male,59,Group_A,65.18,2,1,0.995
+1681,PhD,16,74.04,1,7.1,Male,28,Group_C,79.14,4,1,0.949
+1682,Masters,3,69.76,3,6.3,Male,53,Group_A,71.83,2,1,0.979
+1683,PhD,13,60.96,0,7.9,Female,34,Group_D,59.89,1,1,0.989
+1684,Bachelors,14,73.24,0,6.5,Male,27,Group_B,83.24,5,1,0.9
+1685,High School,11,58.21,1,4.6,Male,24,Group_B,65.68,1,1,0.925
+1686,Bachelors,18,81.88,2,9.0,Male,48,Group_A,89.61,4,1,0.923
+1687,Bachelors,9,65.35,3,5.6,Female,47,Group_B,62.85,3,1,0.975
+1688,High School,5,72.01,4,6.1,Other,25,Group_D,74.73,2,1,0.973
+1689,Masters,8,72.83,2,5.6,Male,58,Group_D,73.58,3,1,0.992
+1690,Bachelors,1,67.41,1,6.2,Male,42,Group_A,72.14,1,1,0.953
+1691,High School,3,75.87,1,7.5,Male,49,Group_C,80.38,3,1,0.955
+1692,Bachelors,8,65.25,5,6.8,Female,39,Group_A,64.2,1,1,0.99
+1693,Bachelors,14,78.71,0,9.0,Male,53,Group_B,88.14,5,1,0.906
+1694,Masters,12,56.54,2,6.3,Female,54,Group_B,55.74,3,1,0.992
+1695,Bachelors,19,71.26,2,6.9,Male,47,Group_D,76.6,3,1,0.947
+1696,Bachelors,7,89.39,4,8.7,Male,38,Group_A,100.0,4,1,0.894
+1697,High School,18,60.0,4,6.6,Female,50,Group_A,67.11,5,1,0.929
+1698,PhD,18,63.22,1,7.8,Female,41,Group_B,56.18,3,1,0.93
+1699,PhD,15,75.14,4,7.7,Female,51,Group_D,77.36,4,1,0.978
+1700,Masters,10,71.8,0,6.6,Male,26,Group_B,78.66,3,1,0.931
+1701,High School,9,73.51,2,6.2,Female,27,Group_A,80.82,2,1,0.927
+1702,Bachelors,7,74.89,2,5.8,Male,31,Group_D,70.93,2,1,0.96
+1703,Bachelors,0,76.35,3,8.4,Male,27,Group_D,75.01,2,1,0.987
+1704,PhD,9,81.1,1,8.8,Male,31,Group_C,88.28,3,1,0.928
+1705,PhD,17,74.1,2,8.1,Female,42,Group_C,70.29,4,1,0.962
+1706,Masters,2,67.59,4,6.6,Female,25,Group_C,66.09,2,1,0.985
+1707,High School,10,76.73,1,9.4,Male,34,Group_A,90.57,4,1,0.862
+1708,PhD,17,89.0,3,8.3,Female,31,Group_A,90.28,5,1,0.987
+1709,Bachelors,2,68.67,3,8.0,Male,37,Group_B,67.79,1,1,0.991
+1710,Masters,7,60.25,2,6.0,Male,40,Group_D,58.38,2,1,0.981
+1711,Bachelors,13,81.07,1,7.4,Female,27,Group_D,82.73,5,1,0.983
+1712,Bachelors,5,68.8,6,7.6,Female,47,Group_A,63.99,3,1,0.952
+1713,Bachelors,14,48.27,0,5.3,Female,30,Group_A,48.24,3,1,1.0
+1714,High School,13,78.47,1,8.3,Female,31,Group_D,80.14,4,1,0.983
+1715,Bachelors,6,64.65,0,6.6,Male,24,Group_B,73.02,2,1,0.916
+1716,Masters,9,69.09,0,6.9,Female,40,Group_A,75.24,3,1,0.939
+1717,High School,14,73.32,2,10.0,Female,56,Group_B,69.75,3,1,0.964
+1718,High School,9,71.9,0,8.6,Male,27,Group_A,81.55,4,1,0.904
+1719,High School,16,77.09,2,8.6,Female,50,Group_D,75.6,4,1,0.985
+1720,Bachelors,18,65.65,1,6.7,Female,40,Group_C,59.47,4,1,0.938
+1721,PhD,16,75.13,1,8.7,Male,36,Group_D,77.63,4,1,0.975
+1722,High School,11,67.4,2,7.4,Other,59,Group_A,75.64,3,1,0.918
+1723,High School,14,77.39,1,7.8,Male,42,Group_C,80.84,4,1,0.966
+1724,PhD,11,76.15,3,7.3,Female,44,Group_B,76.22,3,1,0.999
+1725,Masters,8,60.65,0,6.0,Male,41,Group_A,72.65,3,1,0.88
+1726,High School,4,80.86,4,4.3,Female,23,Group_B,73.7,3,1,0.928
+1727,Masters,3,64.64,1,6.7,Female,53,Group_D,58.21,2,1,0.936
+1728,Masters,11,78.08,2,7.2,Male,49,Group_C,73.49,3,1,0.954
+1729,Masters,15,73.67,2,9.3,Male,25,Group_B,78.04,4,1,0.956
+1730,Bachelors,8,88.38,2,8.9,Female,28,Group_D,89.21,4,1,0.992
+1731,PhD,2,67.77,1,5.3,Female,24,Group_A,77.69,3,1,0.901
+1732,High School,20,66.51,3,6.6,Female,46,Group_C,67.72,3,1,0.988
+1733,Bachelors,2,69.81,2,5.7,Male,30,Group_C,69.93,2,1,0.999
+1734,Bachelors,17,66.97,2,7.3,Male,44,Group_C,69.49,3,1,0.975
+1735,Bachelors,16,78.0,2,8.1,Female,44,Group_C,78.59,3,1,0.994
+1736,PhD,9,53.84,1,6.5,Female,47,Group_A,46.93,3,1,0.931
+1737,Bachelors,1,59.46,0,5.0,Male,39,Group_D,75.04,2,1,0.844
+1738,High School,10,59.32,1,6.0,Female,45,Group_A,64.06,4,1,0.953
+1739,Bachelors,2,79.5,3,6.3,Male,48,Group_B,82.11,2,1,0.974
+1740,Bachelors,1,87.11,2,9.6,Male,23,Group_A,96.25,2,1,0.909
+1741,PhD,8,68.96,2,7.5,Female,22,Group_A,74.75,2,1,0.942
+1742,Bachelors,18,68.31,2,7.4,Male,37,Group_B,69.97,3,1,0.983
+1743,Bachelors,1,70.7,3,7.1,Male,45,Group_C,70.55,3,1,0.998
+1744,Masters,18,81.62,2,8.7,Female,57,Group_B,84.62,5,1,0.97
+1745,Masters,1,60.73,2,8.0,Male,32,Group_A,68.01,4,1,0.927
+1746,Bachelors,14,72.38,0,6.9,Female,47,Group_B,68.33,3,1,0.96
+1747,Bachelors,20,79.75,2,8.1,Female,27,Group_C,86.85,4,1,0.929
+1748,Masters,2,75.01,2,6.2,Female,47,Group_A,77.77,2,1,0.972
+1749,Masters,4,71.9,2,6.1,Male,50,Group_C,78.31,3,1,0.936
+1750,Masters,10,80.01,2,8.1,Male,22,Group_A,91.19,5,1,0.888
+1751,PhD,6,42.97,1,5.6,Female,30,Group_B,43.08,3,1,0.999
+1752,Masters,5,76.78,2,7.4,Male,48,Group_B,81.75,2,1,0.95
+1753,Masters,13,63.46,2,6.1,Female,28,Group_C,67.51,4,1,0.959
+1754,PhD,0,51.69,1,4.7,Female,24,Group_A,50.04,1,1,0.984
+1755,High School,16,75.11,2,6.9,Male,30,Group_B,77.91,2,1,0.972
+1756,Bachelors,16,83.74,4,8.7,Female,23,Group_B,84.36,4,1,0.994
+1757,Bachelors,13,68.63,3,5.1,Female,31,Group_B,63.85,4,1,0.952
+1758,Bachelors,9,79.53,1,9.5,Male,38,Group_B,93.26,4,1,0.863
+1759,Masters,7,86.12,1,7.8,Male,52,Group_A,84.36,5,1,0.982
+1760,Masters,7,83.15,3,9.2,Female,22,Group_C,76.66,3,1,0.935
+1761,Masters,13,86.4,0,7.1,Male,39,Group_C,94.61,4,1,0.918
+1762,PhD,6,77.42,2,8.5,Male,27,Group_A,84.96,4,1,0.925
+1763,Bachelors,5,70.75,2,7.9,Male,59,Group_A,69.82,2,1,0.991
+1764,Masters,3,53.98,3,5.9,Male,25,Group_C,60.08,2,1,0.939
+1765,Bachelors,0,67.54,1,5.6,Female,25,Group_C,74.88,2,1,0.927
+1766,Bachelors,14,61.57,2,6.5,Male,56,Group_C,64.73,2,1,0.968
+1767,High School,14,91.71,1,7.8,Female,25,Group_C,100.0,4,1,0.917
+1768,Masters,0,68.24,3,6.5,Female,22,Group_B,59.62,4,1,0.914
+1769,Bachelors,19,71.23,1,8.4,Other,52,Group_B,74.7,5,1,0.965
+1770,Masters,2,75.51,0,8.5,Male,40,Group_A,85.44,2,1,0.901
+1771,Bachelors,4,70.44,1,7.1,Male,42,Group_A,79.35,4,1,0.911
+1772,Bachelors,4,86.95,2,7.5,Female,51,Group_D,85.93,4,1,0.99
+1773,Bachelors,3,63.77,1,7.2,Male,28,Group_D,64.53,3,1,0.992
+1774,Bachelors,16,71.95,3,7.2,Female,26,Group_C,74.17,4,1,0.978
+1775,PhD,20,62.58,1,3.5,Male,23,Group_A,70.89,4,1,0.917
+1776,High School,19,56.8,4,6.6,Female,24,Group_B,59.81,4,1,0.97
+1777,PhD,13,63.88,2,6.4,Female,36,Group_C,69.08,3,1,0.948
+1778,PhD,7,69.63,2,8.4,Male,58,Group_B,66.36,3,1,0.967
+1779,PhD,1,65.71,0,5.3,Male,31,Group_C,67.16,3,1,0.985
+1780,Bachelors,7,63.08,2,2.5,Male,30,Group_A,63.76,3,1,0.993
+1781,PhD,0,55.94,6,5.9,Male,44,Group_A,58.31,2,1,0.976
+1782,Bachelors,3,69.17,1,7.3,Male,35,Group_C,76.96,1,1,0.922
+1783,High School,18,54.95,0,3.5,Female,54,Group_D,55.49,3,0,0.995
+1784,Bachelors,4,77.6,1,6.6,Male,37,Group_D,92.32,2,1,0.853
+1785,PhD,4,70.82,0,10.0,Male,41,Group_C,74.67,2,1,0.961
+1786,High School,20,55.42,0,5.2,Male,29,Group_A,59.1,4,1,0.963
+1787,Bachelors,19,66.91,3,7.6,Female,59,Group_B,67.44,3,1,0.995
+1788,High School,18,62.48,2,5.5,Male,55,Group_A,62.99,2,1,0.995
+1789,Bachelors,11,73.19,0,4.8,Female,52,Group_B,72.9,4,1,0.997
+1790,High School,19,83.4,4,8.1,Female,29,Group_B,89.04,4,1,0.944
+1791,Masters,0,51.25,2,4.8,Male,46,Group_B,54.15,2,1,0.971
+1792,Bachelors,6,71.15,4,6.6,Male,34,Group_D,68.91,3,1,0.978
+1793,PhD,16,68.4,0,6.7,Female,39,Group_B,63.77,3,1,0.954
+1794,Masters,1,76.71,0,8.0,Male,55,Group_A,78.22,3,1,0.985
+1795,PhD,10,72.13,1,7.0,Male,57,Group_A,76.1,4,1,0.96
+1796,Bachelors,6,62.48,4,4.7,Female,38,Group_A,70.2,2,1,0.923
+1797,Bachelors,16,66.81,3,7.3,Male,33,Group_B,62.5,5,1,0.957
+1798,Bachelors,2,62.04,0,3.9,Male,37,Group_C,62.42,2,1,0.996
+1799,Bachelors,5,80.76,5,5.6,Other,34,Group_B,81.48,2,1,0.993
+1800,Masters,10,70.21,1,7.9,Male,32,Group_D,62.68,4,1,0.925
+1801,Bachelors,17,89.01,0,9.5,Female,35,Group_A,86.79,4,1,0.978
+1802,Masters,17,69.39,4,6.9,Male,49,Group_B,68.0,5,1,0.986
+1803,Masters,9,62.92,2,4.6,Female,45,Group_C,58.94,3,1,0.96
+1804,High School,4,54.86,1,4.6,Male,38,Group_A,60.22,2,1,0.946
+1805,Masters,20,51.97,4,4.9,Male,30,Group_B,54.15,5,1,0.978
+1806,High School,14,54.16,0,3.5,Female,51,Group_B,51.38,3,0,0.972
+1807,Bachelors,20,72.67,3,6.4,Female,58,Group_A,77.52,2,1,0.952
+1808,Masters,19,75.09,0,8.3,Male,24,Group_D,86.02,5,1,0.891
+1809,PhD,3,54.19,1,7.1,Female,29,Group_A,63.63,2,1,0.906
+1810,High School,20,78.95,2,7.4,Male,39,Group_A,74.65,5,1,0.957
+1811,High School,20,65.17,0,7.4,Female,51,Group_A,70.36,3,1,0.948
+1812,High School,0,71.47,2,4.8,Female,24,Group_B,70.58,2,1,0.991
+1813,Bachelors,14,86.12,2,9.4,Male,55,Group_A,91.29,4,1,0.948
+1814,Masters,16,78.97,1,6.9,Male,49,Group_B,80.27,5,1,0.987
+1815,Masters,18,67.31,4,7.1,Male,58,Group_A,72.6,4,1,0.947
+1816,Masters,13,61.09,3,5.8,Female,46,Group_A,63.2,3,1,0.979
+1817,Masters,18,48.48,1,6.4,Male,51,Group_A,49.66,3,1,0.988
+1818,Bachelors,17,62.81,1,5.2,Female,28,Group_A,60.08,3,1,0.973
+1819,High School,1,67.89,1,7.5,Male,50,Group_C,68.41,3,1,0.995
+1820,High School,5,60.13,0,5.7,Female,23,Group_B,61.3,3,1,0.988
+1821,Masters,12,68.69,0,6.7,Female,47,Group_A,73.98,5,1,0.947
+1822,Masters,16,70.77,2,6.9,Female,28,Group_A,77.93,4,1,0.928
+1823,Masters,5,67.75,1,5.8,Female,39,Group_D,65.28,3,1,0.975
+1824,Bachelors,20,63.5,1,6.3,Male,27,Group_C,67.46,4,1,0.96
+1825,Bachelors,4,71.69,1,7.1,Male,48,Group_C,78.9,2,1,0.928
+1826,PhD,6,74.42,2,7.7,Other,45,Group_A,82.44,4,1,0.92
+1827,High School,0,59.1,1,6.0,Male,54,Group_A,64.96,2,1,0.941
+1828,Masters,12,84.11,0,9.4,Female,52,Group_C,83.0,4,1,0.989
+1829,Bachelors,18,69.01,3,8.0,Female,55,Group_A,72.78,4,1,0.962
+1830,High School,0,70.19,1,5.8,Female,43,Group_B,64.44,2,1,0.942
+1831,Masters,12,77.08,2,8.8,Male,45,Group_A,81.43,3,1,0.956
+1832,Bachelors,10,72.33,2,5.8,Male,57,Group_A,80.73,3,1,0.916
+1833,Masters,6,79.53,1,8.7,Female,49,Group_A,84.24,3,1,0.953
+1834,Masters,19,72.87,2,8.0,Male,41,Group_B,73.9,4,1,0.99
+1835,Bachelors,2,63.88,0,4.1,Female,39,Group_C,64.96,3,1,0.989
+1836,Masters,0,73.62,2,7.5,Male,53,Group_A,74.7,2,1,0.989
+1837,Bachelors,7,58.56,3,5.3,Male,54,Group_A,65.85,2,1,0.927
+1838,Bachelors,16,71.09,1,6.2,Male,31,Group_C,74.19,3,1,0.969
+1839,Masters,12,69.67,3,8.6,Female,30,Group_B,68.29,3,1,0.986
+1840,Bachelors,13,67.92,3,6.0,Male,46,Group_C,68.98,3,1,0.989
+1841,High School,4,68.71,2,5.9,Female,34,Group_C,68.4,2,1,0.997
+1842,PhD,5,51.18,2,5.2,Female,26,Group_A,51.21,1,1,1.0
+1843,Bachelors,5,64.51,2,7.3,Female,52,Group_B,67.8,3,1,0.967
+1844,Masters,20,70.93,2,6.9,Female,52,Group_C,68.95,5,1,0.98
+1845,Masters,7,71.6,3,8.6,Male,55,Group_B,81.2,3,1,0.904
+1846,Bachelors,12,59.72,2,6.6,Female,47,Group_A,69.84,4,1,0.899
+1847,Bachelors,17,82.66,1,5.7,Male,28,Group_A,83.03,4,1,0.996
+1848,Bachelors,3,61.34,1,5.5,Female,41,Group_D,61.69,2,1,0.996
+1849,Bachelors,16,79.69,2,7.3,Female,43,Group_D,76.44,5,1,0.968
+1850,Masters,4,74.27,2,8.0,Male,26,Group_B,75.6,3,1,0.987
+1851,Masters,2,63.54,2,3.2,Male,33,Group_A,79.03,3,1,0.845
+1852,High School,3,87.75,2,10.0,Female,42,Group_B,86.22,3,1,0.985
+1853,Bachelors,4,58.06,4,6.4,Male,30,Group_A,65.66,2,1,0.924
+1854,PhD,13,79.19,3,8.1,Female,50,Group_A,84.36,4,1,0.948
+1855,Bachelors,14,80.01,4,9.4,Male,48,Group_B,78.45,3,1,0.984
+1856,Masters,19,63.29,2,9.1,Female,38,Group_C,59.02,2,1,0.957
+1857,Masters,16,83.92,1,9.4,Male,45,Group_A,82.43,4,1,0.985
+1858,Bachelors,5,67.5,2,7.9,Female,48,Group_D,63.07,3,1,0.956
+1859,Bachelors,9,72.89,2,7.4,Male,29,Group_A,62.46,3,1,0.896
+1860,Masters,15,72.6,2,7.1,Male,50,Group_B,78.13,3,1,0.945
+1861,Bachelors,16,68.66,2,6.3,Male,40,Group_C,80.57,3,1,0.881
+1862,Bachelors,13,78.11,3,6.8,Male,31,Group_A,83.51,2,1,0.946
+1863,Masters,19,77.93,1,7.0,Male,45,Group_A,75.74,4,1,0.978
+1864,Masters,11,52.51,3,3.6,Female,55,Group_A,51.34,2,1,0.988
+1865,Bachelors,8,83.04,3,8.2,Male,52,Group_D,84.21,3,1,0.988
+1866,High School,14,53.38,3,3.3,Female,25,Group_B,48.29,2,0,0.949
+1867,Bachelors,11,80.33,2,8.3,Male,52,Group_A,88.82,2,1,0.915
+1868,Bachelors,13,81.27,3,8.1,Female,30,Group_C,85.32,3,1,0.96
+1869,Bachelors,17,59.09,2,6.1,Male,47,Group_B,54.84,4,1,0.958
+1870,Bachelors,19,65.89,3,6.0,Female,34,Group_A,72.07,3,1,0.938
+1871,High School,5,58.94,1,9.6,Female,47,Group_B,66.58,1,1,0.924
+1872,Bachelors,3,67.85,1,8.4,Male,22,Group_B,79.9,3,1,0.88
+1873,Bachelors,11,66.92,1,5.2,Male,30,Group_A,84.31,3,1,0.826
+1874,Bachelors,12,77.8,2,8.1,Male,52,Group_B,76.15,2,1,0.984
+1875,Bachelors,18,83.1,4,7.6,Male,45,Group_A,100.0,5,1,0.831
+1876,Bachelors,12,83.96,2,7.2,Male,43,Group_C,85.2,4,1,0.988
+1877,PhD,11,64.38,4,4.8,Male,30,Group_A,65.99,4,1,0.984
+1878,High School,19,67.91,2,7.3,Female,44,Group_A,72.34,4,1,0.956
+1879,Masters,2,53.17,1,4.5,Male,41,Group_D,53.42,3,1,0.998
+1880,PhD,2,61.94,2,7.4,Male,42,Group_B,66.74,2,1,0.952
+1881,Bachelors,13,79.65,2,9.2,Male,48,Group_A,78.27,2,1,0.986
+1882,Masters,17,86.16,3,10.0,Female,26,Group_C,84.96,4,1,0.988
+1883,High School,18,57.66,0,4.7,Male,38,Group_D,65.94,4,1,0.917
+1884,Bachelors,9,64.08,1,7.0,Female,55,Group_A,65.14,3,1,0.989
+1885,Bachelors,16,69.74,1,7.7,Female,30,Group_C,70.44,4,1,0.993
+1886,High School,14,72.8,1,6.7,Female,55,Group_B,75.18,3,1,0.976
+1887,Bachelors,18,61.9,3,5.3,Male,31,Group_C,69.36,4,1,0.925
+1888,Bachelors,8,74.24,1,9.4,Male,23,Group_C,69.16,3,1,0.949
+1889,Masters,3,65.26,1,6.8,Male,46,Group_C,70.36,2,1,0.949
+1890,PhD,14,69.86,5,7.7,Female,24,Group_D,68.51,4,1,0.986
+1891,High School,18,75.46,2,6.6,Female,55,Group_D,76.3,4,1,0.992
+1892,Bachelors,15,70.06,0,5.5,Male,28,Group_A,80.24,3,1,0.898
+1893,Bachelors,7,65.64,1,5.9,Female,49,Group_D,59.67,2,1,0.94
+1894,Bachelors,16,68.9,1,6.7,Female,30,Group_B,63.84,5,1,0.949
+1895,Masters,20,69.12,2,5.6,Male,32,Group_C,62.79,5,1,0.937
+1896,Bachelors,0,66.3,1,6.6,Male,50,Group_C,65.93,3,1,0.996
+1897,High School,6,67.41,3,4.7,Female,37,Group_B,74.06,3,1,0.934
+1898,Masters,20,85.99,2,7.3,Female,50,Group_A,87.56,3,1,0.984
+1899,Masters,17,75.61,3,8.4,Female,34,Group_D,68.91,3,1,0.933
+1900,Bachelors,11,67.05,4,7.4,Female,56,Group_A,67.04,3,1,1.0
+1901,Bachelors,15,76.97,3,7.2,Male,32,Group_A,74.62,4,1,0.976
+1902,High School,0,66.66,1,5.4,Female,56,Group_B,61.04,2,1,0.944
+1903,Bachelors,14,81.73,1,6.9,Female,29,Group_A,85.07,4,1,0.967
+1904,Bachelors,6,73.7,5,6.9,Male,28,Group_C,69.45,2,1,0.958
+1905,Bachelors,16,68.93,1,7.7,Male,26,Group_A,78.7,5,1,0.902
+1906,PhD,2,74.48,1,8.6,Female,27,Group_D,74.12,4,1,0.996
+1907,Bachelors,10,54.29,3,4.8,Female,56,Group_D,54.72,2,1,0.996
+1908,High School,5,58.73,2,4.5,Female,51,Group_B,57.34,1,1,0.986
+1909,Bachelors,5,58.06,6,6.1,Male,32,Group_C,64.73,2,1,0.933
+1910,Bachelors,14,71.43,1,6.2,Male,59,Group_B,77.39,5,1,0.94
+1911,Bachelors,6,87.33,4,8.1,Female,48,Group_B,89.0,3,1,0.983
+1912,Bachelors,10,92.31,1,10.0,Female,42,Group_B,95.14,4,1,0.972
+1913,Bachelors,16,76.38,2,8.6,Male,35,Group_D,78.26,4,1,0.981
+1914,Bachelors,17,75.01,1,7.7,Female,56,Group_B,77.72,4,1,0.973
+1915,Bachelors,20,51.99,4,3.7,Female,50,Group_C,50.3,4,1,0.983
+1916,High School,18,64.57,0,6.7,Female,45,Group_B,64.58,4,1,1.0
+1917,High School,7,62.12,1,7.5,Female,57,Group_A,62.14,3,1,1.0
+1918,Bachelors,19,63.79,1,5.9,Male,53,Group_A,66.69,2,1,0.971
+1919,High School,7,68.32,1,8.5,Female,27,Group_A,65.9,4,1,0.976
+1920,Bachelors,20,65.28,1,8.1,Male,31,Group_D,70.84,3,1,0.944
+1921,Masters,10,50.21,0,7.0,Female,41,Group_C,56.76,3,1,0.934
+1922,Masters,20,77.48,2,8.1,Male,41,Group_C,85.15,4,1,0.923
+1923,Bachelors,2,59.27,2,6.6,Female,47,Group_C,52.99,2,1,0.937
+1924,Masters,13,72.39,3,8.9,Female,42,Group_A,80.11,4,1,0.923
+1925,Bachelors,8,90.74,2,9.6,Female,44,Group_A,90.65,3,1,0.999
+1926,Masters,0,60.81,0,5.5,Female,33,Group_A,66.35,1,1,0.945
+1927,Bachelors,0,44.7,0,3.9,Male,34,Group_A,45.44,1,1,0.993
+1928,Bachelors,11,67.14,0,7.0,Female,31,Group_A,69.63,4,1,0.975
+1929,Bachelors,10,81.01,1,6.6,Male,28,Group_A,87.26,4,1,0.938
+1930,High School,20,89.58,4,8.8,Male,58,Group_D,85.14,5,1,0.956
+1931,PhD,0,57.7,0,7.1,Other,33,Group_B,60.75,2,1,0.97
+1932,High School,19,74.97,2,4.9,Female,46,Group_A,83.34,5,1,0.916
+1933,Bachelors,11,65.35,0,8.4,Female,23,Group_B,64.47,5,1,0.991
+1934,Bachelors,16,68.94,1,8.2,Female,47,Group_A,78.23,4,1,0.907
+1935,High School,14,96.44,1,9.1,Female,26,Group_B,95.49,4,1,0.99
+1936,High School,1,54.97,2,6.1,Female,29,Group_A,60.98,1,1,0.94
+1937,High School,17,72.54,3,7.3,Female,30,Group_D,61.44,4,1,0.889
+1938,Bachelors,15,74.68,1,8.9,Other,41,Group_A,88.7,4,1,0.86
+1939,Masters,3,80.86,2,9.3,Male,32,Group_C,90.65,2,1,0.902
+1940,Bachelors,7,70.98,1,5.4,Female,43,Group_C,69.56,3,1,0.986
+1941,High School,1,73.08,0,8.0,Female,37,Group_B,63.22,3,1,0.901
+1942,Bachelors,13,66.08,2,6.4,Male,59,Group_D,69.48,2,1,0.966
+1943,PhD,14,72.69,4,7.4,Male,31,Group_A,69.38,4,1,0.967
+1944,Bachelors,8,66.57,3,5.8,Female,46,Group_A,71.62,3,1,0.949
+1945,Bachelors,1,76.22,3,9.7,Male,40,Group_A,82.55,2,1,0.937
+1946,PhD,16,66.3,2,7.9,Male,25,Group_C,63.39,3,1,0.971
+1947,High School,9,73.77,1,6.5,Male,40,Group_A,84.45,2,1,0.893
+1948,Bachelors,8,69.71,3,5.4,Male,24,Group_A,78.78,2,1,0.909
+1949,Bachelors,1,81.26,0,7.7,Female,38,Group_B,86.14,2,1,0.951
+1950,PhD,18,69.49,2,7.5,Male,35,Group_C,71.3,4,1,0.982
+1951,PhD,16,52.27,0,5.5,Male,31,Group_A,49.37,3,1,0.971
+1952,Masters,10,82.62,2,9.8,Female,27,Group_B,87.51,4,1,0.951
+1953,Bachelors,16,60.94,2,7.0,Male,52,Group_A,65.36,2,1,0.956
+1954,Bachelors,9,63.46,3,7.5,Female,52,Group_A,58.47,2,1,0.95
+1955,Bachelors,17,64.04,2,6.8,Female,30,Group_C,70.8,3,1,0.932
+1956,Masters,5,83.74,2,6.7,Female,33,Group_B,94.24,3,1,0.895
+1957,PhD,15,48.64,2,4.6,Female,47,Group_C,48.44,3,1,0.998
+1958,Bachelors,17,100.0,0,10.0,Male,23,Group_C,100.0,5,1,1.0
+1959,Masters,19,80.56,2,8.0,Male,25,Group_A,86.26,5,1,0.943
+1960,High School,17,72.23,4,7.8,Male,53,Group_B,73.33,3,1,0.989
+1961,Bachelors,0,69.45,0,6.6,Male,49,Group_D,68.22,1,1,0.988
+1962,Bachelors,2,72.86,0,6.0,Male,27,Group_A,86.6,2,1,0.863
+1963,Bachelors,14,75.21,1,7.4,Male,51,Group_B,74.37,4,1,0.992
+1964,Bachelors,19,76.45,2,8.0,Female,49,Group_C,80.13,5,1,0.963
+1965,High School,9,75.56,2,6.8,Male,34,Group_A,76.35,3,1,0.992
+1966,Masters,20,70.9,0,6.8,Male,57,Group_C,70.31,5,1,0.994
+1967,Masters,4,68.03,1,5.7,Male,31,Group_C,76.55,1,1,0.915
+1968,PhD,14,68.49,3,8.2,Male,31,Group_B,69.46,4,1,0.99
+1969,Masters,13,68.05,2,6.5,Female,26,Group_A,68.59,4,1,0.995
+1970,Bachelors,14,81.34,3,9.9,Female,50,Group_D,87.0,3,1,0.943
+1971,Bachelors,9,75.94,0,9.4,Female,57,Group_A,85.78,2,1,0.902
+1972,PhD,8,40.6,1,4.0,Female,33,Group_B,43.82,1,1,0.968
+1973,Bachelors,11,76.56,3,6.4,Female,43,Group_C,73.29,4,1,0.967
+1974,Masters,6,71.95,1,4.7,Female,23,Group_A,71.42,4,1,0.995
+1975,Masters,4,69.81,3,5.2,Male,35,Group_D,71.79,2,1,0.98
+1976,Masters,9,66.11,1,5.0,Male,31,Group_B,69.5,3,1,0.966
+1977,High School,7,81.24,1,9.8,Female,24,Group_B,76.3,2,1,0.951
+1978,Bachelors,19,79.48,1,8.1,Male,29,Group_B,84.69,4,1,0.948
+1979,Masters,15,62.27,3,6.7,Male,38,Group_D,66.15,3,1,0.961
+1980,Masters,11,74.07,2,4.7,Male,25,Group_D,67.99,5,1,0.939
+1981,Masters,8,60.28,2,4.6,Male,42,Group_B,58.06,2,1,0.978
+1982,Bachelors,9,56.2,1,6.7,Female,51,Group_B,53.68,3,1,0.975
+1983,Bachelors,15,63.73,0,6.7,Male,40,Group_A,69.77,5,1,0.94
+1984,Masters,9,78.62,1,7.7,Male,36,Group_B,90.58,4,1,0.88
+1985,Masters,8,79.53,3,8.6,Male,41,Group_A,85.83,2,1,0.937
+1986,Bachelors,2,75.13,1,9.5,Female,51,Group_C,70.93,1,1,0.958
+1987,Bachelors,18,77.25,4,7.5,Female,31,Group_D,78.35,4,1,0.989
+1988,PhD,10,75.16,2,7.6,Male,44,Group_C,76.87,3,1,0.983
+1989,Bachelors,5,63.59,2,6.6,Female,45,Group_B,65.21,3,1,0.984
+1990,Masters,5,74.32,4,10.0,Male,33,Group_C,78.94,3,1,0.954
+1991,Bachelors,14,78.0,4,5.3,Female,30,Group_D,84.05,3,1,0.94
+1992,Bachelors,14,77.54,1,8.6,Female,36,Group_B,77.42,3,1,0.999
+1993,Masters,12,81.89,3,8.1,Female,50,Group_D,90.08,3,1,0.918
+1994,High School,4,77.08,2,8.4,Male,39,Group_A,87.8,3,1,0.893
+1995,Bachelors,13,73.51,3,6.6,Male,41,Group_A,74.0,2,1,0.995
+1996,Bachelors,20,80.7,0,8.0,Male,22,Group_A,95.89,5,1,0.848
+1997,Masters,1,69.73,2,7.8,Male,24,Group_A,76.53,3,1,0.932
+1998,Bachelors,11,61.18,2,9.9,Male,29,Group_B,60.42,3,1,0.992
+1999,Bachelors,19,68.37,3,7.8,Male,52,Group_D,79.1,3,1,0.893
+2000,PhD,13,62.55,1,5.2,Male,29,Group_C,74.49,3,1,0.881
+2001,Bachelors,18,63.25,3,5.8,Female,36,Group_C,63.08,3,1,0.998
+2002,High School,19,68.55,6,6.3,Male,43,Group_B,67.98,4,1,0.994
+2003,High School,14,62.08,1,4.1,Female,53,Group_B,61.21,4,1,0.991
+2004,PhD,19,66.92,2,6.3,Female,26,Group_A,71.98,3,1,0.949
+2005,High School,16,51.06,0,6.0,Female,30,Group_B,57.45,3,0,0.936
+2006,Bachelors,13,72.13,1,5.7,Female,36,Group_C,74.99,4,1,0.971
+2007,Bachelors,17,70.01,3,8.3,Female,58,Group_B,70.52,3,1,0.995
+2008,Masters,4,61.83,1,6.8,Female,54,Group_B,69.32,2,1,0.925
+2009,Masters,11,76.59,3,6.8,Male,43,Group_C,77.39,3,1,0.992
+2010,Bachelors,9,79.38,2,7.8,Male,32,Group_A,90.13,4,1,0.892
+2011,High School,7,53.92,3,7.3,Female,27,Group_B,52.48,2,1,0.986
+2012,Masters,5,62.37,2,7.1,Male,38,Group_D,67.15,4,1,0.952
+2013,Bachelors,14,62.31,1,6.2,Male,26,Group_D,64.94,2,1,0.974
+2014,PhD,11,60.6,1,5.8,Female,30,Group_A,63.14,4,1,0.975
+2015,Bachelors,5,78.29,1,7.9,Female,50,Group_B,76.41,4,1,0.981
+2016,Masters,11,68.06,0,6.2,Female,44,Group_A,77.43,2,1,0.906
+2017,High School,14,67.35,1,4.2,Male,57,Group_A,68.08,2,1,0.993
+2018,Masters,11,49.96,2,7.4,Female,52,Group_B,46.26,3,1,0.963
+2019,Bachelors,8,76.35,2,7.8,Male,41,Group_B,89.64,3,1,0.867
+2020,Bachelors,18,57.61,3,6.2,Female,44,Group_C,62.5,3,1,0.951
+2021,High School,20,70.6,2,7.0,Male,28,Group_A,64.02,5,1,0.934
+2022,High School,1,72.77,1,6.4,Female,57,Group_D,69.95,1,1,0.972
+2023,High School,12,83.61,3,8.1,Male,25,Group_B,76.61,3,1,0.93
+2024,Bachelors,12,56.91,3,3.8,Male,45,Group_C,55.58,2,1,0.987
+2025,Masters,7,39.8,0,6.7,Male,35,Group_B,25.76,1,1,0.86
+2026,Bachelors,12,71.84,2,5.7,Male,46,Group_D,73.44,3,1,0.984
+2027,Masters,3,88.01,1,7.6,Female,28,Group_D,82.3,2,1,0.943
+2028,High School,5,82.39,1,7.7,Male,36,Group_B,85.51,4,1,0.969
+2029,Bachelors,5,72.1,0,8.8,Male,34,Group_C,67.36,3,1,0.953
+2030,Bachelors,20,65.08,2,6.5,Male,40,Group_B,68.0,4,1,0.971
+2031,PhD,11,78.07,1,6.3,Female,33,Group_A,78.33,4,1,0.997
+2032,Masters,11,60.26,3,7.5,Male,47,Group_A,73.42,3,1,0.868
+2033,Bachelors,16,74.76,3,8.4,Male,54,Group_B,83.53,3,1,0.912
+2034,Masters,6,75.05,1,8.2,Female,36,Group_C,78.98,2,1,0.961
+2035,High School,14,80.6,1,8.9,Female,58,Group_A,81.54,5,1,0.991
+2036,Bachelors,16,97.6,2,10.0,Female,27,Group_B,100.0,5,1,0.976
+2037,High School,9,73.92,2,10.0,Female,46,Group_B,66.16,3,1,0.922
+2038,Bachelors,19,64.91,1,5.7,Male,38,Group_B,60.45,4,1,0.955
+2039,Bachelors,5,69.74,1,8.9,Female,57,Group_D,69.33,3,1,0.996
+2040,Masters,8,52.31,0,5.7,Female,30,Group_A,65.56,3,1,0.867
+2041,Bachelors,14,63.05,3,6.9,Female,49,Group_C,62.04,4,1,0.99
+2042,Masters,15,65.91,5,4.6,Male,56,Group_C,67.12,2,1,0.988
+2043,Bachelors,20,64.76,1,6.3,Female,24,Group_A,59.08,5,1,0.943
+2044,High School,7,71.52,3,6.2,Male,32,Group_C,79.34,4,1,0.922
+2045,Masters,15,61.78,2,7.2,Female,41,Group_B,66.54,3,1,0.952
+2046,Masters,4,81.21,2,9.4,Male,44,Group_B,87.55,4,1,0.937
+2047,PhD,17,70.0,0,4.5,Male,51,Group_B,69.31,2,1,0.993
+2048,Bachelors,19,69.91,0,7.0,Female,58,Group_D,66.37,4,1,0.965
+2049,Masters,13,66.72,1,8.0,Male,57,Group_D,61.89,3,1,0.952
+2050,Masters,1,71.55,2,6.9,Female,33,Group_D,71.97,2,1,0.996
+2051,High School,2,78.25,1,8.7,Female,57,Group_D,72.85,3,1,0.946
+2052,High School,13,61.33,2,6.6,Female,56,Group_A,57.59,4,1,0.963
+2053,High School,6,63.42,2,6.8,Male,55,Group_B,63.68,1,1,0.997
+2054,Bachelors,14,66.96,1,6.4,Female,25,Group_D,64.52,4,1,0.976
+2055,Bachelors,16,56.54,1,4.2,Female,45,Group_C,53.85,3,1,0.973
+2056,PhD,0,61.81,4,4.8,Male,57,Group_B,65.8,3,1,0.96
+2057,Bachelors,8,65.24,1,7.4,Female,49,Group_C,65.63,3,1,0.996
+2058,Masters,13,78.74,2,7.9,Male,23,Group_A,80.62,3,1,0.981
+2059,Masters,15,72.63,1,7.1,Male,26,Group_B,75.29,4,1,0.973
+2060,Bachelors,20,71.94,2,6.7,Female,49,Group_B,66.98,4,1,0.95
+2061,High School,12,78.51,5,7.5,Female,34,Group_B,79.04,5,1,0.995
+2062,Bachelors,5,68.63,2,8.1,Male,57,Group_C,71.55,2,1,0.971
+2063,Masters,0,73.9,2,7.0,Male,30,Group_D,68.34,2,1,0.944
+2064,PhD,20,68.97,2,5.3,Female,51,Group_A,76.3,3,1,0.927
+2065,Bachelors,3,72.65,4,8.2,Male,48,Group_C,70.32,3,1,0.977
+2066,Masters,2,64.17,1,6.2,Male,34,Group_B,66.42,2,1,0.978
+2067,Bachelors,16,45.61,1,4.6,Other,49,Group_C,51.43,3,1,0.942
+2068,Masters,1,68.66,1,8.8,Male,39,Group_B,75.67,3,1,0.93
+2069,Bachelors,18,84.23,0,8.4,Female,55,Group_D,84.4,4,1,0.998
+2070,High School,19,79.26,3,8.3,Male,42,Group_B,79.95,4,1,0.993
+2071,High School,7,79.65,1,6.6,Female,22,Group_A,86.36,3,1,0.933
+2072,High School,14,82.36,3,8.0,Male,44,Group_C,88.9,4,1,0.935
+2073,Bachelors,5,70.89,1,7.8,Female,55,Group_A,69.79,5,1,0.989
+2074,Masters,19,71.97,2,5.3,Male,57,Group_A,71.95,3,1,1.0
+2075,High School,1,63.82,1,6.6,Female,30,Group_A,54.54,3,1,0.907
+2076,Bachelors,14,66.84,4,6.8,Female,29,Group_B,67.61,5,1,0.992
+2077,Bachelors,19,76.16,2,7.7,Other,51,Group_A,77.96,5,1,0.982
+2078,Masters,11,82.04,4,9.4,Male,57,Group_A,92.0,4,1,0.9
+2079,Masters,2,68.61,1,7.3,Female,57,Group_C,70.4,1,1,0.982
+2080,Masters,9,65.5,2,8.3,Male,39,Group_B,75.14,4,1,0.904
+2081,Bachelors,13,70.01,1,5.8,Female,23,Group_B,66.52,4,1,0.965
+2082,Bachelors,13,76.01,2,7.8,Male,32,Group_D,83.79,2,1,0.922
+2083,Masters,2,55.56,1,5.7,Male,57,Group_B,55.93,2,1,0.996
+2084,High School,0,47.04,2,3.4,Male,52,Group_C,53.2,1,0,0.938
+2085,Bachelors,19,64.49,2,7.6,Female,52,Group_A,59.2,2,1,0.947
+2086,High School,0,57.79,1,8.6,Female,45,Group_B,58.97,1,1,0.988
+2087,Masters,1,64.92,2,6.5,Male,42,Group_C,57.53,2,1,0.926
+2088,Masters,18,68.52,4,7.5,Female,53,Group_A,69.72,4,1,0.988
+2089,Masters,9,65.47,1,6.6,Female,51,Group_C,67.67,3,1,0.978
+2090,Bachelors,3,84.52,5,7.6,Female,29,Group_B,81.92,4,1,0.974
+2091,High School,3,73.27,1,5.1,Male,54,Group_B,70.53,3,1,0.973
+2092,PhD,12,73.0,2,6.5,Female,22,Group_C,77.24,3,1,0.958
+2093,Bachelors,8,76.22,3,6.0,Female,54,Group_A,77.83,3,1,0.984
+2094,Bachelors,6,58.61,0,7.9,Male,34,Group_C,59.57,3,1,0.99
+2095,Bachelors,15,80.39,3,7.9,Female,43,Group_B,80.6,4,1,0.998
+2096,High School,17,69.24,0,6.5,Male,26,Group_A,86.93,3,1,0.823
+2097,High School,2,76.7,4,8.7,Female,33,Group_C,82.47,2,1,0.942
+2098,Bachelors,19,59.28,2,4.6,Female,50,Group_D,65.09,4,1,0.942
+2099,Bachelors,19,54.46,1,4.5,Male,24,Group_A,61.59,5,1,0.929
+2100,Bachelors,9,78.18,2,7.9,Male,57,Group_C,81.63,4,1,0.966
+2101,Masters,15,73.76,2,8.6,Male,32,Group_A,66.75,4,1,0.93
+2102,Bachelors,2,60.98,0,6.7,Male,47,Group_C,60.23,3,1,0.992
+2103,Bachelors,10,61.3,4,6.4,Female,23,Group_A,60.42,3,1,0.991
+2104,Masters,9,81.25,0,8.2,Female,50,Group_A,72.94,3,1,0.917
+2105,PhD,15,58.11,2,6.3,Male,50,Group_A,57.93,4,1,0.998
+2106,High School,7,86.43,0,8.9,Female,57,Group_D,76.52,4,1,0.901
+2107,Masters,8,60.99,3,4.9,Male,40,Group_B,63.8,4,1,0.972
+2108,Bachelors,14,76.38,1,7.7,Female,31,Group_B,80.48,3,1,0.959
+2109,High School,20,66.71,3,5.4,Male,32,Group_C,75.39,3,1,0.913
+2110,Bachelors,2,76.03,0,7.7,Female,28,Group_A,81.11,2,1,0.949
+2111,Bachelors,3,64.56,2,5.9,Male,34,Group_B,62.2,2,1,0.976
+2112,Masters,12,68.37,3,9.9,Male,23,Group_B,61.57,5,1,0.932
+2113,Bachelors,11,70.41,2,7.0,Female,51,Group_B,61.62,2,1,0.912
+2114,Bachelors,20,59.98,3,4.3,Male,43,Group_A,58.99,5,1,0.99
+2115,Masters,8,77.41,2,7.6,Female,22,Group_C,72.96,2,1,0.956
+2116,Bachelors,13,64.87,0,7.1,Female,48,Group_B,64.07,5,1,0.992
+2117,Masters,18,67.71,3,8.8,Female,28,Group_A,64.47,3,1,0.968
+2118,Masters,6,60.06,0,5.3,Other,22,Group_A,63.46,3,1,0.966
+2119,Bachelors,15,44.38,1,2.5,Male,46,Group_A,48.08,4,1,0.963
+2120,PhD,19,68.09,3,7.8,Female,25,Group_B,68.14,4,1,1.0
+2121,High School,4,94.13,3,7.8,Female,51,Group_A,100.0,3,1,0.941
+2122,High School,9,77.85,1,7.3,Male,29,Group_B,75.08,2,1,0.972
+2123,Bachelors,17,69.81,4,6.7,Female,42,Group_C,71.9,5,1,0.979
+2124,Bachelors,10,67.37,3,6.7,Female,25,Group_C,67.3,4,1,0.999
+2125,Bachelors,6,70.22,1,7.8,Female,25,Group_C,68.56,4,1,0.983
+2126,Bachelors,13,75.47,1,6.7,Male,29,Group_C,81.78,4,1,0.937
+2127,High School,19,58.19,3,5.5,Female,47,Group_B,62.59,2,1,0.956
+2128,High School,17,81.14,1,8.1,Male,50,Group_B,78.24,3,1,0.971
+2129,Masters,10,77.15,2,7.9,Female,37,Group_D,76.24,3,1,0.991
+2130,Masters,11,77.18,1,7.8,Male,40,Group_D,81.56,3,1,0.956
+2131,Masters,17,74.38,1,8.0,Male,22,Group_B,75.79,3,1,0.986
+2132,Masters,1,70.2,2,8.0,Female,58,Group_B,73.12,2,1,0.971
+2133,Bachelors,0,76.73,5,8.1,Female,55,Group_C,78.13,3,1,0.986
+2134,Bachelors,9,75.92,1,8.1,Other,50,Group_A,87.96,3,1,0.88
+2135,Bachelors,20,66.46,2,4.7,Male,48,Group_D,60.95,3,1,0.945
+2136,Masters,0,64.26,0,6.5,Female,51,Group_B,63.65,3,1,0.994
+2137,Bachelors,5,71.02,2,7.7,Female,27,Group_B,66.48,2,1,0.955
+2138,High School,6,85.49,2,9.4,Female,57,Group_A,90.07,3,1,0.954
+2139,PhD,16,57.61,3,4.9,Male,23,Group_A,53.94,3,1,0.963
+2140,Masters,8,55.32,1,4.7,Male,35,Group_A,63.1,3,1,0.922
+2141,Bachelors,6,71.65,1,6.5,Female,29,Group_A,71.46,2,1,0.998
+2142,Bachelors,16,70.51,2,7.7,Male,24,Group_B,68.77,4,1,0.983
+2143,PhD,2,71.73,0,8.4,Female,56,Group_A,67.27,2,1,0.955
+2144,High School,15,72.44,1,6.8,Male,48,Group_D,72.77,3,1,0.997
+2145,Bachelors,4,67.77,5,7.9,Other,55,Group_B,73.19,3,1,0.946
+2146,Bachelors,19,84.9,2,8.6,Female,49,Group_A,86.58,4,1,0.983
+2147,Bachelors,17,53.99,3,5.2,Female,52,Group_B,57.13,3,1,0.969
+2148,Masters,0,61.72,3,5.9,Male,38,Group_A,75.86,1,1,0.859
+2149,Bachelors,3,68.97,3,7.8,Female,40,Group_D,70.29,1,1,0.987
+2150,High School,10,53.57,2,5.7,Female,32,Group_B,50.77,3,1,0.972
+2151,High School,19,68.24,3,9.6,Female,30,Group_A,72.15,5,1,0.961
+2152,High School,8,86.61,1,7.6,Male,51,Group_A,87.72,3,1,0.989
+2153,Bachelors,7,70.21,3,7.6,Female,27,Group_B,67.69,2,1,0.975
+2154,Masters,7,72.31,3,6.6,Female,35,Group_B,64.71,1,1,0.924
+2155,Bachelors,4,57.4,0,4.7,Male,52,Group_B,64.67,1,1,0.927
+2156,Bachelors,11,63.84,0,6.4,Female,32,Group_B,61.91,4,1,0.981
+2157,Masters,0,66.25,3,6.8,Male,26,Group_C,68.82,1,1,0.974
+2158,Bachelors,14,66.82,1,10.0,Female,52,Group_C,61.64,2,1,0.948
+2159,Bachelors,17,82.82,2,8.1,Other,23,Group_B,85.0,4,1,0.978
+2160,Masters,5,75.58,1,6.2,Male,38,Group_C,74.93,3,1,0.994
+2161,Bachelors,9,58.89,4,6.2,Male,59,Group_A,63.37,3,1,0.955
+2162,Bachelors,13,72.47,3,4.8,Female,57,Group_B,76.85,3,1,0.956
+2163,Bachelors,20,74.98,1,7.4,Male,24,Group_A,84.07,4,1,0.909
+2164,PhD,7,81.4,1,8.2,Male,50,Group_A,84.22,2,1,0.972
+2165,Bachelors,2,85.81,0,9.5,Male,54,Group_B,79.78,2,1,0.94
+2166,Bachelors,18,59.85,0,7.2,Male,35,Group_C,77.46,3,1,0.824
+2167,Bachelors,11,61.89,0,5.6,Male,59,Group_A,76.09,1,1,0.858
+2168,High School,11,57.42,1,5.6,Male,50,Group_A,65.32,2,1,0.921
+2169,Bachelors,14,67.66,0,5.8,Male,44,Group_D,65.45,3,1,0.978
+2170,Bachelors,6,74.66,1,6.1,Female,38,Group_A,76.26,2,1,0.984
+2171,High School,3,79.87,0,8.4,Female,32,Group_A,78.6,2,1,0.987
+2172,Bachelors,20,69.24,1,5.4,Male,49,Group_A,78.7,5,1,0.905
+2173,High School,8,66.8,1,6.2,Female,28,Group_C,68.11,3,1,0.987
+2174,Bachelors,15,71.52,4,6.0,Female,29,Group_B,67.6,5,1,0.961
+2175,High School,12,61.65,1,6.8,Male,50,Group_A,64.44,2,1,0.972
+2176,High School,3,90.9,0,10.0,Female,46,Group_B,96.5,3,1,0.944
+2177,Masters,8,53.92,2,3.8,Female,28,Group_B,61.92,3,1,0.92
+2178,PhD,20,71.85,2,5.0,Male,43,Group_B,81.3,3,1,0.906
+2179,Bachelors,17,90.24,2,8.9,Male,30,Group_D,97.48,3,1,0.928
+2180,Bachelors,14,70.07,4,7.0,Male,32,Group_A,72.89,3,1,0.972
+2181,Bachelors,14,68.1,3,7.1,Female,55,Group_D,51.89,5,1,0.838
+2182,Bachelors,5,66.43,3,6.1,Male,48,Group_C,70.77,2,1,0.957
+2183,Bachelors,10,68.2,2,6.6,Other,43,Group_B,68.19,4,1,1.0
+2184,Bachelors,7,83.73,3,8.8,Female,24,Group_D,84.43,3,1,0.993
+2185,Masters,20,47.88,2,6.0,Male,29,Group_B,50.56,3,1,0.973
+2186,High School,16,85.33,0,6.2,Male,27,Group_D,81.31,5,1,0.96
+2187,High School,16,55.76,2,5.1,Male,46,Group_B,61.92,3,1,0.938
+2188,Masters,17,67.33,1,7.0,Male,23,Group_A,75.59,4,1,0.917
+2189,Masters,3,65.71,3,5.5,Male,37,Group_B,71.23,3,1,0.945
+2190,Bachelors,14,75.89,2,9.7,Female,42,Group_A,82.35,4,1,0.935
+2191,Bachelors,1,54.02,3,4.6,Female,36,Group_A,58.13,3,1,0.959
+2192,Bachelors,1,74.62,1,7.4,Male,55,Group_C,74.51,4,1,0.999
+2193,Bachelors,9,90.24,2,9.7,Female,41,Group_D,89.89,3,1,0.996
+2194,Bachelors,2,56.37,3,4.9,Male,52,Group_B,60.1,4,1,0.963
+2195,Bachelors,7,71.9,3,5.0,Male,36,Group_C,75.91,2,1,0.96
+2196,Bachelors,19,63.38,2,5.8,Female,49,Group_A,69.89,4,1,0.935
+2197,Masters,6,74.26,1,8.7,Male,27,Group_C,79.48,2,1,0.948
+2198,Masters,11,70.19,1,6.6,Female,24,Group_C,80.58,4,1,0.896
+2199,Bachelors,18,63.59,2,5.3,Female,59,Group_A,75.77,3,1,0.878
+2200,Bachelors,14,74.88,2,8.6,Female,44,Group_A,76.44,3,1,0.984
+2201,Bachelors,13,88.04,0,8.4,Male,24,Group_C,71.8,5,1,0.838
+2202,Bachelors,15,68.09,1,6.2,Male,29,Group_B,76.79,5,1,0.913
+2203,Bachelors,13,77.2,1,7.9,Male,23,Group_B,77.4,5,1,0.998
+2204,Masters,2,57.07,0,6.6,Female,28,Group_D,53.06,1,1,0.96
+2205,Masters,17,60.44,1,8.9,Female,38,Group_D,58.44,5,1,0.98
+2206,Masters,5,74.72,6,8.5,Female,28,Group_C,72.49,3,1,0.978
+2207,Masters,16,84.84,1,9.9,Female,54,Group_C,87.9,5,1,0.969
+2208,PhD,13,73.56,2,6.7,Female,57,Group_A,67.19,4,1,0.936
+2209,Bachelors,13,66.87,1,5.5,Female,25,Group_A,63.75,4,1,0.969
+2210,PhD,19,69.99,1,7.1,Male,37,Group_D,75.14,4,1,0.948
+2211,High School,12,57.5,1,5.9,Female,42,Group_C,60.61,3,1,0.969
+2212,High School,2,76.05,2,6.3,Female,39,Group_C,79.25,2,1,0.968
+2213,Bachelors,12,78.82,2,7.7,Male,49,Group_A,79.58,3,1,0.992
+2214,PhD,1,65.48,1,7.0,Other,37,Group_D,60.59,2,1,0.951
+2215,Bachelors,8,65.3,0,7.0,Female,43,Group_A,65.41,4,1,0.999
+2216,Bachelors,12,72.66,0,7.9,Female,27,Group_A,76.74,2,1,0.959
+2217,Bachelors,7,65.63,2,6.9,Female,51,Group_A,75.37,4,1,0.903
+2218,Bachelors,15,69.34,4,6.3,Male,49,Group_C,62.08,4,1,0.927
+2219,Bachelors,2,91.0,0,8.5,Male,38,Group_C,92.27,4,1,0.987
+2220,Masters,12,67.53,3,5.3,Male,57,Group_B,63.68,4,1,0.962
+2221,PhD,3,66.42,1,8.8,Female,33,Group_A,59.2,3,1,0.928
+2222,Masters,17,63.52,0,6.4,Male,33,Group_D,70.67,4,1,0.928
+2223,Bachelors,1,77.44,1,7.5,Male,57,Group_D,83.09,2,1,0.943
+2224,Bachelors,19,68.19,3,5.7,Female,50,Group_A,72.18,5,1,0.96
+2225,Bachelors,20,63.51,1,9.9,Male,23,Group_C,70.29,3,1,0.932
+2226,Bachelors,14,83.21,2,7.0,Male,50,Group_D,83.29,3,1,0.999
+2227,High School,16,84.2,3,7.9,Male,51,Group_A,86.17,4,1,0.98
+2228,Masters,9,64.0,3,6.9,Male,57,Group_A,79.06,3,1,0.849
+2229,Bachelors,0,51.33,0,5.9,Male,46,Group_D,52.26,3,1,0.991
+2230,Masters,5,80.08,3,9.2,Male,42,Group_A,87.58,3,1,0.925
+2231,PhD,2,63.15,3,8.5,Male,43,Group_A,66.05,4,1,0.971
+2232,High School,18,77.91,2,8.4,Male,31,Group_C,71.57,5,1,0.937
+2233,PhD,6,50.3,3,3.8,Male,52,Group_B,43.21,2,1,0.929
+2234,Masters,12,78.93,1,7.6,Female,30,Group_C,76.03,4,1,0.971
+2235,Bachelors,12,57.89,1,6.2,Male,55,Group_C,65.0,3,1,0.929
+2236,Bachelors,16,77.31,0,10.0,Female,44,Group_C,81.25,4,1,0.961
+2237,Bachelors,0,70.14,2,5.3,Male,33,Group_A,78.73,1,1,0.914
+2238,Bachelors,13,60.46,2,7.5,Male,28,Group_A,61.23,2,1,0.992
+2239,Bachelors,2,65.93,3,6.8,Male,53,Group_B,76.33,3,1,0.896
+2240,High School,13,76.86,0,8.7,Female,40,Group_C,72.04,4,1,0.952
+2241,Bachelors,0,71.06,0,7.0,Male,43,Group_D,73.95,4,1,0.971
+2242,Bachelors,15,75.84,0,6.6,Female,37,Group_B,75.79,3,1,1.0
+2243,High School,9,89.76,2,9.9,Female,29,Group_A,91.47,5,1,0.983
+2244,Bachelors,12,54.36,1,6.2,Male,51,Group_D,64.46,4,1,0.899
+2245,Bachelors,3,86.17,1,9.8,Female,27,Group_A,84.32,2,1,0.981
+2246,Bachelors,8,71.04,2,7.1,Male,23,Group_A,68.48,4,1,0.974
+2247,High School,13,61.01,5,5.4,Male,55,Group_D,62.98,4,1,0.98
+2248,Masters,3,56.7,3,3.8,Male,50,Group_B,57.64,3,1,0.991
+2249,Bachelors,9,68.11,0,7.8,Male,41,Group_B,87.72,5,1,0.804
+2250,High School,7,79.22,3,8.4,Male,24,Group_D,85.73,4,1,0.935
+2251,Bachelors,2,68.72,1,5.7,Female,56,Group_D,66.68,1,1,0.98
+2252,Bachelors,6,85.11,1,7.9,Male,29,Group_A,84.44,3,1,0.993
+2253,High School,9,55.49,1,5.0,Female,33,Group_D,46.09,1,0,0.906
+2254,Bachelors,2,69.88,2,5.2,Male,53,Group_C,66.34,2,1,0.965
+2255,Masters,1,57.48,0,4.8,Other,50,Group_A,59.37,2,1,0.981
+2256,Masters,14,73.64,1,6.0,Male,42,Group_D,83.75,3,1,0.899
+2257,Bachelors,8,78.87,0,7.4,Female,24,Group_A,86.1,2,1,0.928
+2258,Masters,14,65.79,5,5.7,Female,59,Group_A,68.72,3,1,0.971
+2259,Bachelors,16,43.96,1,2.4,Male,48,Group_B,45.82,3,0,0.981
+2260,PhD,6,71.99,2,9.6,Male,24,Group_C,75.91,3,1,0.961
+2261,High School,19,74.37,1,8.9,Male,22,Group_A,76.94,4,1,0.974
+2262,Bachelors,17,74.04,0,6.5,Male,41,Group_D,85.01,4,1,0.89
+2263,Bachelors,14,82.36,0,8.6,Male,28,Group_C,83.62,4,1,0.987
+2264,Bachelors,17,59.29,0,6.4,Female,22,Group_A,60.56,5,1,0.987
+2265,Masters,11,76.8,2,9.1,Male,31,Group_C,68.61,3,1,0.918
+2266,Bachelors,20,81.93,2,7.2,Female,33,Group_B,80.95,5,1,0.99
+2267,High School,7,52.21,2,6.5,Male,25,Group_A,62.79,2,1,0.894
+2268,Bachelors,1,73.2,2,6.7,Female,28,Group_A,69.55,4,1,0.963
+2269,Bachelors,1,64.96,1,4.9,Male,31,Group_B,62.88,2,1,0.979
+2270,High School,4,69.18,3,7.8,Male,43,Group_A,78.38,4,1,0.908
+2271,PhD,0,73.48,2,8.9,Male,46,Group_C,69.47,2,1,0.96
+2272,Masters,3,65.13,4,9.6,Male,50,Group_A,74.61,2,1,0.905
+2273,Bachelors,5,63.24,3,4.9,Female,36,Group_B,60.58,2,1,0.973
+2274,Bachelors,12,70.34,1,7.9,Female,40,Group_B,68.4,5,1,0.981
+2275,Bachelors,18,59.13,1,5.4,Female,39,Group_B,53.51,3,1,0.944
+2276,Masters,10,59.14,2,6.9,Female,24,Group_A,63.83,2,1,0.953
+2277,PhD,12,76.79,3,5.9,Female,27,Group_A,91.5,5,1,0.853
+2278,Bachelors,7,58.51,3,4.3,Male,43,Group_A,67.36,3,1,0.912
+2279,Masters,6,76.66,2,6.7,Male,52,Group_B,74.7,3,1,0.98
+2280,Bachelors,12,74.63,0,7.6,Male,42,Group_A,84.57,3,1,0.901
+2281,Bachelors,0,52.74,1,4.5,Male,29,Group_A,54.66,2,1,0.981
+2282,PhD,5,63.22,2,7.1,Female,22,Group_A,71.7,3,1,0.915
+2283,Bachelors,6,81.94,0,9.4,Male,24,Group_C,87.82,4,1,0.941
+2284,Bachelors,15,60.19,4,6.7,Female,50,Group_D,45.47,3,1,0.853
+2285,Masters,14,65.36,1,8.5,Male,27,Group_C,62.87,3,1,0.975
+2286,Bachelors,19,74.62,3,8.0,Female,54,Group_B,79.34,1,1,0.953
+2287,Bachelors,1,77.83,1,6.3,Other,39,Group_A,80.04,2,1,0.978
+2288,PhD,15,67.48,3,8.4,Male,22,Group_B,64.62,3,1,0.971
+2289,Masters,16,64.02,1,5.7,Female,43,Group_B,60.86,3,1,0.968
+2290,Masters,14,84.22,2,9.5,Female,52,Group_B,74.69,4,1,0.905
+2291,Bachelors,2,87.39,3,10.0,Other,44,Group_B,86.95,5,1,0.996
+2292,Bachelors,3,79.79,2,8.5,Male,29,Group_B,93.32,3,1,0.865
+2293,PhD,11,70.85,2,5.3,Female,50,Group_A,76.65,2,1,0.942
+2294,Bachelors,4,61.92,2,5.1,Male,40,Group_A,76.02,3,1,0.859
+2295,High School,16,61.7,1,7.8,Female,37,Group_A,67.89,4,1,0.938
+2296,Bachelors,5,75.23,3,7.3,Female,40,Group_A,83.03,2,1,0.922
+2297,Bachelors,9,74.18,4,7.5,Female,58,Group_A,86.79,3,1,0.874
+2298,High School,17,84.02,1,9.3,Male,43,Group_A,90.39,5,1,0.936
+2299,Masters,9,76.5,1,8.5,Female,40,Group_A,77.08,4,1,0.994
+2300,PhD,5,54.97,1,5.8,Male,25,Group_A,65.1,1,1,0.899
+2301,Bachelors,5,80.52,2,7.8,Male,26,Group_A,91.58,3,1,0.889
+2302,Masters,19,60.02,2,5.6,Female,26,Group_A,59.62,5,1,0.996
+2303,Masters,14,66.16,1,7.6,Female,46,Group_B,62.55,5,1,0.964
+2304,Masters,3,72.5,3,7.9,Female,45,Group_C,73.2,1,1,0.993
+2305,High School,15,89.96,3,8.7,Female,22,Group_D,94.11,4,1,0.958
+2306,High School,7,100.0,1,10.0,Male,49,Group_D,100.0,4,1,1.0
+2307,High School,6,76.07,1,7.5,Male,42,Group_B,70.49,3,1,0.944
+2308,High School,18,68.17,4,5.8,Male,40,Group_B,79.99,4,1,0.882
+2309,Bachelors,16,75.35,1,6.6,Male,44,Group_A,78.12,3,1,0.972
+2310,Bachelors,20,78.88,2,6.7,Male,35,Group_D,80.08,5,1,0.988
+2311,Bachelors,12,66.79,3,6.4,Male,27,Group_C,65.09,3,1,0.983
+2312,High School,14,87.95,2,10.0,Male,53,Group_C,100.0,4,1,0.88
+2313,Bachelors,1,72.3,2,6.3,Female,53,Group_A,74.73,2,1,0.976
+2314,Bachelors,9,74.98,2,7.7,Female,29,Group_B,70.72,2,1,0.957
+2315,Masters,12,76.66,1,6.9,Female,58,Group_A,82.98,5,1,0.937
+2316,High School,17,74.22,3,7.1,Male,43,Group_D,79.77,5,1,0.944
+2317,Masters,10,78.39,7,6.0,Male,29,Group_A,81.98,5,1,0.964
+2318,PhD,12,63.83,5,6.1,Male,59,Group_B,70.92,3,1,0.929
+2319,Masters,18,64.42,0,6.2,Male,31,Group_A,64.38,5,1,1.0
+2320,Masters,4,59.0,2,6.5,Female,24,Group_C,56.53,2,1,0.975
+2321,PhD,2,74.4,2,7.7,Male,34,Group_A,70.13,3,1,0.957
+2322,Bachelors,18,77.79,5,6.3,Female,51,Group_C,71.17,4,1,0.934
+2323,PhD,12,74.58,2,8.8,Female,25,Group_B,83.62,4,1,0.91
+2324,Masters,4,86.74,2,8.9,Male,27,Group_B,97.17,4,1,0.896
+2325,Masters,11,69.94,1,7.2,Male,37,Group_A,73.86,5,1,0.961
+2326,Bachelors,13,76.69,2,7.7,Female,43,Group_D,85.0,3,1,0.917
+2327,Bachelors,5,59.08,5,5.3,Female,48,Group_C,58.28,4,1,0.992
+2328,Masters,8,66.13,0,6.9,Female,42,Group_B,64.91,3,1,0.988
+2329,Bachelors,16,76.96,0,8.3,Female,50,Group_B,77.24,4,1,0.997
+2330,Masters,7,78.49,3,5.8,Male,22,Group_A,83.89,3,1,0.946
+2331,High School,12,67.06,2,6.1,Male,51,Group_A,70.43,5,1,0.966
+2332,Bachelors,4,69.28,2,6.6,Male,45,Group_B,77.81,2,1,0.915
+2333,Bachelors,16,54.82,3,5.8,Male,34,Group_B,57.83,3,1,0.97
+2334,Bachelors,2,66.43,2,8.1,Male,51,Group_B,73.34,1,1,0.931
+2335,High School,5,78.9,2,7.0,Male,47,Group_B,87.54,3,1,0.914
+2336,High School,13,75.75,4,7.0,Female,55,Group_C,77.69,4,1,0.981
+2337,Bachelors,14,75.01,0,6.9,Female,41,Group_D,70.16,3,1,0.951
+2338,Bachelors,13,70.5,3,6.1,Male,27,Group_B,66.53,3,1,0.96
+2339,High School,10,70.07,1,6.6,Male,30,Group_B,73.51,2,1,0.966
+2340,PhD,10,63.4,1,7.3,Female,58,Group_D,62.54,2,1,0.991
+2341,Masters,8,76.99,3,6.4,Male,58,Group_B,80.61,4,1,0.964
+2342,Masters,5,74.21,2,7.9,Female,37,Group_B,74.13,2,1,0.999
+2343,High School,14,74.92,3,5.4,Female,25,Group_C,87.84,4,1,0.871
+2344,Bachelors,11,64.74,2,5.8,Female,53,Group_D,58.09,4,1,0.934
+2345,Bachelors,5,48.47,0,4.5,Male,41,Group_C,41.05,4,1,0.926
+2346,PhD,0,80.97,2,10.0,Female,50,Group_A,83.64,3,1,0.973
+2347,Masters,15,65.21,2,6.2,Male,52,Group_B,66.57,4,1,0.986
+2348,Bachelors,19,61.37,2,3.5,Male,38,Group_A,66.9,4,1,0.945
+2349,Masters,14,76.93,0,5.3,Male,46,Group_A,82.46,4,1,0.945
+2350,High School,1,66.08,2,6.6,Female,37,Group_B,72.5,3,1,0.936
+2351,High School,16,80.6,3,8.8,Male,41,Group_A,78.18,5,1,0.976
+2352,Masters,2,76.17,2,8.1,Female,31,Group_B,73.39,3,1,0.972
+2353,High School,2,76.84,1,7.9,Male,44,Group_B,81.92,4,1,0.949
+2354,High School,4,56.34,0,7.0,Male,54,Group_D,62.71,4,1,0.936
+2355,Masters,16,82.12,0,7.6,Female,34,Group_A,95.96,4,1,0.862
+2356,Bachelors,16,72.61,1,8.3,Male,46,Group_A,83.34,4,1,0.893
+2357,Bachelors,19,66.31,2,4.7,Male,58,Group_B,69.29,4,1,0.97
+2358,PhD,5,71.43,1,6.1,Male,57,Group_A,70.94,3,1,0.995
+2359,Bachelors,0,52.24,0,3.1,Male,45,Group_A,54.25,3,1,0.98
+2360,Bachelors,6,74.09,1,7.1,Male,27,Group_D,73.7,3,1,0.996
+2361,High School,14,59.71,3,5.9,Female,36,Group_A,64.73,3,1,0.95
+2362,High School,6,56.47,0,5.8,Female,55,Group_B,57.76,2,1,0.987
+2363,High School,18,54.78,1,5.6,Female,25,Group_A,49.58,4,1,0.948
+2364,High School,19,81.13,1,7.0,Female,35,Group_A,80.08,4,1,0.99
+2365,Bachelors,10,63.71,2,6.1,Female,25,Group_A,69.48,2,1,0.942
+2366,Bachelors,13,85.34,2,6.7,Female,49,Group_C,87.1,4,1,0.982
+2367,Masters,12,64.64,1,8.1,Female,50,Group_D,67.49,5,1,0.972
+2368,Masters,19,52.93,1,4.9,Male,39,Group_C,57.89,3,1,0.95
+2369,Masters,8,58.83,1,5.3,Male,41,Group_B,69.07,2,1,0.898
+2370,Bachelors,8,82.36,0,10.0,Female,53,Group_C,83.54,5,1,0.988
+2371,High School,15,68.44,2,5.4,Male,29,Group_A,69.73,4,1,0.987
+2372,Masters,11,64.52,0,5.1,Female,34,Group_C,59.94,4,1,0.954
+2373,Bachelors,9,71.6,2,5.8,Female,30,Group_B,72.85,2,1,0.988
+2374,High School,5,75.02,1,7.4,Male,54,Group_C,64.68,3,1,0.897
+2375,Masters,17,81.17,2,8.6,Female,33,Group_A,82.29,5,1,0.989
+2376,Bachelors,1,84.48,1,9.3,Male,58,Group_C,85.38,3,1,0.991
+2377,Bachelors,19,66.4,1,9.7,Female,46,Group_B,59.58,4,1,0.932
+2378,Masters,8,56.74,1,3.0,Other,46,Group_A,53.51,1,1,0.968
+2379,PhD,18,65.87,1,7.3,Female,37,Group_B,69.91,4,1,0.96
+2380,Bachelors,5,72.6,1,6.6,Male,37,Group_A,78.79,2,1,0.938
+2381,Bachelors,1,60.36,3,5.3,Male,56,Group_A,64.26,3,1,0.961
+2382,Bachelors,14,60.43,0,5.3,Male,44,Group_B,64.87,3,1,0.956
+2383,Masters,16,73.44,1,6.3,Female,29,Group_A,75.09,4,1,0.983
+2384,High School,15,69.51,2,9.0,Male,24,Group_A,79.74,4,1,0.898
+2385,Bachelors,20,70.33,4,8.0,Male,45,Group_A,75.93,4,1,0.944
+2386,PhD,7,62.42,4,6.3,Male,43,Group_A,60.56,4,1,0.981
+2387,Bachelors,9,67.7,0,8.4,Male,35,Group_A,80.64,4,1,0.871
+2388,PhD,9,60.76,8,4.3,Female,43,Group_A,63.94,2,1,0.968
+2389,PhD,17,78.9,1,6.3,Male,55,Group_A,80.96,4,1,0.979
+2390,Bachelors,9,80.35,0,5.4,Male,57,Group_D,76.11,4,1,0.958
+2391,Masters,8,51.54,0,4.3,Female,52,Group_D,53.52,2,1,0.98
+2392,Bachelors,18,60.7,0,6.3,Female,42,Group_C,60.12,2,1,0.994
+2393,Masters,0,55.03,0,5.6,Female,26,Group_A,65.87,1,1,0.892
+2394,Masters,3,63.5,3,6.5,Female,40,Group_C,61.77,2,1,0.983
+2395,Bachelors,2,69.17,1,5.2,Male,42,Group_B,67.45,1,1,0.983
+2396,Masters,9,55.5,3,6.5,Male,23,Group_A,65.65,2,1,0.898
+2397,Masters,11,60.78,2,6.4,Other,24,Group_D,65.41,2,1,0.954
+2398,Bachelors,17,59.96,1,6.9,Other,51,Group_D,60.8,4,1,0.992
+2399,High School,19,72.07,3,4.9,Female,55,Group_C,75.45,5,1,0.966
+2400,High School,5,70.69,0,7.4,Female,46,Group_A,73.25,3,1,0.974
+2401,Bachelors,20,62.78,1,4.9,Female,56,Group_B,63.95,4,1,0.988
+2402,PhD,1,71.77,3,6.7,Male,50,Group_A,80.33,3,1,0.914
+2403,Masters,9,64.53,4,7.1,Male,33,Group_A,72.46,2,1,0.921
+2404,Bachelors,1,67.28,1,6.8,Female,44,Group_C,66.44,3,1,0.992
+2405,Bachelors,8,86.73,1,7.7,Female,49,Group_A,96.41,3,1,0.903
+2406,Bachelors,9,83.4,3,8.3,Female,38,Group_A,73.68,4,1,0.903
+2407,High School,1,57.0,2,3.9,Female,37,Group_A,69.81,3,1,0.872
+2408,Bachelors,7,78.3,0,9.2,Male,30,Group_B,72.84,3,1,0.945
+2409,Bachelors,16,78.11,2,7.6,Male,24,Group_D,77.45,4,1,0.993
+2410,Bachelors,16,58.52,0,7.2,Male,43,Group_B,61.71,4,1,0.968
+2411,PhD,3,78.19,0,7.2,Other,52,Group_A,79.78,3,1,0.984
+2412,Bachelors,17,85.38,5,7.9,Male,35,Group_B,93.65,5,1,0.917
+2413,Bachelors,11,58.77,2,5.0,Male,24,Group_B,55.68,3,1,0.969
+2414,High School,16,60.82,1,7.1,Female,59,Group_C,62.13,3,1,0.987
+2415,PhD,8,80.18,1,7.2,Male,44,Group_B,80.24,4,1,0.999
+2416,Masters,18,72.71,2,8.0,Female,42,Group_A,75.77,4,1,0.969
+2417,Masters,13,75.51,3,7.1,Female,45,Group_A,77.37,5,1,0.981
+2418,Bachelors,13,73.41,1,5.0,Male,53,Group_D,75.92,2,1,0.975
+2419,Bachelors,16,73.91,3,6.7,Female,26,Group_A,73.94,4,1,1.0
+2420,Bachelors,1,56.74,4,4.3,Other,54,Group_C,54.18,1,1,0.974
+2421,High School,7,80.47,1,8.1,Male,40,Group_A,85.75,3,1,0.947
+2422,Masters,4,81.7,2,6.7,Female,55,Group_C,86.41,3,1,0.953
+2423,PhD,6,67.71,3,7.9,Male,24,Group_A,70.15,1,1,0.976
+2424,High School,15,69.57,3,6.8,Male,49,Group_A,69.48,4,1,0.999
+2425,High School,15,54.69,0,5.3,Male,32,Group_B,59.67,3,1,0.95
+2426,Masters,16,75.14,2,8.3,Female,31,Group_B,74.98,3,1,0.998
+2427,Bachelors,6,75.72,3,8.7,Male,23,Group_B,83.3,3,1,0.924
+2428,Bachelors,19,69.38,2,6.9,Male,48,Group_B,66.41,3,1,0.97
+2429,Masters,7,81.24,1,7.2,Female,30,Group_A,73.91,5,1,0.927
+2430,Bachelors,7,66.66,2,4.5,Male,22,Group_C,66.22,4,1,0.996
+2431,Masters,10,75.65,1,6.7,Male,54,Group_B,73.39,3,1,0.977
+2432,Bachelors,14,59.8,3,5.2,Male,59,Group_C,61.92,3,1,0.979
+2433,Masters,17,69.76,2,7.1,Female,54,Group_B,66.58,4,1,0.968
+2434,Masters,5,68.26,1,6.4,Female,24,Group_D,71.96,3,1,0.963
+2435,Masters,11,72.25,3,8.1,Female,53,Group_B,70.81,3,1,0.986
+2436,High School,14,66.3,5,5.9,Male,34,Group_A,71.65,3,1,0.946
+2437,Bachelors,5,68.69,2,6.8,Male,42,Group_B,72.41,2,1,0.963
+2438,High School,17,78.26,0,9.2,Female,25,Group_B,79.24,4,1,0.99
+2439,Bachelors,19,65.63,1,7.0,Male,38,Group_B,68.92,4,1,0.967
+2440,Masters,8,53.93,3,5.3,Female,25,Group_C,56.49,3,1,0.974
+2441,Bachelors,7,87.5,3,8.0,Male,41,Group_B,86.06,4,1,0.986
+2442,Masters,13,83.81,2,7.6,Male,33,Group_D,92.88,5,1,0.909
+2443,Bachelors,18,57.08,2,4.7,Male,47,Group_B,59.13,4,1,0.979
+2444,Bachelors,18,76.9,1,7.0,Male,57,Group_A,75.07,5,1,0.982
+2445,Masters,7,64.97,2,7.4,Male,37,Group_D,68.52,2,1,0.964
+2446,Bachelors,1,72.63,3,7.0,Male,28,Group_C,70.26,3,1,0.976
+2447,Masters,3,72.94,0,5.7,Male,54,Group_A,79.32,3,1,0.936
+2448,Bachelors,5,67.66,2,8.9,Male,23,Group_A,83.91,2,1,0.838
+2449,PhD,2,62.16,2,6.6,Male,54,Group_B,60.79,2,1,0.986
+2450,Bachelors,2,63.09,0,4.6,Male,35,Group_A,69.41,2,1,0.937
+2451,Masters,18,60.84,3,5.6,Male,41,Group_B,53.68,3,1,0.928
+2452,High School,10,61.68,3,6.3,Male,58,Group_D,65.88,1,1,0.958
+2453,Bachelors,9,69.33,2,9.0,Female,48,Group_A,66.01,2,1,0.967
+2454,PhD,11,62.84,1,5.0,Female,42,Group_A,61.96,2,1,0.991
+2455,Masters,13,76.82,2,8.9,Female,23,Group_C,71.31,2,1,0.945
+2456,High School,17,84.87,3,10.0,Male,37,Group_A,91.99,3,1,0.929
+2457,Bachelors,8,64.2,2,5.7,Male,40,Group_C,70.85,4,1,0.934
+2458,Bachelors,14,72.39,2,6.9,Male,25,Group_A,76.95,4,1,0.954
+2459,High School,2,75.0,3,6.3,Female,31,Group_B,70.67,2,1,0.957
+2460,Masters,10,74.72,2,7.2,Male,43,Group_A,87.54,3,1,0.872
+2461,High School,9,70.76,1,7.0,Male,33,Group_C,69.84,4,1,0.991
+2462,Bachelors,17,77.43,1,8.5,Male,23,Group_B,69.48,5,1,0.92
+2463,Masters,3,74.82,2,8.8,Female,23,Group_D,77.11,3,1,0.977
+2464,Bachelors,12,57.62,1,4.9,Female,55,Group_B,52.1,4,1,0.945
+2465,Masters,5,78.69,0,5.5,Male,39,Group_D,85.65,2,1,0.93
+2466,PhD,20,78.87,3,7.9,Male,37,Group_B,78.49,5,1,0.996
+2467,High School,12,62.37,1,6.6,Female,40,Group_D,65.39,2,1,0.97
+2468,Masters,19,70.38,4,7.3,Male,46,Group_A,81.74,4,1,0.886
+2469,Bachelors,4,76.83,2,7.3,Female,51,Group_B,70.79,3,1,0.94
+2470,Bachelors,19,67.91,3,6.9,Female,27,Group_B,65.08,3,1,0.972
+2471,High School,13,80.73,1,9.9,Male,48,Group_A,84.25,4,1,0.965
+2472,High School,12,93.64,1,9.8,Male,36,Group_B,100.0,5,1,0.936
+2473,Bachelors,13,62.14,3,5.8,Male,52,Group_C,60.49,4,1,0.984
+2474,Bachelors,7,56.19,2,5.0,Female,43,Group_B,53.22,4,1,0.97
+2475,Masters,15,73.04,1,7.1,Female,33,Group_A,76.67,4,1,0.964
+2476,Masters,12,77.22,3,9.7,Female,31,Group_A,75.93,3,1,0.987
+2477,PhD,14,67.69,0,6.5,Female,42,Group_A,70.79,2,1,0.969
+2478,Bachelors,18,84.53,1,8.4,Female,52,Group_D,76.77,5,1,0.922
+2479,Bachelors,0,56.61,2,5.1,Female,57,Group_B,67.69,2,1,0.889
+2480,Bachelors,1,76.93,2,9.0,Male,31,Group_A,74.34,1,1,0.974
+2481,Bachelors,17,63.94,2,8.7,Male,40,Group_B,64.6,3,1,0.993
+2482,Bachelors,18,87.19,1,9.3,Female,44,Group_A,88.8,4,1,0.984
+2483,Masters,7,89.93,1,9.1,Female,31,Group_A,100.0,4,1,0.899
+2484,Bachelors,2,62.33,3,6.3,Male,48,Group_B,58.87,3,1,0.965
+2485,Bachelors,13,64.5,2,3.6,Female,23,Group_C,74.42,3,1,0.901
+2486,High School,8,78.6,4,8.8,Male,32,Group_D,84.87,3,1,0.937
+2487,High School,7,66.13,3,6.8,Male,29,Group_D,71.35,3,1,0.948
+2488,Bachelors,16,69.55,2,7.5,Female,40,Group_D,64.62,4,1,0.951
+2489,High School,15,70.25,1,6.2,Male,37,Group_A,77.26,3,1,0.93
+2490,Masters,9,50.8,3,4.6,Male,25,Group_A,50.67,3,1,0.999
+2491,High School,20,69.86,0,6.5,Female,35,Group_A,77.87,4,1,0.92
+2492,Masters,9,63.1,2,7.5,Female,43,Group_B,58.25,2,1,0.952
+2493,Bachelors,5,65.07,0,6.1,Female,38,Group_B,64.5,4,1,0.994
+2494,High School,16,84.44,2,10.0,Female,47,Group_C,81.66,3,1,0.972
+2495,Masters,15,57.43,3,6.3,Female,56,Group_B,52.5,3,1,0.951
+2496,Bachelors,14,78.13,2,6.3,Female,57,Group_B,81.84,4,1,0.963
+2497,Bachelors,13,67.21,1,6.6,Male,51,Group_B,73.32,4,1,0.939
+2498,Masters,3,67.2,0,5.9,Male,42,Group_A,78.16,2,1,0.89
+2499,High School,3,77.9,2,5.2,Male,41,Group_C,72.11,1,1,0.942
+2500,Bachelors,1,73.4,0,9.3,Other,47,Group_D,78.72,2,1,0.947
+2501,Masters,10,75.71,1,8.4,Male,33,Group_B,89.86,4,1,0.858
+2502,Masters,3,79.68,1,8.6,Male,29,Group_C,79.05,3,1,0.994
+2503,Bachelors,20,66.69,1,6.9,Female,56,Group_B,76.16,4,1,0.905
+2504,High School,20,63.88,1,4.7,Male,50,Group_A,67.16,5,1,0.967
+2505,Masters,15,59.15,0,5.3,Male,28,Group_A,57.33,4,1,0.982
+2506,Bachelors,20,61.75,3,7.2,Male,31,Group_A,64.94,3,1,0.968
+2507,High School,3,99.49,0,8.7,Female,41,Group_B,100.0,3,1,0.995
+2508,Bachelors,0,82.45,3,5.2,Male,49,Group_A,82.68,4,1,0.998
+2509,PhD,18,56.49,2,5.4,Male,35,Group_C,56.38,3,1,0.999
+2510,High School,1,56.78,0,5.5,Male,33,Group_D,61.5,2,1,0.953
+2511,Masters,8,74.82,1,7.6,Male,29,Group_A,80.32,3,1,0.945
+2512,Bachelors,12,75.47,0,8.4,Male,28,Group_A,81.78,4,1,0.937
+2513,Bachelors,17,75.49,3,8.3,Female,26,Group_C,76.68,3,1,0.988
+2514,Masters,15,67.45,2,7.1,Male,22,Group_C,71.87,3,1,0.956
+2515,PhD,15,68.75,0,8.3,Male,30,Group_A,71.53,2,1,0.972
+2516,Bachelors,9,73.28,1,5.5,Female,39,Group_B,74.44,3,1,0.988
+2517,High School,8,70.86,2,7.7,Female,31,Group_D,66.22,3,1,0.954
+2518,PhD,10,47.81,2,5.5,Male,22,Group_B,57.62,2,1,0.902
+2519,Masters,3,67.7,1,5.3,Male,41,Group_A,68.26,4,1,0.994
+2520,Bachelors,9,61.49,0,4.3,Female,50,Group_D,67.13,3,1,0.944
+2521,Bachelors,2,71.75,1,6.3,Male,23,Group_A,75.95,2,1,0.958
+2522,Masters,5,99.85,1,9.2,Female,47,Group_A,100.0,3,1,0.998
+2523,Masters,2,73.67,4,8.3,Female,32,Group_B,71.2,1,1,0.975
+2524,PhD,8,66.86,1,5.9,Male,46,Group_A,65.56,3,1,0.987
+2525,Bachelors,2,79.22,1,6.9,Female,55,Group_D,70.49,3,1,0.913
+2526,Bachelors,17,74.83,1,6.7,Male,22,Group_B,72.91,4,1,0.981
+2527,Bachelors,7,74.2,3,8.8,Male,52,Group_C,74.7,3,1,0.995
+2528,Bachelors,7,76.07,2,7.6,Female,59,Group_A,79.86,2,1,0.962
+2529,Bachelors,14,90.57,3,8.8,Male,43,Group_A,98.67,3,1,0.919
+2530,Bachelors,12,58.69,1,5.7,Male,23,Group_B,59.15,3,1,0.995
+2531,High School,6,74.74,0,9.0,Female,22,Group_D,70.33,3,1,0.956
+2532,Bachelors,18,60.74,2,5.2,Female,45,Group_A,54.87,3,1,0.941
+2533,Masters,7,75.56,4,9.1,Male,57,Group_B,80.44,3,1,0.951
+2534,Masters,9,60.81,2,6.3,Female,57,Group_A,69.56,3,1,0.912
+2535,Bachelors,16,65.83,2,6.4,Male,55,Group_C,73.78,4,1,0.92
+2536,High School,0,67.05,2,9.7,Female,30,Group_D,70.6,3,1,0.964
+2537,Bachelors,12,79.76,2,6.7,Female,33,Group_B,82.95,4,1,0.968
+2538,Masters,12,79.18,1,7.5,Female,41,Group_C,87.67,4,1,0.915
+2539,Bachelors,15,57.54,0,4.3,Female,25,Group_A,61.55,4,1,0.96
+2540,Masters,8,70.55,0,8.2,Male,36,Group_A,77.57,4,1,0.93
+2541,Bachelors,9,62.9,2,8.3,Male,25,Group_A,66.17,3,1,0.967
+2542,Bachelors,5,57.41,2,7.7,Male,26,Group_A,56.05,2,1,0.986
+2543,Masters,4,67.83,1,8.3,Female,31,Group_C,64.41,1,1,0.966
+2544,High School,1,66.92,0,6.5,Male,57,Group_B,70.36,2,1,0.966
+2545,Bachelors,10,94.27,1,9.0,Female,56,Group_A,95.82,4,1,0.984
+2546,Bachelors,8,74.33,2,5.4,Female,22,Group_D,83.96,4,1,0.904
+2547,High School,5,56.22,3,8.1,Male,39,Group_D,58.97,1,1,0.972
+2548,Bachelors,7,64.35,1,7.0,Female,52,Group_B,70.25,3,1,0.941
+2549,Bachelors,8,80.21,4,7.4,Female,27,Group_B,78.04,4,1,0.978
+2550,Masters,8,90.88,1,10.0,Male,27,Group_A,94.15,4,1,0.967
+2551,Masters,7,54.14,3,4.2,Female,40,Group_B,47.5,3,1,0.934
+2552,Masters,11,51.2,0,5.6,Male,53,Group_B,49.14,3,1,0.979
+2553,Bachelors,7,88.71,2,8.7,Male,51,Group_D,94.5,3,1,0.942
+2554,Bachelors,2,73.9,0,8.2,Female,47,Group_C,73.93,3,1,1.0
+2555,Bachelors,12,61.32,1,6.1,Other,24,Group_C,66.03,4,1,0.953
+2556,Bachelors,18,75.35,3,5.8,Male,54,Group_A,80.86,4,1,0.945
+2557,Bachelors,1,43.64,1,4.5,Female,52,Group_B,41.88,3,0,0.982
+2558,PhD,16,70.03,3,8.3,Male,41,Group_A,87.08,2,1,0.83
+2559,High School,15,73.28,0,7.3,Female,25,Group_D,72.81,4,1,0.995
+2560,PhD,3,79.24,0,8.9,Female,53,Group_A,86.38,2,1,0.929
+2561,High School,17,59.86,2,4.7,Male,39,Group_B,60.05,4,1,0.998
+2562,Bachelors,13,70.86,2,7.1,Female,31,Group_A,76.92,2,1,0.939
+2563,Bachelors,1,60.75,0,5.3,Male,43,Group_B,67.57,3,1,0.932
+2564,Bachelors,12,72.55,2,8.2,Male,38,Group_B,75.76,4,1,0.968
+2565,High School,20,61.05,4,6.1,Female,25,Group_B,49.27,4,1,0.882
+2566,Masters,19,65.92,1,7.4,Male,58,Group_A,72.1,4,1,0.938
+2567,Masters,16,60.04,3,7.3,Female,28,Group_B,66.19,4,1,0.938
+2568,Masters,14,76.51,2,8.5,Female,29,Group_B,79.15,4,1,0.974
+2569,Bachelors,19,78.58,6,8.2,Male,22,Group_D,84.27,5,1,0.943
+2570,PhD,4,67.65,1,5.6,Male,29,Group_A,65.26,2,1,0.976
+2571,Masters,6,70.38,1,7.0,Male,40,Group_D,69.69,3,1,0.993
+2572,Bachelors,17,55.51,1,4.9,Male,38,Group_B,59.29,4,1,0.962
+2573,Masters,10,67.0,1,6.3,Male,30,Group_A,72.98,4,1,0.94
+2574,Bachelors,17,69.5,0,6.5,Male,37,Group_C,77.65,4,1,0.918
+2575,Bachelors,4,96.21,4,8.4,Female,58,Group_B,95.48,4,1,0.993
+2576,Bachelors,12,58.88,2,3.5,Female,48,Group_A,62.45,3,1,0.964
+2577,Bachelors,17,84.64,4,7.7,Male,23,Group_B,87.64,5,1,0.97
+2578,High School,1,79.97,4,8.2,Male,57,Group_B,77.52,4,1,0.975
+2579,Bachelors,19,72.81,0,5.7,Female,33,Group_C,61.53,4,1,0.887
+2580,Masters,3,87.59,1,8.8,Female,56,Group_C,89.74,2,1,0.978
+2581,PhD,12,73.72,1,9.7,Male,52,Group_B,77.32,4,1,0.964
+2582,PhD,15,73.89,3,8.6,Female,40,Group_B,70.8,3,1,0.969
+2583,Bachelors,5,69.47,2,8.9,Male,47,Group_A,63.98,2,1,0.945
+2584,Bachelors,7,82.24,4,8.7,Female,57,Group_B,85.38,4,1,0.969
+2585,High School,15,80.96,1,9.5,Male,25,Group_A,84.5,4,1,0.965
+2586,Masters,12,63.74,0,5.5,Female,52,Group_A,67.78,2,1,0.96
+2587,High School,3,56.81,3,4.9,Male,34,Group_A,72.11,3,1,0.847
+2588,Bachelors,1,67.97,6,3.5,Female,25,Group_A,58.55,2,1,0.906
+2589,Masters,8,62.0,0,7.6,Male,34,Group_B,61.34,3,1,0.993
+2590,Bachelors,17,69.36,1,8.8,Female,30,Group_B,68.32,5,1,0.99
+2591,High School,16,82.37,3,7.6,Female,23,Group_C,89.65,4,1,0.927
+2592,Masters,7,65.43,1,6.2,Female,56,Group_A,59.88,1,1,0.944
+2593,Bachelors,14,69.57,2,6.1,Female,33,Group_B,79.25,2,1,0.903
+2594,High School,8,70.58,3,7.5,Male,38,Group_C,74.46,2,1,0.961
+2595,High School,16,78.48,3,9.2,Female,25,Group_D,78.0,4,1,0.995
+2596,Bachelors,1,47.53,1,2.7,Female,35,Group_D,46.54,2,0,0.99
+2597,High School,5,63.93,3,6.9,Male,42,Group_B,64.21,3,1,0.997
+2598,Masters,4,72.11,1,6.9,Female,29,Group_C,77.35,5,1,0.948
+2599,Bachelors,16,82.0,1,8.3,Female,54,Group_B,76.66,3,1,0.947
+2600,Masters,1,65.08,3,7.1,Female,49,Group_B,66.81,2,1,0.983
+2601,High School,17,51.23,1,4.9,Female,24,Group_B,49.31,3,1,0.981
+2602,Bachelors,9,76.2,0,7.5,Female,35,Group_B,72.39,3,1,0.962
+2603,Masters,9,63.65,1,6.1,Female,40,Group_A,77.8,4,1,0.858
+2604,Masters,5,58.1,4,7.0,Female,27,Group_C,60.2,4,1,0.979
+2605,Bachelors,11,63.76,1,6.9,Female,57,Group_D,66.82,3,1,0.969
+2606,PhD,16,68.15,1,7.1,Female,41,Group_A,75.8,4,1,0.924
+2607,Bachelors,12,63.95,3,4.9,Female,22,Group_C,56.85,3,1,0.929
+2608,Bachelors,19,47.94,2,4.3,Male,31,Group_B,58.25,2,1,0.897
+2609,Masters,15,78.97,5,9.0,Male,34,Group_A,71.68,4,1,0.927
+2610,High School,9,82.75,1,8.3,Female,33,Group_B,78.9,3,1,0.962
+2611,High School,20,76.52,3,8.4,Female,32,Group_D,74.22,4,1,0.977
+2612,Bachelors,1,58.62,1,8.0,Male,57,Group_B,63.15,1,1,0.955
+2613,Bachelors,1,67.99,2,8.0,Male,38,Group_C,70.97,2,1,0.97
+2614,Bachelors,6,69.93,1,7.1,Male,50,Group_A,72.91,3,1,0.97
+2615,High School,5,75.99,4,7.0,Female,24,Group_C,75.93,3,1,0.999
+2616,Bachelors,0,76.68,2,4.6,Female,50,Group_C,71.79,3,1,0.951
+2617,Bachelors,11,62.66,3,6.1,Female,31,Group_C,55.17,4,1,0.925
+2618,Bachelors,12,70.82,3,6.7,Male,40,Group_D,77.2,5,1,0.936
+2619,Bachelors,11,74.57,0,7.9,Male,25,Group_A,82.74,3,1,0.918
+2620,Bachelors,18,84.56,2,8.3,Male,59,Group_B,94.4,5,1,0.902
+2621,PhD,8,77.05,1,7.3,Male,33,Group_B,76.5,5,1,0.994
+2622,Masters,9,77.89,2,5.7,Female,52,Group_B,81.35,4,1,0.965
+2623,Masters,16,70.84,1,6.0,Male,23,Group_C,72.75,4,1,0.981
+2624,Bachelors,17,84.1,2,9.0,Male,22,Group_A,94.32,3,1,0.898
+2625,Bachelors,7,74.1,0,9.5,Male,38,Group_C,82.03,2,1,0.921
+2626,Bachelors,6,61.39,1,6.0,Male,46,Group_C,65.66,2,1,0.957
+2627,Masters,8,84.03,2,8.8,Male,26,Group_A,85.56,4,1,0.985
+2628,Bachelors,9,76.98,5,8.8,Male,35,Group_B,83.79,3,1,0.932
+2629,Masters,11,65.57,3,5.6,Male,31,Group_A,72.07,3,1,0.935
+2630,PhD,14,65.21,4,7.0,Male,42,Group_C,64.92,4,1,0.997
+2631,High School,14,72.97,1,6.4,Male,46,Group_A,70.79,3,1,0.978
+2632,High School,3,74.63,4,8.5,Female,56,Group_A,74.65,3,1,1.0
+2633,High School,3,71.97,1,7.4,Other,24,Group_A,80.7,3,1,0.913
+2634,Bachelors,0,73.11,2,7.7,Female,39,Group_A,80.29,3,1,0.928
+2635,High School,11,87.0,2,7.8,Female,57,Group_B,81.44,4,1,0.944
+2636,Masters,1,80.72,0,8.9,Female,54,Group_D,74.88,3,1,0.942
+2637,High School,14,71.91,2,9.7,Male,38,Group_B,81.21,4,1,0.907
+2638,Bachelors,16,79.41,2,6.7,Male,27,Group_A,79.09,3,1,0.997
+2639,High School,6,59.67,2,5.6,Male,55,Group_A,66.42,3,1,0.932
+2640,PhD,5,73.98,1,7.7,Male,47,Group_B,72.82,3,1,0.988
+2641,Masters,11,88.09,4,9.8,Female,52,Group_B,96.18,4,1,0.919
+2642,PhD,18,67.82,3,6.1,Male,49,Group_B,65.72,3,1,0.979
+2643,PhD,0,61.52,2,2.8,Female,57,Group_C,67.24,2,1,0.943
+2644,Bachelors,20,63.48,3,8.0,Male,34,Group_A,67.33,4,1,0.962
+2645,Bachelors,13,59.1,1,6.8,Female,42,Group_C,60.36,3,1,0.987
+2646,High School,3,62.15,4,4.1,Female,47,Group_B,52.3,1,0,0.902
+2647,Bachelors,4,66.29,3,5.9,Other,52,Group_A,56.31,3,1,0.9
+2648,Masters,0,55.94,2,7.5,Female,37,Group_D,54.84,2,1,0.989
+2649,High School,0,70.16,3,8.8,Male,52,Group_A,74.77,2,1,0.954
+2650,High School,20,79.02,0,9.0,Female,34,Group_B,73.4,4,1,0.944
+2651,Bachelors,5,60.92,1,5.9,Male,51,Group_D,57.49,3,1,0.966
+2652,Bachelors,4,85.19,1,8.6,Female,53,Group_A,89.71,4,1,0.955
+2653,Masters,1,75.11,1,7.4,Male,26,Group_A,83.32,3,1,0.918
+2654,Bachelors,20,80.31,1,9.4,Male,33,Group_B,81.43,5,1,0.989
+2655,Masters,4,63.42,2,5.3,Female,58,Group_A,70.16,3,1,0.933
+2656,Bachelors,8,78.55,1,6.9,Male,25,Group_B,75.22,4,1,0.967
+2657,High School,18,59.08,2,7.1,Male,50,Group_C,59.29,3,1,0.998
+2658,Masters,20,78.9,1,7.8,Male,26,Group_B,89.66,5,1,0.892
+2659,PhD,14,71.72,1,8.8,Female,32,Group_B,72.06,4,1,0.997
+2660,High School,12,75.53,0,6.7,Female,51,Group_C,76.16,4,1,0.994
+2661,Bachelors,11,58.24,3,5.8,Female,30,Group_C,69.77,2,1,0.885
+2662,Bachelors,4,61.05,4,5.0,Female,49,Group_C,54.05,2,1,0.93
+2663,High School,1,75.97,0,7.6,Male,43,Group_D,82.95,3,1,0.93
+2664,Masters,3,60.52,1,4.3,Female,32,Group_B,68.84,1,1,0.917
+2665,Bachelors,17,74.63,2,6.9,Female,42,Group_A,74.75,3,1,0.999
+2666,Masters,20,56.33,2,3.9,Female,27,Group_B,60.63,3,1,0.957
+2667,Masters,9,78.48,1,8.7,Male,47,Group_C,75.6,2,1,0.971
+2668,Bachelors,12,57.67,3,6.6,Male,37,Group_A,58.81,3,1,0.989
+2669,High School,11,75.52,2,5.5,Male,35,Group_C,80.4,3,1,0.951
+2670,Bachelors,1,76.26,0,9.2,Male,56,Group_B,82.84,4,1,0.934
+2671,High School,14,63.03,1,9.3,Male,57,Group_D,70.33,2,1,0.927
+2672,Bachelors,13,75.82,1,7.6,Male,43,Group_C,86.69,4,1,0.891
+2673,Bachelors,9,72.6,1,6.5,Male,23,Group_C,74.32,2,1,0.983
+2674,Masters,7,64.61,2,9.9,Male,34,Group_D,72.85,1,1,0.918
+2675,Bachelors,14,59.91,0,4.4,Female,32,Group_D,58.2,4,1,0.983
+2676,Masters,12,50.37,2,5.1,Female,33,Group_B,54.88,3,1,0.955
+2677,Bachelors,7,73.5,1,7.6,Male,54,Group_D,76.52,3,1,0.97
+2678,Masters,20,54.35,4,7.0,Male,43,Group_A,61.44,3,1,0.929
+2679,PhD,20,70.95,1,7.5,Female,30,Group_C,73.07,4,1,0.979
+2680,Bachelors,13,67.37,4,6.1,Female,28,Group_A,61.18,4,1,0.938
+2681,Masters,0,76.79,2,6.5,Other,38,Group_B,71.17,3,1,0.944
+2682,Bachelors,12,66.98,1,6.3,Male,31,Group_C,70.41,4,1,0.966
+2683,Masters,7,66.71,1,5.5,Female,59,Group_B,58.27,3,1,0.916
+2684,Masters,17,77.32,2,7.8,Male,46,Group_B,84.58,5,1,0.927
+2685,Bachelors,8,73.35,3,6.7,Male,48,Group_A,82.19,3,1,0.912
+2686,Bachelors,12,73.16,1,5.5,Female,51,Group_D,74.8,4,1,0.984
+2687,High School,2,74.69,0,9.0,Female,51,Group_A,71.04,3,1,0.964
+2688,Bachelors,17,54.64,0,4.9,Male,55,Group_A,65.47,4,1,0.892
+2689,PhD,9,77.57,0,6.2,Female,54,Group_B,87.75,4,1,0.898
+2690,Masters,4,76.12,2,7.4,Male,53,Group_B,80.23,3,1,0.959
+2691,Bachelors,5,59.83,1,6.1,Female,33,Group_B,62.39,2,1,0.974
+2692,Masters,7,67.56,2,4.7,Male,44,Group_A,73.4,2,1,0.942
+2693,Masters,6,69.61,2,7.4,Male,50,Group_B,74.54,3,1,0.951
+2694,Bachelors,20,68.66,2,5.6,Female,22,Group_D,68.06,3,1,0.994
+2695,High School,17,73.34,0,9.4,Male,41,Group_D,76.44,4,1,0.969
+2696,High School,13,84.31,0,9.1,Male,31,Group_D,91.5,4,1,0.928
+2697,Masters,14,80.82,2,7.6,Male,40,Group_C,94.96,5,1,0.859
+2698,Masters,9,56.88,2,4.8,Male,44,Group_A,52.65,3,1,0.958
+2699,Bachelors,20,76.22,2,7.5,Female,42,Group_B,75.7,5,1,0.995
+2700,Bachelors,11,83.29,3,9.1,Male,56,Group_C,80.33,3,1,0.97
+2701,Masters,6,73.87,1,7.4,Female,53,Group_A,84.28,4,1,0.896
+2702,PhD,6,80.91,3,7.8,Male,31,Group_A,82.2,4,1,0.987
+2703,Masters,10,90.12,2,9.1,Male,23,Group_B,84.99,4,1,0.949
+2704,Bachelors,12,80.24,0,7.3,Male,57,Group_B,86.85,2,1,0.934
+2705,Bachelors,14,72.49,3,6.8,Female,27,Group_A,82.99,5,1,0.895
+2706,Bachelors,17,80.45,1,5.5,Male,38,Group_A,86.93,5,1,0.935
+2707,Bachelors,6,71.45,3,8.3,Male,36,Group_D,74.59,3,1,0.969
+2708,Masters,5,70.24,0,7.4,Male,57,Group_A,77.89,3,1,0.924
+2709,Bachelors,10,66.49,2,5.7,Female,45,Group_B,73.56,3,1,0.929
+2710,Masters,7,85.63,1,10.0,Male,50,Group_B,83.44,2,1,0.978
+2711,Bachelors,19,61.82,3,6.3,Female,35,Group_D,61.26,3,1,0.994
+2712,Masters,0,85.32,2,7.3,Male,23,Group_C,85.22,4,1,0.999
+2713,Bachelors,7,75.0,3,8.5,Male,43,Group_A,74.87,4,1,0.999
+2714,Bachelors,7,56.01,0,6.1,Male,27,Group_A,58.53,2,1,0.975
+2715,Bachelors,18,73.68,0,7.8,Male,30,Group_B,82.67,4,1,0.91
+2716,High School,2,49.0,2,4.4,Female,33,Group_A,53.08,3,0,0.959
+2717,PhD,4,76.26,0,8.2,Other,26,Group_B,79.48,2,1,0.968
+2718,Bachelors,2,78.85,1,7.6,Male,22,Group_B,81.63,2,1,0.972
+2719,Bachelors,14,64.08,1,7.1,Male,31,Group_A,71.56,3,1,0.925
+2720,Masters,13,71.24,1,4.8,Male,32,Group_A,72.14,2,1,0.991
+2721,Masters,20,89.54,2,8.4,Male,48,Group_A,92.31,4,1,0.972
+2722,Bachelors,14,64.94,1,8.6,Male,44,Group_A,68.81,3,1,0.961
+2723,PhD,16,59.41,1,5.0,Female,41,Group_C,60.8,3,1,0.986
+2724,High School,17,84.82,2,7.8,Male,26,Group_D,88.16,5,1,0.967
+2725,High School,1,89.63,1,8.4,Female,34,Group_A,91.38,2,1,0.982
+2726,Bachelors,11,70.04,2,5.5,Male,31,Group_A,72.4,3,1,0.976
+2727,Bachelors,15,80.11,1,5.4,Male,57,Group_D,98.55,3,1,0.816
+2728,Bachelors,3,83.41,1,8.1,Male,37,Group_C,91.08,3,1,0.923
+2729,Bachelors,1,62.58,3,6.4,Male,28,Group_D,66.26,1,1,0.963
+2730,Bachelors,13,65.15,1,6.5,Male,53,Group_B,66.19,3,1,0.99
+2731,Masters,10,82.31,3,8.1,Male,46,Group_B,81.95,4,1,0.996
+2732,Bachelors,12,86.85,1,8.7,Male,47,Group_D,88.42,5,1,0.984
+2733,PhD,6,75.63,2,8.8,Female,57,Group_B,77.09,2,1,0.985
+2734,Masters,9,61.2,0,5.9,Male,49,Group_C,54.01,4,1,0.928
+2735,Bachelors,0,89.87,1,8.3,Female,33,Group_C,82.02,2,1,0.921
+2736,Bachelors,20,64.69,2,6.1,Male,47,Group_C,63.72,4,1,0.99
+2737,Bachelors,3,66.65,1,7.4,Female,25,Group_D,67.68,4,1,0.99
+2738,Masters,17,73.42,0,9.0,Male,44,Group_A,76.33,5,1,0.971
+2739,High School,5,85.54,2,7.8,Male,45,Group_A,97.79,4,1,0.878
+2740,Bachelors,1,78.54,2,8.0,Other,52,Group_A,73.58,2,1,0.95
+2741,PhD,2,74.15,3,7.8,Male,51,Group_D,73.27,3,1,0.991
+2742,Bachelors,13,74.63,1,6.3,Female,24,Group_A,83.67,4,1,0.91
+2743,Bachelors,7,70.44,1,7.1,Female,37,Group_A,72.87,3,1,0.976
+2744,Bachelors,15,75.58,2,5.8,Male,55,Group_D,82.19,3,1,0.934
+2745,Masters,18,44.7,2,2.3,Female,59,Group_B,54.96,3,1,0.897
+2746,Masters,17,67.03,2,7.1,Female,49,Group_C,63.56,3,1,0.965
+2747,Bachelors,5,72.41,2,6.8,Female,28,Group_B,71.92,2,1,0.995
+2748,Bachelors,13,58.49,2,6.1,Female,29,Group_A,59.62,3,1,0.989
+2749,Masters,2,73.86,2,7.4,Male,28,Group_A,68.29,3,1,0.944
+2750,Masters,15,67.96,1,5.6,Male,58,Group_B,68.94,4,1,0.99
+2751,Masters,0,87.55,1,8.7,Female,28,Group_A,93.36,2,1,0.942
+2752,Bachelors,11,85.73,0,7.1,Male,39,Group_B,91.77,4,1,0.94
+2753,PhD,13,65.34,3,8.2,Male,42,Group_B,70.19,4,1,0.952
+2754,Bachelors,18,68.49,3,5.2,Male,55,Group_A,71.32,4,1,0.972
+2755,High School,18,69.26,0,6.7,Female,48,Group_B,65.98,4,1,0.967
+2756,Masters,8,65.48,2,5.3,Male,29,Group_C,74.53,3,1,0.91
+2757,Bachelors,6,71.95,2,7.9,Female,55,Group_D,69.46,3,1,0.975
+2758,Masters,13,62.42,3,5.8,Male,39,Group_B,66.57,2,1,0.959
+2759,High School,4,58.69,1,5.2,Male,33,Group_A,63.91,2,1,0.948
+2760,Masters,17,76.23,3,8.6,Female,43,Group_C,83.54,5,1,0.927
+2761,Bachelors,8,76.3,3,7.7,Female,43,Group_C,81.15,3,1,0.951
+2762,Masters,20,61.96,1,6.8,Male,29,Group_D,58.89,3,1,0.969
+2763,High School,6,78.95,3,6.7,Male,49,Group_B,75.01,4,1,0.961
+2764,Bachelors,8,63.68,0,4.7,Male,53,Group_B,69.7,3,1,0.94
+2765,Masters,3,72.53,3,7.4,Female,32,Group_D,72.21,3,1,0.997
+2766,Bachelors,16,78.2,1,7.4,Male,42,Group_B,78.67,5,1,0.995
+2767,Bachelors,11,69.66,3,7.7,Male,47,Group_A,79.12,2,1,0.905
+2768,Bachelors,5,74.55,1,7.4,Female,35,Group_B,75.48,3,1,0.991
+2769,Masters,17,64.84,1,6.7,Male,36,Group_A,69.49,5,1,0.954
+2770,Bachelors,7,68.04,3,4.9,Male,35,Group_C,75.34,2,1,0.927
+2771,Bachelors,20,67.94,2,9.1,Female,33,Group_B,66.07,2,1,0.981
+2772,Bachelors,14,62.53,1,6.1,Female,57,Group_A,71.4,4,1,0.911
+2773,PhD,2,68.23,0,7.7,Female,24,Group_C,64.29,2,1,0.961
+2774,Bachelors,1,54.51,4,4.4,Male,28,Group_B,60.33,1,1,0.942
+2775,High School,8,65.09,0,6.9,Female,22,Group_A,74.11,3,1,0.91
+2776,Masters,7,67.15,2,5.2,Female,46,Group_A,63.11,3,1,0.96
+2777,Masters,3,67.44,0,7.3,Male,52,Group_C,69.1,1,1,0.983
+2778,High School,1,67.59,1,6.3,Female,43,Group_B,73.3,4,1,0.943
+2779,PhD,13,69.38,1,7.0,Male,31,Group_C,77.96,4,1,0.914
+2780,Bachelors,1,74.79,1,8.3,Female,39,Group_A,76.79,1,1,0.98
+2781,Bachelors,1,78.75,3,6.4,Female,34,Group_A,76.81,3,1,0.981
+2782,Bachelors,6,63.5,3,5.5,Female,29,Group_C,68.28,3,1,0.952
+2783,Masters,11,57.97,2,6.3,Male,30,Group_B,66.36,4,1,0.916
+2784,Bachelors,5,59.58,1,8.5,Female,36,Group_A,55.66,2,1,0.961
+2785,Bachelors,17,65.13,1,6.3,Male,29,Group_D,61.9,4,1,0.968
+2786,High School,3,66.48,1,7.4,Female,54,Group_A,69.1,2,1,0.974
+2787,Masters,18,62.3,2,6.1,Female,56,Group_C,65.45,3,1,0.968
+2788,Bachelors,12,57.04,0,8.0,Male,40,Group_C,58.25,2,1,0.988
+2789,Bachelors,19,65.44,2,4.4,Male,51,Group_A,72.32,2,1,0.931
+2790,Bachelors,20,71.81,0,7.3,Female,30,Group_B,68.26,5,1,0.964
+2791,Masters,1,75.95,2,5.6,Male,40,Group_D,68.0,2,1,0.92
+2792,Masters,7,64.43,1,3.4,Female,47,Group_B,62.31,1,1,0.979
+2793,Bachelors,18,65.87,2,6.9,Male,22,Group_B,69.1,4,1,0.968
+2794,Masters,8,60.73,2,6.2,Female,24,Group_B,59.35,4,1,0.986
+2795,Bachelors,3,69.69,0,6.6,Male,55,Group_C,67.07,1,1,0.974
+2796,Masters,15,61.52,3,6.0,Female,46,Group_D,52.44,3,1,0.909
+2797,High School,18,75.73,1,10.0,Female,51,Group_C,73.16,4,1,0.974
+2798,Bachelors,9,52.14,2,4.9,Female,22,Group_C,56.63,1,1,0.955
+2799,PhD,5,66.4,1,7.3,Male,39,Group_A,77.18,2,1,0.892
+2800,PhD,15,73.01,3,6.5,Other,54,Group_C,78.95,4,1,0.941
+2801,Bachelors,9,71.84,2,7.5,Male,30,Group_A,71.89,3,1,1.0
+2802,Bachelors,12,96.93,0,9.4,Female,28,Group_C,91.16,3,1,0.942
+2803,High School,8,73.5,1,6.9,Female,51,Group_A,78.74,2,1,0.948
+2804,Masters,6,59.96,3,8.2,Male,34,Group_B,65.73,1,1,0.942
+2805,Bachelors,3,69.05,2,8.3,Male,38,Group_C,73.53,2,1,0.955
+2806,Bachelors,18,52.24,5,5.4,Male,34,Group_C,43.78,4,1,0.915
+2807,High School,3,69.19,4,4.2,Female,34,Group_D,64.86,4,1,0.957
+2808,PhD,18,61.67,0,5.7,Female,59,Group_A,64.39,4,1,0.973
+2809,Bachelors,18,79.15,1,10.0,Male,58,Group_A,87.19,5,1,0.92
+2810,Bachelors,11,64.5,2,6.2,Male,31,Group_D,71.72,2,1,0.928
+2811,Bachelors,12,68.83,0,8.2,Female,35,Group_A,70.6,2,1,0.982
+2812,Bachelors,3,63.64,2,8.1,Male,26,Group_C,67.6,4,1,0.96
+2813,Bachelors,9,87.39,1,9.0,Male,57,Group_D,91.1,3,1,0.963
+2814,PhD,20,66.79,0,5.7,Male,56,Group_D,73.35,5,1,0.934
+2815,Masters,6,88.33,2,5.9,Male,44,Group_B,91.71,3,1,0.966
+2816,Bachelors,4,78.14,2,8.6,Female,26,Group_B,78.47,4,1,0.997
+2817,Masters,16,74.82,4,6.5,Female,49,Group_B,73.48,5,1,0.987
+2818,Bachelors,17,73.69,1,7.6,Male,44,Group_A,80.12,4,1,0.936
+2819,Bachelors,10,73.94,2,5.9,Female,55,Group_A,78.12,4,1,0.958
+2820,PhD,14,50.72,0,4.8,Male,52,Group_C,54.59,4,1,0.961
+2821,Bachelors,20,67.21,1,6.8,Female,28,Group_A,71.89,4,1,0.953
+2822,Bachelors,6,78.45,2,8.2,Male,28,Group_B,88.51,4,1,0.899
+2823,PhD,17,69.51,1,5.6,Female,25,Group_B,70.84,3,1,0.987
+2824,High School,5,55.95,3,7.0,Male,53,Group_A,56.46,2,1,0.995
+2825,Masters,17,69.48,1,6.2,Male,49,Group_A,77.48,4,1,0.92
+2826,PhD,15,87.04,2,6.7,Female,25,Group_C,80.21,3,1,0.932
+2827,Bachelors,1,82.47,1,8.1,Male,29,Group_B,79.04,4,1,0.966
+2828,High School,18,69.38,0,7.0,Female,35,Group_C,71.06,4,1,0.983
+2829,Bachelors,0,79.51,2,8.1,Female,51,Group_A,83.12,5,1,0.964
+2830,High School,10,66.33,2,8.3,Female,24,Group_A,61.21,5,1,0.949
+2831,Bachelors,19,52.96,1,5.0,Male,23,Group_A,55.01,3,1,0.98
+2832,Masters,4,60.76,0,5.9,Male,31,Group_A,62.74,4,1,0.98
+2833,Bachelors,15,85.63,2,7.2,Female,27,Group_A,84.65,5,1,0.99
+2834,Bachelors,0,67.26,2,7.7,Male,28,Group_C,74.05,2,1,0.932
+2835,Bachelors,18,67.57,1,7.0,Female,37,Group_A,72.29,2,1,0.953
+2836,Bachelors,13,67.0,1,6.2,Female,27,Group_A,68.34,2,1,0.987
+2837,Masters,2,89.04,4,6.6,Male,37,Group_A,90.07,3,1,0.99
+2838,Bachelors,1,86.26,0,10.0,Female,48,Group_C,79.51,2,1,0.932
+2839,Masters,4,92.19,1,7.7,Male,33,Group_B,100.0,3,1,0.922
+2840,Bachelors,16,68.41,0,6.1,Male,43,Group_B,73.16,5,1,0.952
+2841,Bachelors,17,72.96,2,7.7,Female,36,Group_C,69.42,5,1,0.965
+2842,Bachelors,0,54.83,3,4.0,Male,43,Group_B,61.17,1,1,0.937
+2843,Bachelors,14,84.77,3,6.7,Male,56,Group_A,87.95,5,1,0.968
+2844,Bachelors,8,58.32,2,3.3,Female,36,Group_C,56.89,2,1,0.986
+2845,Bachelors,4,72.17,2,8.1,Female,44,Group_B,74.34,2,1,0.978
+2846,PhD,12,59.03,1,5.2,Male,59,Group_B,57.06,3,1,0.98
+2847,Bachelors,18,64.11,5,9.9,Female,23,Group_C,62.39,3,1,0.983
+2848,PhD,9,61.63,0,5.0,Male,23,Group_A,66.34,2,1,0.953
+2849,High School,19,63.92,2,5.3,Female,40,Group_A,62.89,5,1,0.99
+2850,Bachelors,20,64.61,2,5.8,Female,26,Group_D,67.95,4,1,0.967
+2851,High School,13,64.52,0,6.7,Male,25,Group_B,75.41,3,1,0.891
+2852,Bachelors,20,78.33,1,7.3,Male,49,Group_A,79.64,3,1,0.987
+2853,Masters,11,58.95,4,6.6,Female,39,Group_C,50.63,2,1,0.917
+2854,High School,10,72.21,1,6.0,Female,52,Group_A,64.98,5,1,0.928
+2855,Bachelors,6,82.18,3,6.6,Male,43,Group_A,84.85,4,1,0.973
+2856,High School,16,64.87,1,4.3,Male,32,Group_A,67.81,5,1,0.971
+2857,Bachelors,17,62.82,2,3.6,Male,37,Group_C,67.01,4,1,0.958
+2858,Masters,6,67.69,1,6.1,Male,25,Group_A,71.58,2,1,0.961
+2859,Bachelors,19,81.8,3,7.8,Female,42,Group_C,73.78,5,1,0.92
+2860,Masters,5,71.94,2,6.4,Male,46,Group_A,67.91,4,1,0.96
+2861,Bachelors,10,64.69,3,8.0,Female,41,Group_B,66.17,3,1,0.985
+2862,PhD,11,74.84,2,9.0,Female,29,Group_A,77.81,3,1,0.97
+2863,Masters,15,58.98,1,5.5,Female,30,Group_A,57.98,2,1,0.99
+2864,Bachelors,18,76.81,4,5.5,Male,39,Group_C,70.62,4,1,0.938
+2865,Bachelors,18,74.09,0,6.7,Female,52,Group_B,76.44,5,1,0.976
+2866,PhD,10,66.92,3,6.0,Female,56,Group_B,73.28,3,1,0.936
+2867,Bachelors,15,61.61,2,5.4,Male,51,Group_A,66.57,4,1,0.95
+2868,Masters,11,61.13,2,5.3,Male,39,Group_C,59.02,5,1,0.979
+2869,Bachelors,7,75.35,2,6.8,Female,40,Group_A,78.47,3,1,0.969
+2870,Bachelors,2,82.29,0,7.8,Male,45,Group_C,78.59,3,1,0.963
+2871,Masters,1,63.63,3,5.6,Female,43,Group_C,68.92,2,1,0.947
+2872,Bachelors,5,74.58,2,7.7,Female,35,Group_A,76.09,2,1,0.985
+2873,Bachelors,15,49.13,1,5.3,Male,40,Group_A,43.26,2,1,0.941
+2874,Bachelors,19,64.15,3,5.3,Male,50,Group_C,65.45,3,1,0.987
+2875,Bachelors,14,69.69,2,8.5,Male,43,Group_A,78.28,3,1,0.914
+2876,Masters,13,60.9,0,4.9,Male,51,Group_C,61.64,4,1,0.993
+2877,PhD,1,60.63,0,4.1,Female,36,Group_A,60.34,2,1,0.997
+2878,Masters,19,63.32,4,6.8,Male,42,Group_B,60.5,5,1,0.972
+2879,Bachelors,17,72.92,4,6.3,Male,47,Group_A,80.96,4,1,0.92
+2880,Bachelors,13,68.13,3,7.2,Male,57,Group_A,70.44,3,1,0.977
+2881,Masters,17,47.62,0,1.9,Female,33,Group_A,39.73,4,1,0.921
+2882,Bachelors,1,48.79,3,6.6,Male,28,Group_A,52.31,1,1,0.965
+2883,Bachelors,0,63.93,2,7.2,Female,32,Group_A,70.8,1,1,0.931
+2884,PhD,19,74.58,1,5.7,Female,41,Group_B,72.64,5,1,0.981
+2885,Bachelors,1,42.52,2,2.5,Male,56,Group_B,54.19,1,0,0.883
+2886,Bachelors,8,65.0,3,8.5,Male,25,Group_A,71.66,3,1,0.933
+2887,High School,8,64.74,2,5.6,Female,23,Group_A,68.98,3,1,0.958
+2888,High School,15,83.88,1,7.4,Female,41,Group_A,85.66,5,1,0.982
+2889,High School,10,66.15,2,3.9,Male,41,Group_C,68.67,4,1,0.975
+2890,PhD,5,73.83,3,7.0,Female,33,Group_B,72.51,3,1,0.987
+2891,Bachelors,11,71.41,2,6.9,Male,38,Group_D,71.82,4,1,0.996
+2892,Bachelors,2,48.69,1,5.7,Male,39,Group_A,56.65,1,1,0.92
+2893,Masters,11,77.68,2,6.1,Female,45,Group_A,75.78,3,1,0.981
+2894,Bachelors,0,72.15,3,5.4,Male,29,Group_A,73.0,3,1,0.992
+2895,Bachelors,8,75.08,1,8.0,Female,58,Group_A,71.84,3,1,0.968
+2896,Bachelors,19,100.0,0,10.0,Female,51,Group_D,100.0,5,1,1.0
+2897,Masters,5,49.16,2,3.0,Female,41,Group_B,51.81,1,1,0.973
+2898,High School,10,87.25,4,10.0,Male,44,Group_B,91.09,4,1,0.962
+2899,High School,2,67.13,0,6.8,Male,58,Group_A,65.96,3,1,0.988
+2900,High School,3,72.87,1,8.6,Male,31,Group_D,78.53,3,1,0.943
+2901,Bachelors,9,69.54,1,6.9,Male,54,Group_C,70.68,2,1,0.989
+2902,Bachelors,18,65.76,1,3.5,Male,45,Group_B,69.03,5,1,0.967
+2903,Masters,5,64.3,3,6.2,Female,57,Group_D,59.42,2,1,0.951
+2904,Bachelors,0,73.3,3,8.6,Male,37,Group_D,75.93,2,1,0.974
+2905,Masters,7,54.83,2,4.4,Female,49,Group_A,53.9,1,1,0.991
+2906,High School,7,77.51,0,7.3,Female,33,Group_A,75.5,3,1,0.98
+2907,High School,5,65.84,0,6.4,Female,41,Group_A,71.1,2,1,0.947
+2908,Bachelors,16,58.7,1,2.4,Female,39,Group_B,51.01,3,1,0.923
+2909,PhD,18,65.5,3,8.6,Male,58,Group_A,72.43,4,1,0.931
+2910,Masters,0,82.57,1,7.2,Male,47,Group_C,88.65,3,1,0.939
+2911,PhD,14,64.65,2,7.1,Female,28,Group_B,60.25,4,1,0.956
+2912,Masters,12,73.58,0,7.3,Female,42,Group_C,69.48,2,1,0.959
+2913,Masters,20,62.69,1,7.8,Male,53,Group_B,63.15,4,1,0.995
+2914,Bachelors,2,77.58,2,8.2,Female,28,Group_C,78.99,3,1,0.986
+2915,Bachelors,1,76.86,1,7.4,Female,44,Group_B,76.09,2,1,0.992
+2916,High School,2,88.49,2,7.8,Male,41,Group_D,92.27,2,1,0.962
+2917,Bachelors,8,68.24,2,7.8,Male,41,Group_C,79.08,3,1,0.892
+2918,Bachelors,15,76.69,2,5.4,Female,53,Group_B,74.15,4,1,0.975
+2919,Bachelors,12,70.98,0,7.9,Male,47,Group_B,65.39,4,1,0.944
+2920,Bachelors,18,82.96,3,7.0,Male,57,Group_D,88.84,4,1,0.941
+2921,High School,17,62.81,1,7.8,Male,45,Group_A,75.36,2,1,0.874
+2922,Bachelors,20,77.45,1,7.9,Female,22,Group_C,79.41,4,1,0.98
+2923,High School,11,68.05,3,7.6,Female,49,Group_B,62.61,2,1,0.946
+2924,PhD,11,69.36,3,7.0,Male,47,Group_C,72.06,5,1,0.973
+2925,High School,0,70.92,1,5.0,Male,55,Group_D,67.91,2,1,0.97
+2926,Bachelors,19,72.52,1,6.2,Male,47,Group_B,78.48,5,1,0.94
+2927,Masters,7,68.84,1,7.7,Male,57,Group_B,64.49,3,1,0.956
+2928,Bachelors,16,72.15,1,7.4,Male,26,Group_A,75.12,4,1,0.97
+2929,High School,20,85.78,2,10.0,Male,23,Group_A,85.15,4,1,0.994
+2930,Bachelors,19,79.85,2,8.5,Male,53,Group_C,83.17,4,1,0.967
+2931,High School,6,78.69,4,6.7,Female,55,Group_A,78.21,1,1,0.995
+2932,Bachelors,8,65.44,1,5.6,Male,51,Group_B,68.77,3,1,0.967
+2933,High School,16,61.11,4,6.2,Male,45,Group_A,65.14,4,1,0.96
+2934,Bachelors,9,79.55,3,5.2,Male,49,Group_A,78.91,3,1,0.994
+2935,Masters,3,78.76,0,9.9,Female,24,Group_C,81.89,3,1,0.969
+2936,Bachelors,6,84.73,1,9.0,Male,31,Group_A,88.99,2,1,0.957
+2937,Bachelors,6,63.96,2,7.9,Female,27,Group_C,59.02,2,1,0.951
+2938,Bachelors,7,67.7,4,4.9,Female,55,Group_A,81.04,2,1,0.867
+2939,Bachelors,7,53.61,4,6.9,Female,52,Group_A,58.0,3,1,0.956
+2940,Masters,15,66.08,0,9.3,Female,34,Group_A,66.9,4,1,0.992
+2941,High School,11,79.97,3,6.4,Male,41,Group_A,90.09,3,1,0.899
+2942,Masters,14,65.34,2,7.5,Male,53,Group_B,77.72,3,1,0.876
+2943,Bachelors,7,76.4,2,7.6,Female,31,Group_A,78.46,2,1,0.979
+2944,Masters,8,68.09,2,5.0,Male,47,Group_B,71.97,3,1,0.961
+2945,Bachelors,2,73.24,2,7.9,Male,40,Group_A,72.79,3,1,0.996
+2946,Bachelors,20,58.52,2,6.9,Female,50,Group_A,60.1,3,1,0.984
+2947,Masters,15,70.85,1,6.4,Female,34,Group_C,69.86,4,1,0.99
+2948,Masters,14,40.09,1,5.4,Female,55,Group_C,41.01,2,1,0.991
+2949,Bachelors,3,68.13,2,4.8,Female,41,Group_B,69.79,1,1,0.983
+2950,PhD,19,53.7,0,3.6,Female,39,Group_A,57.53,5,1,0.962
+2951,High School,15,82.06,2,8.4,Female,55,Group_B,83.25,5,1,0.988
+2952,High School,9,77.77,4,7.8,Male,29,Group_C,74.98,3,1,0.972
+2953,Bachelors,10,74.67,1,6.6,Other,37,Group_B,69.97,3,1,0.953
+2954,Masters,4,85.21,2,9.5,Male,44,Group_A,85.84,1,1,0.994
+2955,PhD,10,60.51,1,6.7,Female,53,Group_B,59.1,2,1,0.986
+2956,Bachelors,12,87.47,3,9.8,Male,34,Group_D,96.16,3,1,0.913
+2957,High School,14,79.32,1,7.8,Male,47,Group_B,76.72,4,1,0.974
+2958,Bachelors,5,67.63,0,7.5,Female,59,Group_B,65.85,2,1,0.982
+2959,Bachelors,15,81.36,1,7.6,Male,22,Group_A,91.17,4,1,0.902
+2960,Bachelors,14,58.94,3,8.4,Female,23,Group_B,57.44,4,1,0.985
+2961,Bachelors,10,61.75,5,5.2,Female,34,Group_A,66.83,3,1,0.949
+2962,High School,19,63.91,3,8.9,Female,48,Group_A,64.5,3,1,0.994
+2963,Bachelors,1,64.71,2,6.5,Male,25,Group_C,68.85,2,1,0.959
+2964,Bachelors,1,59.43,4,4.3,Male,41,Group_A,64.53,2,1,0.949
+2965,Masters,11,82.23,3,9.9,Female,24,Group_D,85.57,3,1,0.967
+2966,Bachelors,15,67.41,3,6.9,Male,44,Group_A,65.2,2,1,0.978
+2967,High School,18,73.53,2,8.4,Male,23,Group_B,74.92,5,1,0.986
+2968,Bachelors,1,64.3,1,7.9,Male,37,Group_A,70.86,2,1,0.934
+2969,Bachelors,16,51.79,1,5.6,Female,31,Group_B,54.46,1,1,0.973
+2970,High School,13,72.7,2,6.6,Female,49,Group_D,80.17,5,1,0.925
+2971,Masters,15,50.88,5,6.3,Male,39,Group_A,54.1,3,1,0.968
+2972,PhD,4,69.31,1,6.9,Female,23,Group_D,76.71,4,1,0.926
+2973,Masters,9,56.32,2,6.5,Female,35,Group_B,53.02,3,1,0.967
+2974,Bachelors,16,89.87,1,6.4,Female,41,Group_C,96.52,4,1,0.934
+2975,Bachelors,12,79.11,1,8.4,Male,44,Group_A,88.55,4,1,0.906
+2976,Bachelors,15,71.06,3,6.3,Female,28,Group_C,66.49,3,1,0.954
+2977,PhD,8,82.64,4,10.0,Male,35,Group_A,89.2,3,1,0.934
+2978,PhD,3,61.54,1,6.9,Female,58,Group_D,61.28,4,1,0.997
+2979,Bachelors,15,75.43,0,7.8,Female,29,Group_C,78.56,3,1,0.969
+2980,Bachelors,10,72.0,2,7.8,Female,26,Group_B,70.88,4,1,0.989
+2981,Masters,6,72.64,3,6.1,Male,44,Group_D,74.43,2,1,0.982
+2982,High School,16,82.72,1,10.0,Female,31,Group_A,91.31,4,1,0.914
+2983,Masters,12,77.32,0,10.0,Male,48,Group_D,79.17,5,1,0.981
+2984,Masters,3,72.89,2,7.8,Male,56,Group_C,78.57,3,1,0.943
+2985,High School,13,53.45,2,7.3,Female,22,Group_A,54.49,4,1,0.99
+2986,PhD,9,60.4,1,5.4,Female,28,Group_B,68.73,3,1,0.917
+2987,PhD,9,68.77,4,5.9,Male,29,Group_C,67.11,5,1,0.983
+2988,PhD,9,70.93,1,7.1,Male,32,Group_B,71.3,2,1,0.996
+2989,Bachelors,11,58.7,2,6.4,Male,55,Group_B,69.57,2,1,0.891
+2990,Bachelors,1,94.12,0,8.9,Female,49,Group_A,93.35,4,1,0.992
+2991,Bachelors,8,85.16,4,9.2,Female,55,Group_A,94.72,3,1,0.904
+2992,Bachelors,4,76.02,3,8.0,Female,41,Group_D,80.48,3,1,0.955
+2993,Bachelors,7,70.72,1,5.9,Male,49,Group_A,75.26,4,1,0.955
+2994,Bachelors,20,67.88,3,7.4,Other,58,Group_D,58.81,4,1,0.909
+2995,Masters,13,60.48,0,7.1,Female,24,Group_A,62.97,5,1,0.975
+2996,High School,6,70.77,0,7.3,Female,30,Group_B,71.28,3,1,0.995
+2997,Bachelors,6,72.58,3,8.6,Female,43,Group_A,80.44,2,1,0.921
+2998,High School,8,57.58,0,4.3,Other,46,Group_D,65.52,1,1,0.921
+2999,Masters,2,73.34,1,7.9,Female,23,Group_A,71.75,3,1,0.984
+3000,Bachelors,13,68.45,4,5.4,Male,44,Group_B,75.87,2,1,0.926
